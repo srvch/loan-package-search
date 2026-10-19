@@ -1,0 +1,92 @@
+Merged Credit Report · continued                                                            Confidential — for the exclusive use of the requesting subscriber
+
+CREDIT                ACCOUNT                                                               PAST
+                              ECOA            WHOSE      TERMS     MOP           REPORTED        30 60 90 MR SOURCE                     REMARKS
+GRANTOR               NUMBER                                                                 DUE
+                                                                                                                         EFX, XPN,
+XYZ BANK VISA ****4037             INDIVIDUAL Co-Borrower REV      CURRENT-      11-24      $0.00 00 00 00 26                      CREDIT CARD
+                                                                                                                         TUC
+ABC RETAIL                                                                                                               EFX, XPN,
+                      ****4074     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 28                      CREDIT CARD
+CARD                                                                                                                     TUC
+                                                                                                                         EFX, XPN,
+XYZ AUTO FIN          ****4111     INDIVIDUAL Co-Borrower 72 MOS   CURRENT-      11-24      $0.00 00 00 00 30                      AUTO LOAN
+                                                                                                                         TUC
+                                                                                                                                   STUDENT
+ABC STUDENT                                                                                                              EFX, XPN,
+                      ****4148     INDIVIDUAL Borrower   120 MOS CURRENT-        11-24      $0.00 00 00 00 32                      LOAN; FIXED
+LN                                                                                                                       TUC
+                                                                                                                                   RATE
+XYZ BANK                                                                                                                 EFX, XPN, INSTALLMENT
+                      ****4185     INDIVIDUAL Co-Borrower 60 MOS   CURRENT-      11-24      $0.00 00 00 00 34
+LOAN                                                                                                                     TUC       LOAN
+ABC TRAVEL                                                                                                               EFX, XPN,
+                      ****4222     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 36                      CREDIT CARD
+CARD                                                                                                                     TUC
+XYZ STORE                                                                                                                EFX, XPN,
+                      ****4259     INDIVIDUAL Co-Borrower REV      CURRENT-      11-24      $0.00 00 00 00 38                      CREDIT CARD
+CARD                                                                                                                     TUC
+ABC HOME                                                                                                                 EFX, XPN,
+                      ****4296     INDIVIDUAL Borrower   REV       CURRENT-      10-24      $0.00 00 00 00 40                      CREDIT CARD
+CARD                                                                                                                     TUC
+XYZ REWARDS                                                                                                              EFX, XPN,
+            ****4333               INDIVIDUAL Co-Borrower REV      CURRENT-      10-24      $0.00 00 00 00 42                      CREDIT CARD
+CARD                                                                                                                     TUC
+ABC CREDIT                                                                                                               EFX, XPN, INSTALLMENT
+                      ****4370     INDIVIDUAL Borrower   60 MOS    CURRENT-      10-24      $0.00 00 00 00 44
+UNION                                                                                                                    TUC       LOAN
+XYZ BANK                                                                                                                 EFX, XPN,
+                      ****4407     INDIVIDUAL Co-Borrower REV      CURRENT-      10-24      $0.00 00 00 00 46                      CREDIT CARD
+CARD                                                                                                                     TUC
+ABC BANK                                                                                                                 EFX, XPN,
+                      ****4444     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 48                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+XYZ BANK VISA                                                                                                            EFX, XPN,
+              ****4481             INDIVIDUAL Co-Borrower REV      CURRENT-      11-24      $0.00 00 00 00 50                      CREDIT CARD
+2                                                                                                                        TUC
+ABC RETAIL                                                                                                               EFX, XPN,
+                      ****4518     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 52                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+                                                                                                                         EFX, XPN,
+XYZ AUTO FIN 2 ****4555            INDIVIDUAL Co-Borrower 72 MOS   CURRENT-      11-24      $0.00 00 00 00 54                      AUTO LOAN
+                                                                                                                         TUC
+                                                                                                                                   STUDENT
+ABC STUDENT                                                                                                              EFX, XPN,
+                      ****4592     INDIVIDUAL Borrower   120 MOS CURRENT-        11-24      $0.00 00 00 00 56                      LOAN; FIXED
+LN 2                                                                                                                     TUC
+                                                                                                                                   RATE
+XYZ BANK                                                                                                                 EFX, XPN, INSTALLMENT
+                      ****4629     INDIVIDUAL Co-Borrower 60 MOS   CURRENT-      11-24      $0.00 00 00 00 58
+LOAN 2                                                                                                                   TUC       LOAN
+ABC TRAVEL                                                                                                               EFX, XPN,
+                      ****4666     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 60                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+XYZ STORE                                                                                                                EFX, XPN,
+                      ****4703     INDIVIDUAL Co-Borrower REV      CURRENT-      11-24      $0.00 00 00 00 62                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+ABC HOME                                                                                                                 EFX, XPN,
+                      ****4740     INDIVIDUAL Borrower   REV       CURRENT-      10-24      $0.00 00 00 00 64                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+XYZ REWARDS                                                                                                              EFX, XPN,
+            ****4777               INDIVIDUAL Co-Borrower REV      CURRENT-      10-24      $0.00 00 00 00 66                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+ABC CREDIT                                                                                                               EFX, XPN, INSTALLMENT
+                      ****4814     INDIVIDUAL Borrower   60 MOS    CURRENT-      10-24      $0.00 00 00 00 68
+UNION 2                                                                                                                  TUC       LOAN
+XYZ BANK                                                                                                                 EFX, XPN,
+                      ****4851     INDIVIDUAL Co-Borrower REV      CURRENT-      10-24      $0.00 00 00 00 70                      CREDIT CARD
+CARD 2                                                                                                                   TUC
+ABC BANK                                                                                                                 EFX, XPN,
+                      ****4888     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 72                      CREDIT CARD
+CARD 3                                                                                                                   TUC
+XYZ BANK VISA                                                                                                            EFX, XPN,
+              ****4925             INDIVIDUAL Co-Borrower REV      CURRENT-      11-24      $0.00 00 00 00 74                      CREDIT CARD
+3                                                                                                                        TUC
+ABC RETAIL                                                                                                               EFX, XPN,
+                      ****4962     INDIVIDUAL Borrower   REV       CURRENT-      11-24      $0.00 00 00 00 76                      CREDIT CARD
+CARD 3                                                                                                                   TUC
+
+
+
+
+Ref # 123456789 · DOE, JOHN                                        Page 3 of 5                                                        ABC Credit Services

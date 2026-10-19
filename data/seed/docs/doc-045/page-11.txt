@@ -1,0 +1,40 @@
+Comparable Photo Page
+Borrower John Doe                                Property Address 456 XYZ Avenue
+City XYZ City                        County XYZ County                       State NY              Zip Code 12345
+Lender/Client ABC Mortgage Company                                           File # 1234567890
+
+
+                                                                                                                        Comparable 1
+                                                                      Address                    460 XYZ Avenue, XYZ City, NY 12345
+                                                                      Prox. to Subject           0.12 miles NE
+                                                                      Sales Price                $612,500.00
+                                                                      Gross Living Area          2,360 sq.ft.
+                                                                      Date of Sale               09/30/2024
+                                                                      Data Source(s)             MLS #1234567; XYZ County public records
+
+
+
+
+                                                                                                                        Comparable 2
+                                                                      Address                    515 ABC Street, XYZ City, NY 12345
+                                                                      Prox. to Subject           0.28 miles SW
+                                                                      Sales Price                $634,000.00
+                                                                      Gross Living Area          2,520 sq.ft.
+                                                                      Date of Sale               09/05/2024
+                                                                      Data Source(s)             MLS #1234567; XYZ County public records
+
+
+
+
+                                                                                                                        Comparable 3
+                                                                      Address                    602 XYZ Court, XYZ City, NY 12345
+                                                                      Prox. to Subject           0.41 miles NW
+                                                                      Sales Price                $607,000.00
+                                                                      Gross Living Area          2,300 sq.ft.
+                                                                      Date of Sale               08/11/2024
+                                                                      Data Source(s)             MLS #1234567; XYZ County public records
+
+
+
+
+Freddie Mac Form 70 March 2005                UAD Version 9/2011   Page 11 of 12                             Fannie Mae Form 1004 March 2005

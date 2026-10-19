@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Loan Package Search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Loan Package Search</h1>
+    <form id="search-form">
+      <input id="query" type="text" placeholder='e.g. "cash to close" AND sign* NOT escrow' autocomplete="off" />
+      <button type="submit">Search</button>
+    </form>
+    <div id="timings"></div>
+  </header>
+
+  <main>
+    <aside id="tree-pane">
+      <h2>Loan Package</h2>
+      <div id="tree"></div>
+    </aside>
+
+    <section id="results-pane">
+      <div id="results"></div>
+      <div id="pagination"></div>
+    </section>
+
+    <section id="viewer-pane">
+      <h2>Page Viewer</h2>
+      <div id="viewer">Select a result to view its page.</div>
+      <div id="viewer-nav"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

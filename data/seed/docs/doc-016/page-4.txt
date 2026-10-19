@@ -1,0 +1,58 @@
+Date                     Description                                                                                       Withdrawals                 Deposits                   Balance
+ 03/30/2024               POS PURCHASE XYZ CAFE                                                                                       59.55                                      34,750.29
+ 03/31/2024               DEBIT CARD PURCHASE XYZ THEATER                                                                           139.13                                        34,611.16
+ 03/31/2024               INTEREST PAYMENT                                                                                                                     2.00              34,613.16
+ 03/31/2024               POS PURCHASE ABC FUEL 118                                                                                   88.08                                      34,525.08
+                          Totals                                                                                                  9,898.28              10,657.75                34,525.08
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+  DAILY ENDING BALANCE                                           Ledger balance at the close of each day on which an item posted
+
+ Date                        Amount      Date                       Amount      Date                         Amount           Balance history for this period
+ 03/01                    33,457.33      03/02                   40,478.61      03/03                     40,196.35
+ 03/04                    39,940.61      03/05                   39,554.25      03/06                     39,177.41
+ 03/07                    38,818.58      03/08                   38,342.14      03/09                     37,850.84
+ 03/11                    37,614.12      03/12                   37,325.40      03/13                     37,676.79
+ 03/14                    37,043.20      03/15                   36,816.00      03/16                     36,504.71
+ 03/18                    35,916.68      03/19                   35,549.95      03/20                     35,392.81           Trend of the ledger balance over the statement period. Amounts
+                                                                                                                              as listed at left.
+ 03/21                    35,070.21      03/22                    37,118.39     03/23                     37,058.95
+ 03/24                    36,912.82      03/25                   36,517.46      03/26                     36,201.67
+ 03/27                    35,649.66      03/28                   35,402.93      03/29                     35,194.87
+ 03/30                    34,750.29      03/31                   34,525.08
+
+
+ INFORMATION ABOUT YOUR ACCOUNT                                    Change of address, check copies, deposit agreement and balance computation
+
+Change of address — please call us at the telephone number listed on the front of this           documents. Those documents are part of the contract for your deposit account and govern
+statement, or write to us at the address shown there, to tell us about a change of address.      all transactions relating to your account, including all deposits and withdrawals.
+Do not send a change of address with a deposit.
+                                                                                                 Account balance computation method — the balance shown for each day is the ledger
+Check copies — you can view and print copies of your paid checks through Online Banking          balance at the close of that business day. Deposits and other credits may not be available
+for up to 12 months. You can also request a copy of, or more information about, a check or       for immediate withdrawal; refer to the funds availability policy in your deposit account
+other item by calling the Service Center number on the front of this statement.                  agreement. Interest, where applicable, is computed by applying a daily periodic rate to the
+                                                                                                 collected balance in the account each day.
+Deposit agreement — when you opened your account you received a deposit agreement
+and fee schedule, and agreed that your account would be governed by the terms of those
+
+
+
+ IN CASE OF ERRORS OR QUESTIONS                                 About your electronic funds transfers
+
+Telephone us at 1-800-555-0199 or write to us at P.O. Box 1234, XYZ City, NY 12345 as soon as you can if you think your statement or receipt is wrong, or if you need more information
+about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared.
+ 1. Tell us your name and account number.
+ 2. Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.
+ 3. Tell us the dollar amount of the suspected error.
+We will investigate your complaint and will correct any error promptly. If we take more than 10 business days to do this, we will credit your account for the amount you think is in error, so
+that you will have use of the money during the time it takes us to complete our investigation.
+
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                                                       DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                  Page 4 of 4

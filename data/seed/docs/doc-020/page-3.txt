@@ -1,0 +1,53 @@
+Date                 Description                          Withdrawals   Deposits            Balance
+ 09/08/2024           POS PURCHASE ABC HARDWARE                 129.06                     57,784.98
+ 09/08/2024           POS PURCHASE ABC MARKET                   175.53                     57,609.45
+ 09/09/2024           POS PURCHASE ABC COFFEE                   175.53                     57,433.92
+ 09/09/2024           POS PURCHASE ABC FUEL 118                 131.33                     57,302.59
+ 09/09/2024           POS PURCHASE ABC MARKET                   148.33                     57,154.26
+ 09/10/2024           DEBIT CARD PURCHASE XYZ SPORTS             40.67                      57,113.59
+ 09/10/2024           POS PURCHASE ABC CLEANERS                  89.40                     57,024.19
+ 09/10/2024           POS PURCHASE ABC FUEL 118                 160.80                     56,863.39
+ 09/11/2024           DEBIT CARD PURCHASE XYZ BOOKS             169.86                     56,693.53
+ 09/11/2024           DEBIT CARD PURCHASE XYZ BOOKS             137.00                     56,556.53
+ 09/12/2024           DEBIT CARD PURCHASE XYZ BOOKS              59.93                     56,496.60
+ 09/13/2024           DEBIT CARD PURCHASE XYZ SPORTS            147.20                     56,349.40
+ 09/13/2024           DEBIT CARD PURCHASE XYZ SPORTS            127.91                     56,221.49
+ 09/13/2024           POS PURCHASE ABC DELI                     150.60                     56,070.89
+ 09/14/2024           POS PURCHASE ABC GARDEN CENTER             96.20                     55,974.69
+ 09/14/2024           POS PURCHASE ABC HARDWARE                  42.93                     55,931.76
+ 09/15/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY         49.73                     55,882.03
+ 09/16/2024           DEBIT CARD PURCHASE XYZ BOOKS             112.06                     55,769.97
+ 09/16/2024           DEBIT CARD PURCHASE XYZ SPORTS            112.06                     55,657.91
+ 09/16/2024           POS PURCHASE ABC DELI                      96.20                     55,561.71
+ 09/16/2024           POS PURCHASE ABC GARDEN CENTER            132.46                     55,429.25
+ 09/16/2024           TRANSFER FROM CHECKING ****2222                    3,108.58          58,537.83
+ 09/17/2024           ACH DEBIT ABC UTILITIES                   229.72                      58,308.11
+ 09/17/2024           ACH DEBIT XYZ AUTO FINANCE                385.66                     57,922.45
+ 09/17/2024           DEBIT CARD PURCHASE XYZ THEATER            50.87                     57,871.58
+ 09/17/2024           POS PURCHASE ABC GARDEN CENTER            171.00                     57,700.58
+ 09/17/2024           POS PURCHASE ABC GARDEN CENTER             72.40                     57,628.18
+ 09/17/2024           POS PURCHASE ABC GARDEN CENTER             49.73                     57,578.45
+ 09/18/2024           MOBILE DEPOSIT                                     1,299.26          58,877.71
+ 09/19/2024           DEBIT CARD PURCHASE ABC GROCERS            73.53                     58,804.18
+ 09/19/2024           DEBIT CARD PURCHASE XYZ BAKERY             57.67                     58,746.51
+ 09/19/2024           POS PURCHASE ABC COFFEE                   132.46                     58,614.05
+ 09/19/2024           POS PURCHASE XYZ PHARMACY                 185.73                     58,428.32
+ 09/20/2024           DEBIT CARD PURCHASE XYZ SPORTS            158.53                     58,269.79
+ 09/20/2024           POS PURCHASE ABC GARDEN CENTER             93.93                     58,175.86
+ 09/21/2024           ATM WITHDRAWAL XYZ BANK PLAZA             100.00                     58,075.86
+ 09/21/2024           DEBIT CARD PURCHASE XYZ SPORTS            149.46                     57,926.40
+ 09/22/2024           POS PURCHASE ABC COFFEE                    96.20                     57,830.20
+ 09/22/2024           POS PURCHASE ABC MARKET                   186.86                     57,643.34
+ 09/22/2024           POS PURCHASE XYZ CAFE                     115.46                     57,527.88
+ 09/23/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY        150.60                     57,377.28
+ 09/23/2024           POS PURCHASE ABC MARKET                    55.40                     57,321.88
+ 09/24/2024           ACH DEBIT ABC INSURANCE                   167.60                     57,154.28
+ 09/24/2024           DEBIT CARD PURCHASE XYZ DINER              87.13                     57,067.15
+ 09/24/2024           DEBIT CARD PURCHASE XYZ DINER             143.80                     56,923.35
+ 09/24/2024           POS PURCHASE ABC CLEANERS                  95.06                     56,828.29
+ 09/25/2024           ACH CREDIT DIVIDEND PAYMENT                           71.74          56,900.03
+ 09/25/2024           ATM WITHDRAWAL XYZ BANK PLAZA             100.00                     56,800.03
+
+
+Member FDIC · Equal Housing Lender                                                  DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                               Page 3 of 5

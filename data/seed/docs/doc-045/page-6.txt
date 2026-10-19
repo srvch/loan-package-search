@@ -1,0 +1,46 @@
+APPRAISER                                                                             SUPERVISORY APPRAISER (ONLY IF REQUIRED)
+
+               Alan Appraiser
+                                                                                         Signature
+   Signature
+                                                                                         Name
+   Name        Alan Appraiser
+                                                                                         Company Name
+   Company Name            ABC Appraisal Services, Inc.
+                                                                                         Company Address
+   Company Address          700 ABC Court, XYZ City, NY 12345
+                                                                                         Telephone Number
+   Telephone Number          (555) 555-0150
+                                                                                         Email Address
+   Email Address      alan.appraiser@example.com
+                                                                                         Date of Signature
+   Date of Signature and Report      11/05/2024
+                                                                                         State Certification #
+   Effective Date of Appraisal     11/02/2024
+                                                                                         or State License #
+   State Certification #     AP-12345
+                                                                                         State
+   or State License #
+                                                                                         Expiration Date of Certification or License
+   State    NY
+                                                                                         SUBJECT PROPERTY
+   Expiration Date of Certification or License   12/31/2025
+                                                                                            Did not inspect subject property
+   ADDRESS OF PROPERTY APPRAISED                                                            Did inspect exterior of subject property from street
+
+      456 XYZ Avenue, XYZ City, NY 12345                                                     Date of Inspection
+                                                                                            Did inspect interior and exterior of subject property
+   APPRAISED VALUE OF SUBJECT PROPERTY                $620,000.00                            Date of Inspection
+
+   LENDER/CLIENT                                                                         COMPARABLE SALES
+                                                                                            Did not inspect exterior of comparable sales from street
+   Name        ABC Mortgage Company
+                                                                                            Did inspect exterior of comparable sales from street
+   Company Address          100 ABC Plaza, XYZ City, NY 12345                                Date of Inspection
+
+   Lender Loan #        1234567890
+
+
+
+
+Freddie Mac Form 70 March 2005                                      UAD Version 9/2011     Page 6 of 12                                                Fannie Mae Form 1004 March 2005

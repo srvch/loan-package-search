@@ -1,0 +1,110 @@
+ABC Appraisal Services, Inc.
+                                                                                    Uniform Residential Appraisal Report                                                               File # 1234567890
+ The purpose of this summary appraisal report is to provide the lender/client with an accurate, and adequately supported, opinion of the market value of the subject property.
+                Property Address 456 XYZ Avenue                                                                                   City XYZ City                                   State NY                      Zip Code 12345
+                Borrower John Doe                                                                      Owner of Public Record Sam Seller and Sue Seller                           County XYZ County
+                Legal Description LOT 1, BLOCK A, ABC SUBDIVISION
+                Assessor's Parcel # 12-3456-789                                                                  Tax Year 2023                                            R.E. Taxes $7,440.00
+                Neighborhood Name ABC Subdivision                                                                Map Reference 12-34                                      Census Tract 1234.00
+ SUBJECT
+
+
+
+
+                Occupant             Owner        Tenant       Vacant Special Assessments $0.00                                                       PUD HOA $0.00         per year       per month
+                Property Rights Appraised                 Fee Simple       Leasehold       Other (describe)
+                Assignment Type                Purchase Transaction         Refinance Transaction       Other (describe) Type Purchase Transaction
+                Lender/Client ABC Mortgage Company                                                               Address 100 ABC Plaza, XYZ City, NY 12345
+                Is the subject property currently offered for sale or has it been offered for sale in the twelve months prior to the effective date of this appraisal?                                                       Yes       No
+                Report data source(s) used, offering price(s), and date(s). The subject was listed for sale on 09/09/2024 at $620,000.00; data source(s): MLS #1234567 and XYZ County public
+                records; subject listed at the contract price; days on market 21.
+                I       did      did not analyze the contract for sale for the subject purchase transaction. Explain the results of the analysis of the contract for sale or why the analysis was not performed.
+                 The appraiser analyzed the executed purchase contract for the subject transaction. Type of sale: Arm’s length. Sales contract & addenda provided by lender; the terms
+                were corroborated by MLS and Broker/agent. The contract price is supported by the sales comparison approach and no seller concessions were reported. None. No
+ CONTRACT
+
+
+
+
+                financial assistance is paid by any party on behalf of the borrower.
+                Contract Price $620,000.00                  Date of Contract 09/30/2024              Is the property seller the owner of public record? Yes No Data Source(s) Title
+                                                                                                     Commitment
+                Is there any financial assistance (loan charges, sale concessions, gift or downpayment assistance, etc.) to be paid by any party on behalf of the borrower?                                                  Yes       No
+                If Yes, report the total dollar amount and describe the items to be paid. $0.00
+                Note: Race and the racial composition of the neighborhood are not appraisal factors.
+                        Neighborhood Characteristics                          One-Unit Housing Trends                                                              One-Unit Housing                        Present Land Use %
+                Location             Urban      Suburban           Rural             Property Values        Increasing       Stable      Declining                PRICE                 AGE          One-Unit                        90%
+                Built-Up         Over 75%          25-75%           Under 25%        Demand/Supply            Shortage      In Balance      Over Supply             $                    (yrs)       2-4 Unit                         2%
+ NEIGHBORHOOD
+
+
+
+
+                Growth           Rapid         Stable       Slow                     Marketing Time         Under 3 mths       3-6 mths                   Low           607,000                   9 Multi-Family                      1%
+                                                                                       Over 6 mths
+                Neighborhood Boundaries North: ABC Parkway; South: XYZ Boulevard; East: State Route 123; West: ABC                      634,000            34 Commercial
+                                                                                                                                                          High                          5%
+                Creek                                                                                                                   620,000            19 Other
+                                                                                                                                                          Pred.                         2%
+                Neighborhood Description ABC Subdivision is an established single-family residential subdivision of detached Colonial and Ranch dwellings of similar age on a curvilinear
+                street pattern in XYZ City, NY. Schools, shopping and employment centers are within normal commuting distance. No adverse influences were observed.
+                Market Conditions (including support for the above conclusions) Marketing times are under three months, supply and demand are in balance and sales concessions are typical
+                for the market. Paired sales indicate a modest upward movement in value levels over the twelve months preceding the effective date; a market-conditions adjustment was
+                applied to the closed sales below.
+                Dimensions 0.25 acres                                        Area 0.25 acres                                      Shape Rectangular                               View N;Res;
+                Specific Zoning Classification R-1 Single Family Residential                                                      Zoning Description One-unit residential
+                Zoning Compliance                Legal       Legal Nonconforming (Grandfathered Use)            No Zoning       Illegal (describe)
+                Is the highest and best use of subject property as improved (or as proposed per plans and specifications) the present use?                                                     Yes   No If No, describe.
+                                 Utilities Public Other (describe)                                                Public Other (describe)                               Off-site Improvements—Type Public Private
+                Electricity                                                                   Water                                                               Street Asphalt
+ SITE
+
+
+
+
+                                                                           Public    Other                                                       Public   Other                                                     Public         Private
+                Gas                                                        Public    Other    Sanitary Sewer                                     Public   Other   Alley None                                        Public         Private
+                FEMA Special Flood Hazard Area          Yes      No          FEMA Flood Zone X                                    FEMA Map # 12345C1234J                                    FEMA Map Date 09/29/2014
+                Are the utilities and off-site improvements typical for the market area?                                                                                                               Yes       No If No, describe.
+                Are there any adverse site conditions or external factors (easements, encroachments, environmental conditions, land uses, etc.)?                                                       Yes       No If Yes, describe.
+                    No adverse site conditions or external factors were observed.
+
+                                 General Description                                           Foundation                        EXTERIOR DESCRIPTION materials/condition                  INTERIOR              materials/condition
+
+                Units         One        One with Accessory Unit                Concrete Slab        Crawl Space                  Foundation Walls        Concrete/Good           Floors                        Carpet, Tile/Good
+                # of Stories 2                                                  Full Basement        Partial Basement             Exterior Walls          Brick, Siding/Good      Walls                         Drywall/Good
+
+                Type          Det.      Att.      S-Det./End Unit            Basement Area 0 sq.ft.                               Roof Surface            Comp. Shingle/Good      Trim/Finish                   Wood/Good
+
+                     Existing          Proposed          Under Const.        Basement Finish 0%                                   Gutters & Downspouts    Aluminum/Good           Bath Floor                    Tile/Good
+
+                Design (Style) Colonial                                                                                           Window Type             Insulated Vinyl/Good    Bath Wainscot                 Tile/Good
+                                                                                Outside Entry/Exit      Sump Pump
+                Year Built 2005                                                                                                   Storm Sash/Insulated    Insulated/Good          Car Storage                   Attached Garage/
+                                                                             Evidence of     Infestation
+                                                                                                                                                                                                                Good
+                Effective Age (Yrs) 10 yrs                                      Dampness        Settlement                        Screens                 Full/Good               Driveway Surface              Concrete/Good
+                Attic     None     Drop Stair              Stairs            Heating  FWA            HWBB        Radiant          Amenities   Fireplace(s) # 1                    Car Storage        None        Driveway
+ IMPROVEMENTS
+
+
+
+
+                    Floor    Scuttle                                         Fuel Gas                                               Woodstove(s) #                                  Garage
+                                                                                                                                    Patio/Deck     Porch     Fence        Pool      Carport         Att.     Det.      Built-in
+                                                                                                                                                                                  Driveway # of Cars 2; Surface Concrete;
+                                                                                                                                                                                  Garage # of Cars 2; Att.
+                     Finished          Heated                                Cooling    Central Air Conditioning                  Appliances  Refrigerator    Range/Oven          Dishwasher        Disposal        Microwave
+                                                                               Individual                                           Washer/Dryer    Other (describe)
+                Finished area above grade contains:                 8 Rooms 4 Bedrooms 2.1 Bath(s) 2,400 Square Feet of Gross Living Area Above Grade
+                Additional features (special energy efficient items, etc.). Insulated windows, programmable thermostat and an energy-efficient furnace and water heater; covered porch and rear
+                deck.
+                Describe the condition of the property (including needed repairs, deterioration, renovations, remodeling, etc.). The improvements are rated C3 and were well maintained. No deferred
+                maintenance, physical deficiencies or adverse conditions affecting livability, soundness or structural integrity were observed. No updating or remodeling was reported in
+                the fifteen years preceding the effective date.
+                Are there any physical deficiencies or adverse conditions that affect the livability, soundness, or structural integrity of the property?                                              Yes       No If Yes, describe.
+                Does the property generally conform to the neighborhood (functional utility, style, condition, use, construction, etc.)?                                                               Yes       No If No, describe.
+
+
+
+Freddie Mac Form 70 March 2005                                                                          UAD Version 9/2011            Page 1 of 12                                               Fannie Mae Form 1004 March 2005

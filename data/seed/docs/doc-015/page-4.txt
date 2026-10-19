@@ -1,0 +1,66 @@
+Date                     Description                                                                                       Withdrawals                 Deposits                   Balance
+ 10/27/2024               POS PURCHASE ABC FUEL 118                                                                                   93.39                                      47,749.43
+ 10/28/2024               ATM WITHDRAWAL ABC BANK BRANCH                                                                            120.00                                       47,629.43
+ 10/29/2024               DEBIT CARD PURCHASE XYZ THEATER                                                                           184.59                                       47,444.84
+ 10/29/2024               POS PURCHASE ABC GARDEN CENTER                                                                            150.99                                       47,293.85
+ 10/29/2024               POS PURCHASE XYZ CAFE                                                                                     147.39                                       47,146.46
+ 10/30/2024               ACH CREDIT EXPENSE REIMBURSEMENT                                                                                                  528.47               47,674.93
+ 10/30/2024               DEBIT CARD PURCHASE ABC GROCERS                                                                           180.99                                       47,493.94
+ 10/30/2024               DEBIT CARD PURCHASE XYZ PET SUPPLY                                                                        149.79                                       47,344.15
+ 10/30/2024               POS PURCHASE ABC DELI                                                                                     137.79                                       47,206.36
+ 10/31/2024               INTEREST PAYMENT                                                                                                                   20.00               47,226.36
+ 10/31/2024               POS PURCHASE ABC GARDEN CENTER                                                                              99.36                                      47,127.00
+ 10/31/2024               POS PURCHASE ABC HARDWARE                                                                                   56.20                                      47,070.80
+                          Totals                                                                                                  9,664.18              10,408.70                47,070.80
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+  DAILY ENDING BALANCE                                           Ledger balance at the close of each day on which an item posted
+
+ Date                        Amount      Date                       Amount      Date                         Amount           Balance history for this period
+ 10/01                    45,943.69      10/02                   52,058.26      10/03                     51,647.28
+ 10/04                    51,186.12      10/05                   51,017.34      10/06                     50,979.75
+ 10/07                    52,546.05      10/08                   52,258.47      10/09                     51,965.09
+ 10/10                    51,767.50      10/11                   52,061.70      10/12                     51,637.52
+ 10/13                    51,478.57      10/14                   51,190.99      10/15                     50,803.01
+ 10/16                    50,203.85      10/17                   50,922.41      10/18                     50,746.22           Trend of the ledger balance over the statement period. Amounts
+                                                                                                                              as listed at left.
+ 10/20                    49,893.08      10/21                   49,738.69      10/22                     49,417.51
+ 10/23                    49,237.72      10/24                    49,111.68     10/25                     48,818.10
+ 10/26                    47,874.94      10/27                   47,749.43      10/28                     47,629.43
+ 10/29                    47,146.46      10/30                   47,206.36      10/31                     47,070.80
+
+
+ INFORMATION ABOUT YOUR ACCOUNT                                    Change of address, check copies, deposit agreement and balance computation
+
+Change of address — please call us at the telephone number listed on the front of this           documents. Those documents are part of the contract for your deposit account and govern
+statement, or write to us at the address shown there, to tell us about a change of address.      all transactions relating to your account, including all deposits and withdrawals.
+Do not send a change of address with a deposit.
+                                                                                                 Account balance computation method — the balance shown for each day is the ledger
+Check copies — you can view and print copies of your paid checks through Online Banking          balance at the close of that business day. Deposits and other credits may not be available
+for up to 12 months. You can also request a copy of, or more information about, a check or       for immediate withdrawal; refer to the funds availability policy in your deposit account
+other item by calling the Service Center number on the front of this statement.                  agreement. Interest, where applicable, is computed by applying a daily periodic rate to the
+                                                                                                 collected balance in the account each day.
+Deposit agreement — when you opened your account you received a deposit agreement
+and fee schedule, and agreed that your account would be governed by the terms of those
+
+
+
+ IN CASE OF ERRORS OR QUESTIONS                                 About your electronic funds transfers
+
+Telephone us at 1-800-555-0199 or write to us at P.O. Box 1234, XYZ City, NY 12345 as soon as you can if you think your statement or receipt is wrong, or if you need more information
+about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared.
+ 1. Tell us your name and account number.
+ 2. Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.
+ 3. Tell us the dollar amount of the suspected error.
+We will investigate your complaint and will correct any error promptly. If we take more than 10 business days to do this, we will credit your account for the amount you think is in error, so
+that you will have use of the money during the time it takes us to complete our investigation.
+
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                                                       DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                  Page 4 of 4

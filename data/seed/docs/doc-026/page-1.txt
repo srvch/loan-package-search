@@ -1,0 +1,83 @@
+Sample Brokerage                                                                                                  Quarterly transaction statement
+                                                                                                                                    For the period ending March 31, 2024
+         Member FINRA and SIPC
+
+
+Client Services: 1-800-555-0199                                                                            View your statements online at www.samplebrokerage.example.com
+
+
+       Jane Doe                                                                                             Statement period                         01/01/2024 – 03/31/2024
+       R/O IRA SBTC AS CUSTODIAN
+                                                                                                            Account number                                               ****8888
+       123 ABC Street
+                                                                                                            Registration                   R/O IRA SBTC AS CUSTODIAN
+       XYZ City, NY 12345
+                                                                                                            Statement date                                            03/31/2024
+
+
+
+                                                                                                                                                       $87,746.45
+  Statement overview                                                                                                                Total value of all accounts as of 03/31/2024
+
+
+ Your accounts                                                                                                 Value on 01/01/2024                            Value on 03/31/2024
+
+ Personal retirement
+ Rollover IRA brokerage account—8888                                                                                   $68,389.67                                     $87,746.45
+
+ Total portfolio value                                                                                                 $68,389.67                                     $87,746.45
+
+
+Asset mix                                                                        Your account at a glance
+
+                                                                                 Beginning balance on 01/01/2024                                                        $68,389.67
+
+                                                                                 Ending balance on 03/31/2024                                                           $87,746.45
+
+                                                                                 Total securities market value                                                          $87,746.45
+
+                                                                                 Holdings in the account                                                                           14
+
+                                                                                 Transactions this period                                                                          12
+                                                                                 The ending balance reflects the settled cash movements posted to the account during the period
+                                                                                 together with the change in the market value of the securities held. The figures are itemized in the
+                                                                                 account overview that follows.
+
+
+
+
+  XYZRX             15.8%         $13,841    ABCSX            5.5%      $4,861
+  ABCMX             15.1%         $13,267    XYZIX            4.7%      $4,166
+  XYZBX             13.8%         $12,125    ABCFX            3.2%      $2,785
+  ABCDX             11.3%          $9,877    XYZDX            2.1%      $1,831
+  XYZEX              8.0%          $7,053    XYZFX            2.0%      $1,730
+  ABCEX              8.0%          $7,015    ABCTX            1.5%      $1,305
+  XYZVX              7.5%          $6,597    ABCRX            1.5%      $1,294
+Percentages are of total market value on 03/31/2024 and are rounded, so
+they may not add to 100%. The mix shown reflects the holdings listed in this
+statement and no other assets.
+
+
+What's inside this statement                                                     Contacting us
+
+Page 1          Statement overview                                               Online                                              www.samplebrokerage.example.com
+                Your accounts, asset mix, account at a glance
+                                                                                 Client Services                                                                  1-800-555-0199
+Page 2          Rollover IRA brokerage account—8888
+                Account overview, balances and holdings, account activity        Business hours                                 Business days, 8 a.m. to 8 p.m., Eastern time
+
+Last page       Important information about your statement                       Statements and tax forms                                             Available online at any time
+                Holdings and pricing, discrepancies, free credit balance, cost
+                basis
+
+
+
+  About this statement
+  This statement covers the period 01/01/2024 through 03/31/2024 for account ****8888, registered as R/O IRA SBTC AS CUSTODIAN. Review it promptly and
+  compare it with your trade confirmations.
+  Only transactions that settled on or before 03/31/2024 are included. A transaction placed near the end of the period may therefore appear on your next statement.
+  Retain this statement with your records; it is not a tax document.
+
+
+
+Quarterly transaction statement                                                                                                                                            Page 1 of 3

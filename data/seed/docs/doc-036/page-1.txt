@@ -1,0 +1,56 @@
+Credit Report
+        Borrower Name                       Credit Agency                  Credit Report ID
+                                                                                                Date
+        John Doe                            Equifax, Experian,             123456789            11/09/2024
+                                            TransUnion
+        Jane Doe                            Equifax, Experian,             123456789            11/09/2024
+                                            TransUnion
+
+
+Underwriting Analysis Report
+  SUMMARY
+  Recommendation            Approve/Eligible
+  Primary Borrower          John Doe                        Co-Borrower                Jane Doe
+  Lender Loan Number        1234567890                      Casefile ID                DU1234567890
+  Submission Date           11/11/2024                      Submitted By               ABC Mortgage
+                                                                                       Company
+
+  PROPERTY INFORMATION
+  Property Address          456 XYZ Avenue, XYZ
+                            City, NY 12345
+
+  MORTGAGE INFORMATION
+  Loan Type                 Conventional / Purchase LTV/CLTV              80.000% / 80.000%
+  Submitting Lender         ABC Mortgage Company    Representative Credit 762
+                                                            Score
+
+
+  INCOME
+  Total Qualifying          $16,987.64
+  Income
+
+
+  QUALIFYING RATIOS
+  Housing Expense           23.076%                         Debt-to-Income             34.000%
+
+  FUNDS
+  Total Available Assets    $470,982.63                     Funds Required to          $138,880.00
+                                                            Close
+  Months Reserves           84.70                           Total Funds to be          $138,880.00
+                                                            Verified
+
+
+  The recommendation for this case is: Approve/Eligible
+
+  NOTICE: The DU Underwriting Findings report does not constitute an approval or denial of the loan application.
+  Lenders must comply with all laws and regulations, including those related to privacy and nonpublic personal
+  information, in connection with the DU Findings report. For information about sharing the DU Findings report,
+  please see the DU Schedule to your Software Subscription Agreement.
+
+  Copyright (c) 1994-2024 Fannie Mae
+
+
+
+
+https://desktopunderwriter.fanniemae.com/Findings/Findings.aspx                                     11/11/2024
+                                                                                                        Page 1 of 3

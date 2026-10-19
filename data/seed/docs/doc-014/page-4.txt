@@ -1,0 +1,54 @@
+Date                 Description                                                                          Withdrawals                Deposits                   Balance
+ 09/25/2024           ATM WITHDRAWAL ABC BANK BRANCH                                                              100.00                                       47,901.30
+ 09/25/2024           DEBIT CARD PURCHASE ABC GROCERS                                                               83.17                                      47,818.13
+ 09/25/2024           DEBIT CARD PURCHASE ABC GROCERS                                                               85.31                                      47,732.82
+ 09/25/2024           DEBIT CARD PURCHASE XYZ BAKERY                                                                38.87                                      47,693.95
+ 09/25/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                                54.59                                      47,639.36
+ 09/26/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY                                                            70.31                                      47,569.05
+ 09/26/2024           POS PURCHASE ABC GARDEN CENTER                                                                34.58                                      47,534.47
+ 09/27/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                               106.03                                       47,428.44
+ 09/27/2024           DEBIT CARD PURCHASE XYZ THEATER                                                               55.30                                      47,373.14
+ 09/27/2024           POS PURCHASE ABC FUEL 118                                                                     87.46                                      47,285.68
+ 09/28/2024           DEBIT CARD PURCHASE XYZ BAKERY                                                              113.89                                       47,171.79
+ 09/28/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                               102.46                                       47,069.33
+ 09/28/2024           DEBIT CARD PURCHASE XYZ DINER                                                                 56.73                                      47,012.60
+ 09/28/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                                51.73                                      46,960.87
+ 09/28/2024           POS PURCHASE ABC CLEANERS                                                                     81.03                                      46,879.84
+ 09/28/2024           POS PURCHASE ABC COFFEE                                                                       45.30                                      46,834.54
+ 09/29/2024           ACH CREDIT UTILITY REFUND                                                                                           134.24               46,968.78
+ 09/29/2024           POS PURCHASE ABC COFFEE                                                                     105.32                                       46,863.46
+ 09/29/2024           POS PURCHASE ABC GARDEN CENTER                                                                38.87                                      46,824.59
+ 09/29/2024           POS PURCHASE ABC MARKET                                                                       98.89                                      46,725.70
+ 09/29/2024           POS PURCHASE XYZ CAFE                                                                         96.03                                      46,629.67
+ 09/30/2024           INTEREST PAYMENT                                                                                                     10.00               46,639.67
+ 09/30/2024           POS PURCHASE ABC CLEANERS                                                                     86.03                                      46,553.64
+ 09/30/2024           POS PURCHASE ABC HARDWARE                                                                     84.60                                      46,469.04
+ 09/30/2024           POS PURCHASE ABC HARDWARE                                                                     91.03                                      46,378.01
+ 09/30/2024           POS PURCHASE ABC MARKET                                                                       51.73                                      46,326.28
+                      Totals                                                                                    7,252.25               7,842.82                46,326.28
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+ DAILY ENDING BALANCE                                   Ledger balance at the close of each day on which an item posted
+
+ Date                    Amount      Date                 Amount     Date                    Amount         Balance history for this period
+ 09/01                 45,392.83     09/02              51,371.34    09/03                 51,212.15
+ 09/04                 51,515.99     09/06              51,495.57    09/07                 50,936.62
+ 09/08                 50,784.57     09/09              50,498.33    09/10                 50,177.81
+ 09/11                 49,935.45     09/12              49,844.42    09/13                 49,975.89
+ 09/14                 49,967.57     09/15              49,413.86    09/16                 49,268.96
+ 09/17                 48,920.49     09/18              48,756.30    09/19                 48,516.51        Trend of the ledger balance over the statement period. Amounts
+                                                                                                            as listed at left.
+ 09/20                 48,250.57     09/21              48,109.60    09/22                 48,138.34
+ 09/24                 48,001.30     09/25              47,639.36    09/26                 47,534.47
+ 09/27                 47,285.68     09/28              46,834.54    09/29                 46,629.67
+ 09/30                 46,326.28
+
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                                     DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                                Page 4 of 5

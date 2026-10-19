@@ -1,0 +1,83 @@
+Uniform Residential Appraisal Report                                                         File # 1234567890
+
+                                                                    SUPPLEMENTAL ADDENDUM
+Borrower John Doe                                                               Property Address 456 XYZ Avenue
+City XYZ City                                                   County XYZ County                                  State NY                       Zip Code 12345
+Lender/Client ABC Mortgage Company                                                                                 File # 1234567890
+
+Effective Date of Appraisal 11/02/2024                          Date of Inspection 11/02/2024                                    Date of Signature and Report 11/05/2024
+Appraisal Form Fannie Mae Form 1004 / Freddie Mac               Lender Loan # 1234567890                                         Assignment Type Purchase Transaction
+Form 70
+Owner of Public Record Sam Seller and Sue Seller                Property Rights Appraised Fee Simple                             Appraised Value $620,000.00
+
+Scope of Work
+
+ The scope of work for this assignment was determined by the intended use of the report — a purchase-money mortgage finance transaction — and the intended user, ABC
+ Mortgage Company. The appraiser inspected the interior and exterior of the subject on 11/02/2024, measured the improvements, photographed the subject and each
+ comparable from the street, and researched the multiple listing service, county public records and the contract of sale. Comparable sales were selected from the subject
+ neighborhood and analyzed on a price-per-unit and paired-sales basis. The sales comparison approach was developed; the cost and income approaches were not necessary
+ for credible assignment results and were not developed.
+
+Highest and Best Use
+
+ The subject is a one-unit dwelling on a 0.25 acres site zoned R-1 Single Family Residential. The present use is legal and conforming, is physically possible, financially feasible
+ and maximally productive; the highest and best use as improved is therefore the present residential use. No alternative use would produce a greater return to the site.
+
+Comparable Selection and Adjustment Support
+
+ The comparable sales are the most recent closed sales of similar one-unit dwellings located within one-half mile of the subject. All are in the subject neighborhood, are of similar
+ site size, design, quality and age, and required no adjustment for location, view, leasehold interest, room count or functional utility. Adjustments were limited to gross living area
+ at a market-supported rate, market conditions measured from the date of each sale, and amenity differences. Gross adjustments are within accepted guidelines and the
+ adjusted values bracket and support the opinion of value.
+
+Market Conditions — Inventory Analysis
+                                  Inventory Analysis                                                       Prior 12 Months                                     Effective Date
+Total # of comparable sales (settled)                                                     3                                                  3
+Absolute range of comparable sale prices                                                  $607,000.00 to $634,000.00                         $607,000.00 to $634,000.00
+Median comparable sale price                                                              $612,500.00                                        $612,500.00
+Total # of comparable properties currently offered for sale                               3                                                  3
+Absolute range of comparable asking prices                                                $609,800.00 to $636,000.00                         $609,800.00 to $636,000.00
+Median comparable gross living area (sq. ft.)                                             2,360                                              2,360
+Median comparable sales days on market                                                    21                                                 21
+Seller-paid financial assistance (concessions)                                            $0.00                                              $0.00
+
+ Marketing times are under three months, supply and demand are in balance and sales concessions are typical for the market. Paired sales indicate a modest upward movement
+ in value levels over the twelve months preceding the effective date; a market-conditions adjustment was applied to the closed sales below.
+
+Offering and Listing History of the Subject
+
+ The subject was offered for sale on 09/09/2024 at $620,000.00 and went under contract 21 days later at that price. No price reduction, withdrawal or relisting occurred in the
+ twelve months preceding the effective date. The listing was verified against the multiple listing service and the county public records, and the executed contract of sale was
+ supplied by the lender/client.
+
+Reconciliation of the Adjusted Values
+
+ The three closed sales bracket the subject in gross living area, age and amenities. Each adjusted sale price indicates $620,000.00; the range of adjusted values is nil, gross
+ adjustments do not exceed the guideline limits and no single adjustment exceeds ten percent of the unadjusted sale price. The sales comparison approach therefore carries all
+ of the weight in the final reconciliation, and the opinion of market value is $620,000.00 as of 11/02/2024.
+
+Adjustment Support
+                       Adjustment                                            Basis                              Rate applied                             Market support
+Gross living area                                         Per square foot of difference                   $30                   Paired sales of similar dwellings in the subject neighborhood
+                                                                                                                                differing only in size
+Market conditions                                         Per 90 days between the sale date and the       0.5%                  Resales of the same dwellings and the twelve-month trend in
+                                                          effective date                                                        the inventory analysis above
+Amenities (porch, patio, deck, pool)                      Contributory value of the differing amenity     Lump sum              Paired sales bracketing the amenity; the contributory value is
+                                                                                                                                well below cost
+Location, view, leasehold interest, room count,           None required                                   —                     All comparable sales are in the subject neighborhood and
+functional utility                                                                                                              equal to the subject in these elements
+
+Exhibits Accompanying This Report
+                         Exhibit                                                                                    Description
+Street/location map                                       Location map of the subject and the three comparable sales
+Exterior photographs                                      Subject front, rear and street scene; front of each comparable sale
+Interior photographs                                      Kitchen, bathrooms, main living areas, bedrooms and below-grade areas as applicable
+Floor plan / footprint sketch                             Building sketch with exterior dimensions and the gross living area calculation
+Contract of sale                                          Executed purchase contract and addenda supplied by the lender/client, retained in the work file
+
+ Details of the exhibits present street map, location map, map of subject, map reference, exterior photos, front photo, rear photo, street scene, photos of comparables, interior
+ photos, kitchen, bathroom(s), living room/main living area, bedroom(s), basement/below-grade, floor plan, sketch, building sketch, footprint sketch
+
+
+
+Freddie Mac Form 70 March 2005                                              UAD Version 9/2011          Page 7 of 12                                         Fannie Mae Form 1004 March 2005

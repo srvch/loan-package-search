@@ -1,0 +1,55 @@
+Date                 Description                                                                          Withdrawals            Deposits               Balance
+ 06/13/2024           POS PURCHASE ABC GARDEN CENTER                                                               60.08                               52,613.30
+ 06/13/2024           POS PURCHASE ABC MARKET                                                                    194.25                                52,419.05
+ 06/14/2024           BRANCH DEPOSIT                                                                                                 388.48            52,807.53
+ 06/14/2024           POS PURCHASE ABC FUEL 118                                                                    53.93                               52,753.60
+ 06/14/2024           POS PURCHASE XYZ CAFE                                                                      142.55                                 52,611.05
+ 06/14/2024           POS PURCHASE XYZ PHARMACY                                                                  184.40                                52,426.65
+ 06/15/2024           DEBIT CARD PURCHASE XYZ BAKERY                                                             100.70                                52,325.95
+ 06/15/2024           POS PURCHASE ABC COFFEE                                                                    141.32                                52,184.63
+ 06/15/2024           POS PURCHASE ABC COFFEE                                                                    168.40                                52,016.23
+ 06/15/2024           CHECK 1843                                                                                 202.86                                51,813.37
+ 06/16/2024           POS PURCHASE ABC GARDEN CENTER                                                               98.24                               51,715.13
+ 06/16/2024           POS PURCHASE XYZ CAFE                                                                      200.40                                51,514.73
+ 06/16/2024           TRANSFER FROM CHECKING ****2222                                                                              3,385.67            54,900.40
+ 06/17/2024           ACH CREDIT DIVIDEND PAYMENT                                                                                    107.39            55,007.79
+ 06/17/2024           ACH CREDIT UTILITY REFUND                                                                                       74.19            55,081.98
+ 06/17/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                                93.31                               54,988.67
+ 06/17/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY                                                         148.70                                54,839.97
+ 06/17/2024           POS PURCHASE ABC MARKET                                                                    136.39                                54,703.58
+ 06/18/2024           DEBIT CARD PURCHASE XYZ DINER                                                              161.01                                54,542.57
+ 06/18/2024           POS PURCHASE ABC GARDEN CENTER                                                               63.77                               54,478.80
+ 06/20/2024           ACH DEBIT XYZ WATER DIST                                                                     86.82                               54,391.98
+ 06/20/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY                                                         129.01                                54,262.97
+ 06/20/2024           DEBIT CARD PURCHASE XYZ THEATER                                                            196.71                                54,066.26
+ 06/20/2024           POS PURCHASE ABC FUEL 118                                                                  199.17                                53,867.09
+ 06/22/2024           POS PURCHASE XYZ PHARMACY                                                                    44.08                               53,823.01
+ 06/24/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                             131.47                                53,691.54
+ 06/24/2024           POS PURCHASE ABC MARKET                                                                    117.93                                53,573.61
+ 06/25/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                             153.63                                53,419.98
+ 06/26/2024           POS PURCHASE XYZ PHARMACY                                                                  158.55                                53,261.43
+ 06/27/2024           POS PURCHASE ABC GARDEN CENTER                                                               77.31                               53,184.12
+ 06/27/2024           POS PURCHASE XYZ PHARMACY                                                                  138.86                                53,045.26
+ 06/28/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                             105.62                                52,939.64
+ 06/28/2024           POS PURCHASE ABC HARDWARE                                                                    56.39                               52,883.25
+ 06/29/2024           DEBIT CARD PURCHASE ABC GROCERS                                                            177.01                                52,706.24
+ 06/29/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                              143.78                                52,562.46
+ 06/29/2024           DEBIT CARD PURCHASE XYZ DINER                                                                49.00                               52,513.46
+ 06/30/2024           ACH CREDIT UTILITY REFUND                                                                                       96.12            52,609.58
+ 06/30/2024           INTEREST PAYMENT                                                                                                20.00            52,629.58
+ 06/30/2024           POS PURCHASE ABC GARDEN CENTER                                                             174.55                                52,455.03
+ 06/30/2024           POS PURCHASE XYZ PHARMACY                                                                  147.47                                52,307.56
+                      Totals                                                                                   6,687.35            7,241.86            52,307.56
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+ DAILY ENDING BALANCE                                   Ledger balance at the close of each day on which an item posted
+
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                              DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                                 Page 3 of 4

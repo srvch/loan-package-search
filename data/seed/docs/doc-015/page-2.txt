@@ -1,0 +1,63 @@
+STATEMENT OF ACCOUNT
+ ABC Bank
+                                                                                                                10/01/2024 through 10/31/2024
+ABC Bank, N.A.
+P.O. Box 1234, XYZ City, NY 12345
+                                                                                                                  Account Number:       ****1111
+
+                                                                         CUSTOMER SERVICE INFORMATION
+                                                                         Web site:                                 www.abcbank.example.com
+PRESORTED AUTO **MIXED AADC                                              Service Center:                                        1-800-555-0199
+                                                                         Bank-by-Phone (24 hours):                              1-800-555-0199
+John Doe
+                                                                         Deaf and Hard of Hearing:                          711 (Relay Service)
+123 ABC Street
+                                                                         Written inquiries:                   P.O. Box 1234, XYZ City, NY 12345
+XYZ City, NY 12345
+
+
+
+
+ CHECKING SUMMARY                          ABC Bank Checking — Account ****1111
+
+                                                     INSTANCES                 AMOUNT
+ Beginning Balance                                                         $46,326.28
+ Deposits and Additions                                   9                $10,408.70
+ Withdrawals and Debits                                  74                - $9,664.18
+ Ending Balance                                                            $47,070.80
+
+Your statement period covers 31 days, from 10/01/2024 through 10/31/2024, and reflects 83 posted transactions. The monthly
+service fee on this account was waived for the period shown. Balances are stated as of the close of business on the posting
+date; items presented after the cutoff hour appear on your next statement.
+
+
+ DAILY ACCOUNT ACTIVITY                           Posted items, 10/01/2024 through 10/31/2024
+
+ Date                 Description                                                             Withdrawals            Deposits            Balance
+ 10/01/2024           ACH DEBIT ABC UTILITIES                                                        192.00                            46,134.28
+ 10/01/2024           DEBIT CARD PURCHASE XYZ BAKERY                                                 190.59                            45,943.69
+ 10/02/2024           ACH CREDIT ACME CORPORATION PAYROLL                                                            6,363.76          52,307.45
+ 10/02/2024           POS PURCHASE ABC FUEL 118                                                      186.99                            52,120.46
+ 10/02/2024           POS PURCHASE ABC MARKET                                                         62.20                            52,058.26
+ 10/03/2024           DEBIT CARD PURCHASE XYZ BAKERY                                                 198.99                            51,859.27
+ 10/03/2024           DEBIT CARD PURCHASE XYZ THEATER                                                142.59                            51,716.68
+ 10/03/2024           POS PURCHASE ABC HARDWARE                                                       69.40                            51,647.28
+ 10/04/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                   89.79                            51,557.49
+ 10/04/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                  116.19                            51,441.30
+ 10/04/2024           POS PURCHASE ABC COFFEE                                                        118.59                            51,322.71
+ 10/04/2024           POS PURCHASE XYZ PHARMACY                                                      136.59                            51,186.12
+ 10/05/2024           DEBIT CARD PURCHASE XYZ DINER                                                   87.39                            51,098.73
+ 10/05/2024           POS PURCHASE XYZ PHARMACY                                                       81.39                            51,017.34
+ 10/06/2024           ACH CREDIT EXPENSE REIMBURSEMENT                                                                  93.86           51,111.20
+ 10/06/2024           ACH CREDIT UTILITY REFUND                                                                        117.73          51,228.93
+ 10/06/2024           POS PURCHASE XYZ PHARMACY                                                      122.19                            51,106.74
+ 10/06/2024           POS PURCHASE XYZ PHARMACY                                                      126.99                            50,979.75
+ 10/07/2024           BRANCH DEPOSIT                                                                                 1,669.29          52,649.04
+ 10/07/2024           POS PURCHASE XYZ CAFE                                                          102.99                            52,546.05
+ 10/08/2024           POS PURCHASE ABC CLEANERS                                                       95.79                            52,450.26
+ 10/08/2024           POS PURCHASE ABC COFFEE                                                        191.79                            52,258.47
+ 10/09/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                  65.80                            52,192.67
+
+
+Member FDIC · Equal Housing Lender                                                                                              DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                            Page 2 of 4

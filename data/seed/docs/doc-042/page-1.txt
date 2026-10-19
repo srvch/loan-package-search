@@ -1,0 +1,648 @@
+ABC Mortgage Company
+NMLS ID # 1111111                                                                     Save this Loan Estimate to compare with your Closing Disclosure.
+
+
+Loan Estimate                                                                    LOAN TERM
+                                                                                 PURPOSE
+                                                                                                        30 years
+                                                                                                        Purchase
+DATE ISSUED             November 24, 2024                                        PRODUCT                30-Year Fixed Conventional
+APPLICANTS              John Doe and Jane Doe                                    LOAN TYPE                Conventional    FHA      VA
+                        123 ABC Street, XYZ City, NY 12345                       LOAN ID #              1234567890
+PROPERTY                456 XYZ Avenue, XYZ City, NY 12345                       RATE LOCK                NO    YES, until 12/14/2024 at 5:00 p.m.
+SALE PRICE              $620,000.00                                                                     Before closing, your interest rate, points, and lender
+                                                                                                        credits can change unless you lock the interest rate.
+ REVISED LOAN ESTIMATE · Revision 2 of 2 · Reissued November 24,                                        All other estimated closing costs expire on
+ 2024                                                                                                   12/14/2024 at 5:00 p.m.
+ Revised because the estimated closing date was confirmed with the
+ settlement agent. This estimate replaces the Loan Estimate dated November
+ 17, 2024; the loan terms, projected payments and estimated closing costs
+ are unchanged.
+
+
+  Loan Terms                                                                             Can this amount increase after closing?
+
+  Loan Amount                                       $496,000.00                   NO
+
+  Interest Rate                                     6.500%                        NO
+
+  Monthly Principal & Interest                      $3,135.06                     NO
+  See Projected Payments below for your
+  Estimated Total Monthly Payment
+
+                                                    Does the loan have these features?
+  Prepayment Penalty                                                              NO
+
+  Balloon Payment                                                                 NO
+
+  Projected Payments
+  Payment Calculation                                                                            Years 1 – 30
+    Principal & Interest                                                                          $3,135.06
+    Mortgage Insurance                                                                             + $0.00
+    Estimated Escrow                                                                              + $785.00
+    Amount can increase over time
+
+  Estimated Total
+  Monthly Payment
+                                                                                               $3,920.06
+  Estimated Taxes, Insurance                                                 This estimate includes                                        In escrow?
+                                                      $785.00
+  & Assessments                                          a month
+                                                                               Property Taxes $620.00                                      YES
+  Amount can increase over time                                                Homeowner’s Insurance $165.00                               YES
+                                                                               Other:                                                      NO
+                                                                             Escrow account: Yes — for property taxes & homeowner's insurance. See Section
+                                                                             G on page 2 for escrowed property costs. You must pay for other property costs
+                                                                             separately.
+
+
+  Costs at Closing
+  Estimated Closing Costs                                                          Includes $9,523.20 in Loan Costs + $5,356.80 in Other Costs – $0
+                                                    $14,880.00                     in Lender Credits. See page 2 for details.
+
+  Estimated Cash to Close                                                          Includes Closing Costs and a $124,000.00 Down Payment, less
+                                                    $128,880.00                    your $10,000.00 deposit. See page 2 for details.
+
+                          Visit www.consumerfinance.gov/mortgage-estimate for general information and tools.
+
+LOAN ESTIMATE                                                                                                          PAGE 1 OF 3 • LOAN ID # 1234567890
+Closing Cost Details
+
+ Loan Costs                                                    Other Costs
+ A. Origination Charges                            $5,059.20   E. Taxes and Other Government Fees                    $1,488.00
+ 01 0.500% of Loan Amount (Points)                 $1,011.84   01 Recording Fees and Other Taxes                       $496.00
+ 02 Application Fee                                $2,023.68   02 Transfer Taxes                                       $992.00
+ 03 Underwriting Fee                               $1,349.12   F. Prepaids                                           $2,380.80
+ 04 Processing Fee                                  $674.56
+                                                               01 Homeowner's Insurance Premium (12 mo.)              $549.42
+                                                               02 Prepaid Interest (15 days @ note rate)             $1,098.83
+                                                               03 Property Taxes (2 mo.)                              $732.55
+
+
+
+                                                               G. Initial Escrow Payment at Closing                  $1,488.00
+                                                               01 Homeowner's Insurance (2 mo.)                        $343.38
+ B. Services You Cannot Shop For                   $1,785.60   02 Property Taxes (3 mo.)                               $686.77
+                                                               03 Aggregate Adjustment                                 $457.85
+ 01 Appraisal Fee                                   $357.12
+ 02 Credit Report Fee                               $714.24
+ 03 Flood Determination Fee                         $476.16
+ 04 Tax Service Fee                                 $238.08    H. Other
+
+
+
+                                                               I. TOTAL OTHER COSTS (E + F + G + H)                  $5,356.80
+
+                                                               J. TOTAL CLOSING COSTS                               $14,880.00
+                                                               D+I                                                  $14,880.00
+ C. Services You Can Shop For                      $2,678.40   Lender Credits                                               $0
+
+ 01 Title - Lender's Title Insurance                $535.68
+ 02 Title - Settlement Agent Fee                   $1,071.36
+                                                               Calculating Cash to Close
+ 03 Title - Title Search                            $714.24    Total Closing Costs (J)                              $14,880.00
+ 04 Pest Inspection Fee                             $357.12
+                                                               Closing Costs Financed (Paid from your Loan
+                                                                                                                             $0
+                                                               Amount)
+                                                               Down Payment/Funds from Borrower                   $124,000.00
+                                                               Deposit                                            - $10,000.00
+                                                               Funds for Borrower                                            $0
+                                                               Seller Credits                                                $0
+                                                               Adjustments and Other Credits                                 $0
+ D. TOTAL LOAN COSTS (A + B + C)                   $9,523.20   Estimated Cash to Close                            $128,880.00
+
+
+ Adjustable Payment (AP) Table                                 Adjustable Interest Rate (AIR) Table
+ Interest Only Payments?               NO                      Index + Margin                       —
+ Optional Payments?                    NO                      Initial Interest Rate                6.500%
+ Step Payments?                        NO                      Minimum/Maximum Interest Rate        6.500%
+ Seasonal Payments?                    NO                      Change Frequency
+ Monthly Principal and Interest Payments                         First Change                       —
+   First Change/Amount                 —                         Subsequent Changes                 —
+   Subsequent Changes                  —                       Limits on Interest Rate Changes
+   Maximum Payment                     $3,135.06                 First Change                       —
+                                                                 Subsequent Changes                 —
+
+LOAN ESTIMATE                                                                                  PAGE 2 OF 3 • LOAN ID # 1234567890
+Additional Information About This Loan
+LENDER                  ABC Mortgage Company                                                    MORTGAGE BROKER
+NMLS/__ LICENSE ID      1111111                                                                 NMLS/__ LICENSE ID
+LOAN OFFICER            Larry Lender                                                            LOAN OFFICER
+NMLS/__ LICENSE ID      2222222                                                                 NMLS/__ LICENSE ID
+EMAIL                   larry.lender@example.com                                                EMAIL
+PHONE                   (555) 555-0121                                                          PHONE
+
+
+
+
+  Comparisons                                        Use these measures to compare this loan with other loans.
+
+  In 5 Years                                                             Total you will have paid in principal, interest, mortgage insurance,
+                                              $250,083.60                and loan costs.
+                                                                         Principal you will have paid off.
+                                              $26,903.60
+  Annual Percentage Rate (APR)                                           Your costs over the loan term expressed as a rate. This is not your
+                                              6.800%                     interest rate.
+
+  Total Interest Percentage (TIP)                                        The total amount of interest that you will pay over the loan term as
+                                              127.54%                    a percentage of your loan amount ($632,621.60).
+
+
+
+
+  Other Considerations
+
+  Appraisal                        We may order an appraisal to determine the property’s value and charge you for this appraisal. We will
+                                   promptly give you a copy of any appraisal, even if your loan does not close. You can pay for an
+                                   additional appraisal for your own use at your own cost.
+
+  Assumption                       If you sell or transfer this property to another person, we
+                                       will allow, under certain conditions, this person to assume this loan on the original terms.
+                                       will not allow assumption of this loan on the original terms.
+
+  Homeowner’s                      This loan requires homeowner’s insurance on the property, which you may obtain from a company of
+  Insurance                        your choice that we find acceptable.
+
+  Late Payment                     If your payment is more than 15 days late, we will charge a late fee of 5% of the monthly principal and
+                                   interest payment.
+
+  Refinance                        Refinancing this loan will depend on your future financial situation, the property value, and market
+                                   conditions. You may not be able to refinance this loan.
+
+  Servicing                        We intend
+                                     to service your loan. If so, you will make your payments to us.
+                                     to transfer servicing of your loan.
+
+
+
+
+  Confirm Receipt
+
+By signing, you are only confirming that you have received this form. You do not have to accept this loan because you have signed or
+received this form.
+
+
+
+
+Applicant Signature              Date                                  Co-Applicant Signature                    Date
+
+
+
+
+LOAN ESTIMATE                                                                                                PAGE 3 OF 3 • LOAN ID # 1234567890
+ABC Mortgage Company
+NMLS ID # 1111111                                                                    Save this Loan Estimate to compare with your Closing Disclosure.
+
+
+Loan Estimate                                                                   LOAN TERM
+                                                                                PURPOSE
+                                                                                                       30 years
+                                                                                                       Purchase
+DATE ISSUED             November 17, 2024                                       PRODUCT                30-Year Fixed Conventional
+APPLICANTS              John Doe and Jane Doe                                   LOAN TYPE                Conventional    FHA      VA
+                        123 ABC Street, XYZ City, NY 12345                      LOAN ID #              1234567890
+PROPERTY                456 XYZ Avenue, XYZ City, NY 12345                      RATE LOCK                NO    YES, until 12/14/2024 at 5:00 p.m.
+SALE PRICE              $620,000.00                                                                    Before closing, your interest rate, points, and lender
+                                                                                                       credits can change unless you lock the interest rate.
+ REVISED LOAN ESTIMATE · Revision 1 of 2 · Reissued November 17,                                       All other estimated closing costs expire on
+ 2024                                                                                                  12/14/2024 at 5:00 p.m.
+ Revised because the borrower asked for an updated estimate on the same
+ terms. This estimate replaces the Loan Estimate dated November 14, 2024;
+ the loan terms, projected payments and estimated closing costs are
+ unchanged.
+
+
+  Loan Terms                                                                            Can this amount increase after closing?
+
+  Loan Amount                                       $496,000.00                  NO
+
+  Interest Rate                                     6.500%                       NO
+
+  Monthly Principal & Interest                      $3,135.06                    NO
+  See Projected Payments below for your
+  Estimated Total Monthly Payment
+
+                                                    Does the loan have these features?
+  Prepayment Penalty                                                             NO
+
+  Balloon Payment                                                                NO
+
+  Projected Payments
+  Payment Calculation                                                                           Years 1 – 30
+    Principal & Interest                                                                         $3,135.06
+    Mortgage Insurance                                                                            + $0.00
+    Estimated Escrow                                                                             + $785.00
+    Amount can increase over time
+
+  Estimated Total
+  Monthly Payment
+                                                                                              $3,920.06
+  Estimated Taxes, Insurance                                                This estimate includes                                        In escrow?
+                                                      $785.00
+  & Assessments                                          a month
+                                                                              Property Taxes $620.00                                      YES
+  Amount can increase over time                                               Homeowner’s Insurance $165.00                               YES
+                                                                              Other:                                                      NO
+                                                                            Escrow account: Yes — for property taxes & homeowner's insurance. See Section
+                                                                            G on page 2 for escrowed property costs. You must pay for other property costs
+                                                                            separately.
+
+
+  Costs at Closing
+  Estimated Closing Costs                                                         Includes $9,523.20 in Loan Costs + $5,356.80 in Other Costs – $0
+                                                    $14,880.00                    in Lender Credits. See page 2 for details.
+
+  Estimated Cash to Close                                                         Includes Closing Costs and a $124,000.00 Down Payment, less
+                                                    $128,880.00                   your $10,000.00 deposit. See page 2 for details.
+
+                          Visit www.consumerfinance.gov/mortgage-estimate for general information and tools.
+
+LOAN ESTIMATE                                                                                                         PAGE 1 OF 3 • LOAN ID # 1234567890
+Closing Cost Details
+
+ Loan Costs                                                    Other Costs
+ A. Origination Charges                            $5,059.20   E. Taxes and Other Government Fees                    $1,488.00
+ 01 0.500% of Loan Amount (Points)                 $1,011.84   01 Recording Fees and Other Taxes                       $496.00
+ 02 Application Fee                                $2,023.68   02 Transfer Taxes                                       $992.00
+ 03 Underwriting Fee                               $1,349.12   F. Prepaids                                           $2,380.80
+ 04 Processing Fee                                  $674.56
+                                                               01 Homeowner's Insurance Premium (12 mo.)              $549.42
+                                                               02 Prepaid Interest (15 days @ note rate)             $1,098.83
+                                                               03 Property Taxes (2 mo.)                              $732.55
+
+
+
+                                                               G. Initial Escrow Payment at Closing                  $1,488.00
+                                                               01 Homeowner's Insurance (2 mo.)                        $343.38
+ B. Services You Cannot Shop For                   $1,785.60   02 Property Taxes (3 mo.)                               $686.77
+                                                               03 Aggregate Adjustment                                 $457.85
+ 01 Appraisal Fee                                   $357.12
+ 02 Credit Report Fee                               $714.24
+ 03 Flood Determination Fee                         $476.16
+ 04 Tax Service Fee                                 $238.08    H. Other
+
+
+
+                                                               I. TOTAL OTHER COSTS (E + F + G + H)                  $5,356.80
+
+                                                               J. TOTAL CLOSING COSTS                               $14,880.00
+                                                               D+I                                                  $14,880.00
+ C. Services You Can Shop For                      $2,678.40   Lender Credits                                               $0
+
+ 01 Title - Lender's Title Insurance                $535.68
+ 02 Title - Settlement Agent Fee                   $1,071.36
+                                                               Calculating Cash to Close
+ 03 Title - Title Search                            $714.24    Total Closing Costs (J)                              $14,880.00
+ 04 Pest Inspection Fee                             $357.12
+                                                               Closing Costs Financed (Paid from your Loan
+                                                                                                                             $0
+                                                               Amount)
+                                                               Down Payment/Funds from Borrower                   $124,000.00
+                                                               Deposit                                            - $10,000.00
+                                                               Funds for Borrower                                            $0
+                                                               Seller Credits                                                $0
+                                                               Adjustments and Other Credits                                 $0
+ D. TOTAL LOAN COSTS (A + B + C)                   $9,523.20   Estimated Cash to Close                            $128,880.00
+
+
+ Adjustable Payment (AP) Table                                 Adjustable Interest Rate (AIR) Table
+ Interest Only Payments?               NO                      Index + Margin                       —
+ Optional Payments?                    NO                      Initial Interest Rate                6.500%
+ Step Payments?                        NO                      Minimum/Maximum Interest Rate        6.500%
+ Seasonal Payments?                    NO                      Change Frequency
+ Monthly Principal and Interest Payments                         First Change                       —
+   First Change/Amount                 —                         Subsequent Changes                 —
+   Subsequent Changes                  —                       Limits on Interest Rate Changes
+   Maximum Payment                     $3,135.06                 First Change                       —
+                                                                 Subsequent Changes                 —
+
+LOAN ESTIMATE                                                                                  PAGE 2 OF 3 • LOAN ID # 1234567890
+Additional Information About This Loan
+LENDER                  ABC Mortgage Company                                                    MORTGAGE BROKER
+NMLS/__ LICENSE ID      1111111                                                                 NMLS/__ LICENSE ID
+LOAN OFFICER            Larry Lender                                                            LOAN OFFICER
+NMLS/__ LICENSE ID      2222222                                                                 NMLS/__ LICENSE ID
+EMAIL                   larry.lender@example.com                                                EMAIL
+PHONE                   (555) 555-0121                                                          PHONE
+
+
+
+
+  Comparisons                                        Use these measures to compare this loan with other loans.
+
+  In 5 Years                                                             Total you will have paid in principal, interest, mortgage insurance,
+                                              $250,083.60                and loan costs.
+                                                                         Principal you will have paid off.
+                                              $26,903.60
+  Annual Percentage Rate (APR)                                           Your costs over the loan term expressed as a rate. This is not your
+                                              6.800%                     interest rate.
+
+  Total Interest Percentage (TIP)                                        The total amount of interest that you will pay over the loan term as
+                                              127.54%                    a percentage of your loan amount ($632,621.60).
+
+
+
+
+  Other Considerations
+
+  Appraisal                        We may order an appraisal to determine the property’s value and charge you for this appraisal. We will
+                                   promptly give you a copy of any appraisal, even if your loan does not close. You can pay for an
+                                   additional appraisal for your own use at your own cost.
+
+  Assumption                       If you sell or transfer this property to another person, we
+                                       will allow, under certain conditions, this person to assume this loan on the original terms.
+                                       will not allow assumption of this loan on the original terms.
+
+  Homeowner’s                      This loan requires homeowner’s insurance on the property, which you may obtain from a company of
+  Insurance                        your choice that we find acceptable.
+
+  Late Payment                     If your payment is more than 15 days late, we will charge a late fee of 5% of the monthly principal and
+                                   interest payment.
+
+  Refinance                        Refinancing this loan will depend on your future financial situation, the property value, and market
+                                   conditions. You may not be able to refinance this loan.
+
+  Servicing                        We intend
+                                     to service your loan. If so, you will make your payments to us.
+                                     to transfer servicing of your loan.
+
+
+
+
+  Confirm Receipt
+
+By signing, you are only confirming that you have received this form. You do not have to accept this loan because you have signed or
+received this form.
+
+
+
+
+Applicant Signature              Date                                  Co-Applicant Signature                    Date
+
+
+
+
+LOAN ESTIMATE                                                                                                PAGE 3 OF 3 • LOAN ID # 1234567890
+ABC Mortgage Company
+NMLS ID # 1111111                                                      Save this Loan Estimate to compare with your Closing Disclosure.
+
+
+Loan Estimate                                                     LOAN TERM
+                                                                  PURPOSE
+                                                                                         30 years
+                                                                                         Purchase
+DATE ISSUED           November 14, 2024                           PRODUCT                30-Year Fixed Conventional
+APPLICANTS            John Doe and Jane Doe                       LOAN TYPE                Conventional    FHA      VA
+                      123 ABC Street, XYZ City, NY 12345          LOAN ID #              1234567890
+PROPERTY              456 XYZ Avenue, XYZ City, NY 12345          RATE LOCK                NO    YES, until 12/14/2024 at 5:00 p.m.
+SALE PRICE            $620,000.00                                                        Before closing, your interest rate, points, and lender
+                                                                                         credits can change unless you lock the interest rate.
+                                                                                         All other estimated closing costs expire on
+                                                                                         12/14/2024 at 5:00 p.m.
+
+  Loan Terms                                                              Can this amount increase after closing?
+
+  Loan Amount                               $496,000.00            NO
+
+  Interest Rate                             6.500%                 NO
+
+  Monthly Principal & Interest              $3,135.06              NO
+  See Projected Payments below for your
+  Estimated Total Monthly Payment
+
+                                            Does the loan have these features?
+  Prepayment Penalty                                               NO
+
+  Balloon Payment                                                  NO
+
+  Projected Payments
+  Payment Calculation                                                             Years 1 – 30
+    Principal & Interest                                                           $3,135.06
+    Mortgage Insurance                                                              + $0.00
+    Estimated Escrow                                                               + $785.00
+    Amount can increase over time
+
+  Estimated Total
+  Monthly Payment
+                                                                                $3,920.06
+  Estimated Taxes, Insurance                                  This estimate includes                                        In escrow?
+                                             $785.00
+  & Assessments                                 a month
+                                                                Property Taxes $620.00                                      YES
+  Amount can increase over time                                 Homeowner’s Insurance $165.00                               YES
+                                                                Other:                                                      NO
+                                                              Escrow account: Yes — for property taxes & homeowner's insurance. See Section
+                                                              G on page 2 for escrowed property costs. You must pay for other property costs
+                                                              separately.
+
+
+  Costs at Closing
+  Estimated Closing Costs                                           Includes $9,523.20 in Loan Costs + $5,356.80 in Other Costs – $0
+                                            $14,880.00              in Lender Credits. See page 2 for details.
+
+  Estimated Cash to Close                                           Includes Closing Costs and a $124,000.00 Down Payment, less
+                                            $128,880.00             your $10,000.00 deposit. See page 2 for details.
+
+                         Visit www.consumerfinance.gov/mortgage-estimate for general information and tools.
+
+
+
+
+LOAN ESTIMATE                                                                                           PAGE 1 OF 3 • LOAN ID # 1234567890
+Closing Cost Details
+
+ Loan Costs                                                    Other Costs
+ A. Origination Charges                            $5,059.20   E. Taxes and Other Government Fees                    $1,488.00
+ 01 0.500% of Loan Amount (Points)                 $1,011.84   01 Recording Fees and Other Taxes                       $496.00
+ 02 Application Fee                                $2,023.68   02 Transfer Taxes                                       $992.00
+ 03 Underwriting Fee                               $1,349.12   F. Prepaids                                           $2,380.80
+ 04 Processing Fee                                  $674.56
+                                                               01 Homeowner's Insurance Premium (12 mo.)              $549.42
+                                                               02 Prepaid Interest (15 days @ note rate)             $1,098.83
+                                                               03 Property Taxes (2 mo.)                              $732.55
+
+
+
+                                                               G. Initial Escrow Payment at Closing                  $1,488.00
+                                                               01 Homeowner's Insurance (2 mo.)                        $343.38
+ B. Services You Cannot Shop For                   $1,785.60   02 Property Taxes (3 mo.)                               $686.77
+                                                               03 Aggregate Adjustment                                 $457.85
+ 01 Appraisal Fee                                   $357.12
+ 02 Credit Report Fee                               $714.24
+ 03 Flood Determination Fee                         $476.16
+ 04 Tax Service Fee                                 $238.08    H. Other
+
+
+
+                                                               I. TOTAL OTHER COSTS (E + F + G + H)                  $5,356.80
+
+                                                               J. TOTAL CLOSING COSTS                               $14,880.00
+                                                               D+I                                                  $14,880.00
+ C. Services You Can Shop For                      $2,678.40   Lender Credits                                               $0
+
+ 01 Title - Lender's Title Insurance                $535.68
+ 02 Title - Settlement Agent Fee                   $1,071.36
+                                                               Calculating Cash to Close
+ 03 Title - Title Search                            $714.24    Total Closing Costs (J)                              $14,880.00
+ 04 Pest Inspection Fee                             $357.12
+                                                               Closing Costs Financed (Paid from your Loan
+                                                                                                                             $0
+                                                               Amount)
+                                                               Down Payment/Funds from Borrower                   $124,000.00
+                                                               Deposit                                            - $10,000.00
+                                                               Funds for Borrower                                            $0
+                                                               Seller Credits                                                $0
+                                                               Adjustments and Other Credits                                 $0
+ D. TOTAL LOAN COSTS (A + B + C)                   $9,523.20   Estimated Cash to Close                            $128,880.00
+
+
+ Adjustable Payment (AP) Table                                 Adjustable Interest Rate (AIR) Table
+ Interest Only Payments?               NO                      Index + Margin                       —
+ Optional Payments?                    NO                      Initial Interest Rate                6.500%
+ Step Payments?                        NO                      Minimum/Maximum Interest Rate        6.500%
+ Seasonal Payments?                    NO                      Change Frequency
+ Monthly Principal and Interest Payments                         First Change                       —
+   First Change/Amount                 —                         Subsequent Changes                 —
+   Subsequent Changes                  —                       Limits on Interest Rate Changes
+   Maximum Payment                     $3,135.06                 First Change                       —
+                                                                 Subsequent Changes                 —
+
+LOAN ESTIMATE                                                                                  PAGE 2 OF 3 • LOAN ID # 1234567890
+Additional Information About This Loan
+LENDER                  ABC Mortgage Company                                                    MORTGAGE BROKER
+NMLS/__ LICENSE ID      1111111                                                                 NMLS/__ LICENSE ID
+LOAN OFFICER            Larry Lender                                                            LOAN OFFICER
+NMLS/__ LICENSE ID      2222222                                                                 NMLS/__ LICENSE ID
+EMAIL                   larry.lender@example.com                                                EMAIL
+PHONE                   (555) 555-0121                                                          PHONE
+
+
+
+
+  Comparisons                                        Use these measures to compare this loan with other loans.
+
+  In 5 Years                                                             Total you will have paid in principal, interest, mortgage insurance,
+                                              $250,083.60                and loan costs.
+                                                                         Principal you will have paid off.
+                                              $26,903.60
+  Annual Percentage Rate (APR)                                           Your costs over the loan term expressed as a rate. This is not your
+                                              6.800%                     interest rate.
+
+  Total Interest Percentage (TIP)                                        The total amount of interest that you will pay over the loan term as
+                                              127.54%                    a percentage of your loan amount ($632,621.60).
+
+
+
+
+  Other Considerations
+
+  Appraisal                        We may order an appraisal to determine the property’s value and charge you for this appraisal. We will
+                                   promptly give you a copy of any appraisal, even if your loan does not close. You can pay for an
+                                   additional appraisal for your own use at your own cost.
+
+  Assumption                       If you sell or transfer this property to another person, we
+                                       will allow, under certain conditions, this person to assume this loan on the original terms.
+                                       will not allow assumption of this loan on the original terms.
+
+  Homeowner’s                      This loan requires homeowner’s insurance on the property, which you may obtain from a company of
+  Insurance                        your choice that we find acceptable.
+
+  Late Payment                     If your payment is more than 15 days late, we will charge a late fee of 5% of the monthly principal and
+                                   interest payment.
+
+  Refinance                        Refinancing this loan will depend on your future financial situation, the property value, and market
+                                   conditions. You may not be able to refinance this loan.
+
+  Servicing                        We intend
+                                     to service your loan. If so, you will make your payments to us.
+                                     to transfer servicing of your loan.
+
+
+
+
+  Confirm Receipt
+
+By signing, you are only confirming that you have received this form. You do not have to accept this loan because you have signed or
+received this form.
+
+
+
+
+Applicant Signature              Date                                  Co-Applicant Signature                    Date
+
+
+
+
+LOAN ESTIMATE                                                                                                PAGE 3 OF 3 • LOAN ID # 1234567890
+Your Credit Score and the Information Used to Obtain It
+ABC MORTGAGE COMPANY — YOUR CREDIT SCORE AND THE INFORMATION USED TO OBTAIN IT
+Loan #1234567890 · ABC Mortgage Company · 11/21/2024
+Document LN-3603 · Rev. 5.7 · In effect as of 10/28/2022
+
+
+
+If any part of this document is unclear to you, contact us before you sign or rely upon it. In connection with your application for a loan secured by one to
+four units of residential real property, ABC Mortgage Company is required to disclose to John Doe the credit score or scores obtained from consumer
+reporting agencies and used in connection with the application identified as loan number 1234567890. The scores, the range of possible scores, the key
+factors reported as adversely affecting each score, and the identity of the agency that supplied it appear on the accompanying score-disclosure page.
+This notice explains what a credit score is, how it is used, and the rights you have with respect to the underlying consumer reports as of November 14,
+2024.
+
+Section 1. Understanding Your Score
+A credit score is a computer-generated number that summarizes your credit record at a point in time and estimates the relative likelihood that an obligation will
+be repaid as agreed. Scores are calculated by, or on behalf of, consumer reporting agencies using statistical models applied to the information in the file that
+the agency maintains about you. They are not calculated by ABC Mortgage Company.
+
+Because each agency maintains its own file, and because several scoring models are in commercial use, the score obtained from one agency may differ from
+the score obtained from another on the same day, and a score obtained under a mortgage model may differ from a score you have seen through a consumer-
+facing service. A difference between such figures does not by itself indicate that any file is inaccurate.
+
+Section 2. The Role of Scores in Underwriting
+Credit scores are one of several factors considered in a mortgage credit decision. Underwriting also weighs income and its stability, the ratio of housing and
+total obligations to income, the funds available for the transaction and for reserves, the value and condition of the collateral, and the requirements of the loan
+program and of any investor or insurer. A score is a summary indicator, not the decision itself.
+
+Scores may also affect the pricing of credit. Where a loan program applies price adjustments based on the combination of credit score and loan-to-value ratio,
+those adjustments are reflected in the interest rate or in the charges disclosed on your Loan Estimate and Closing Disclosure. The composition of your rate is
+disclosed on those documents rather than in this notice.
+
+Section 3. Joint Borrowers and Multiple Obligors
+Where more than one person is obligated on loan number 1234567890, each of you is jointly and severally liable for the entire obligation. That means the full
+amount may be enforced against any one of you, against some of you, or against all of you together, without any requirement that other obligors, guarantors, or
+collateral be pursued first, and a release or accommodation extended to one of you does not impair the liability of the others.
+
+Any communication we deliver to one of you is treated as delivered to all of you, and an instruction, election, or authorization given by one of you may be acted
+upon as though given by all of you unless the loan documents or applicable law require otherwise. Where your instructions conflict, we may decline to act until
+the conflict is resolved among you in writing.
+
+A change in the relationship among obligors — including a separation, a divorce, a transfer of an interest in the property, or the death of a borrower — does not
+by itself alter the obligation or release any person from it. Notify us of such an event so that our records reflect the correct parties, and consult your own
+attorney concerning the effect of the event on the ownership of 456 XYZ Avenue, XYZ City, NY 12345.
+
+Section 4. Key Factors Affecting Your Score
+The score-disclosure page accompanying this notice lists the key factors that adversely affected each score, in order of importance, as reported by the agency
+that produced it. Common factors include the presence of derogatory information, the length of time accounts have been established, the proportion of
+revolving balances to available credit limits, the number of recent inquiries, and the mix of account types in the file.
+
+These factors are generated by the scoring model, not by ABC Mortgage Company, and we cannot alter them or recompute a score. A factor is a description of
+what most influenced the number on the date it was calculated; it does not necessarily identify anything improper in the file, and a factor may appear even
+where the score is high.
+
+Section 5. Effect of a Transfer of Servicing
+The servicing of loan number 1234567890 — the collection of payments, the administration of any escrow account, and the handling of your inquiries — may
+be transferred to another company at any time. A transfer of servicing is not a sale of your obligation to a different borrower and does not change the interest
+rate, the payment amount, the maturity date, or any other term of the note or the security instrument.
+
+Where servicing transfers, you receive a notice from the transferor at least fifteen (15) days before the effective date and a notice from the transferee within
+fifteen (15) days after it, unless the transfer occurs in circumstances for which the law permits a combined or later notice. The notices identify both companies,
+the date payments should begin going to the new servicer, and the telephone numbers at which each may be reached.
+
+For sixty (60) days after the effective date of a transfer, a payment received by the prior servicer on or before its due date may not be treated as late merely
+because it was sent to the wrong company. Even so, redirect your payments promptly, and update any automatic payment arrangement you maintain through
+your own financial institution, since that arrangement is under your control rather than ours.
+
+
+
+
+                                                             Retain this document with your loan file records.                                           Page 1 of 3

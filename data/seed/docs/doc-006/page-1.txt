@@ -1,0 +1,733 @@
+co.   FILE DEPT. CLOCK VCHR.NO
+                   i    ach ch
+        co   _Fut _per       on                                                EARNINGS        STATEMENT
+                                                                                   Statement of Eamings and Deductions — Employee Copy
+        Acme  Corporation                                                                 Period Beginning: 11/01/2023
+        789 ABC Boulevard, Suite 300                                                      Period Ending: 11/30/2023
+        XYZ City, NY 12345                                                                Pay Date:     12/03/2023
+        Employer ID Number (EIN): 12-3456789                                             Pay Frequency:    Monthly
+       Taxable Marital Status: = Married                                               John  Doe
+       Exemptions/Allowances:                                                           123 ABC Street
+         Federal:        -                                                             XYZ  City, NY 12345
+         NY:             2
+         Local:          0
+       Social Security No.: XXX-XX-6789
+       Job Title:        Senior Systems Analyst
+       EARNINGS                                                                                current period and year to date
+       Description                                       Hours           Rate            Current             YTD
+        Regular                                         173.33         $52.88         $9,166.67       $100, 833.37
+        Gross Earnings                                                                $9,166.67       $100,833.37
+       DEDUCTIONS                                                                        statutory withholding and other deductions
+       Description                                                                Current                    YTD
+        Federal Income Tax                                                    $1,100.00                $12,100.00
+        Social Security                                                         $568.33                $6,251.63
+        Medicare                                                                $132.92                $1,462.12
+        State Income Tax                                                        $458.33                $5,041.63
+        401(k) Retirement                                                       $458.33                $5,041.63
+        Health Insurance                                                         $85.00                  $935.00
+       Total Deductions                                                       $2,802.91               $30,832.01
+                                                               NET PAY DISTRIBUTION
+                                                              Direct Deposit — Checking xxxxxx1111     $6,363.76
+                                                               Net Check                                   $0.00
+        GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+        $9,166.67                          $2,802.91                          $6,363.76
+        GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+        $100,833.37                        $30,832.01                         $70,001.36
+       IMPORTANT NOTES
+       Basis of pay: Monthly payroll cycle. Hours shown are those reported to Payroll for the period ending 11/30/2023.
+       Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+       deductions register above.
+       Review your federal and state withholding elections after any change in your family or employment status
+      Oc                     nt too”       SRSA NRE  BE RGRTON  HOT RMRIOMER   TT   OPA  n  en hes ented nenenneinns
+      Acme   Corporation                                                                   ROMER RENE:   << AO9ES
+      789 ABC Boulevard, Suite 300                                                         Pay date:   t2/9312023
+      XYZ City, NY 12345
+      Deposited to the account of
+      John Doe
+      123 ABC Street                      account number transit ABA amount
+                                             ee eaeeeneeeetneseneasneseneesictiateneneaene ene ee
+      XYZ City, NY  12345                 XXMxXXX1111 = xxxxx6789 $6,363.76               NON   NEGOTIABLE
+      This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include €very payroll processed from January 1 of the current year through the
+      period shown above. It is not a check and it is not Negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+      records, a duplicate may not be available after the current calendar year in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                            warranted, corrected on a subsequent payroll
+      2o._Fus_oer         vos                                               EARNINGS         STATEMENT
+     co   FILE DEPT. CLOCK VCHR.NO
+     CO. RE   EE     ee
+                                                                                 Staternent of Eamings and Deductions — Employee Copy
+     Acme   Corporation                                                                Period Beginning: 12/01/2023
+      789 ABC Boulevard, Suite 300                                                      Period Ending: 12/31/2023
+      XYZ City, NY 12345                                                                Pay Date:     01/03/2024
+      Employer ID Number (EIN): 12-3456789                                              Pay Frequency:   Monthly
+      Taxable Marital Status: Married                                                 John Doe
+     Exemptions/Allowances:                                                           123 ABC Street
+        Federal:       .                                                              XYZ City, NY  12345
+       NY:             2
+        Local:          0
+      Social Security No.: XXX-XX-6789
+      Job Title:        Senior Systems Analyst
+     EARNINGS                                                                                 current period and year to date
+      Description                                       Hours           Rate            Current             YTD
+       Regular                                         £73.32         $52.88         $9,166.67       $110,000.04
+       Gross Earnings                                                                $9,166.67       $110,000.04
+      DEDUCTIONS                                                                        statutory withholding and other deductions
+       Description                                                                Current                   YTD
+       Federal Income Tax                                                     $1,100.00               $13,200.00
+       Social Security                                                          $568.33                $6,819.96
+       Medicare                                                                 $132.92                $1,595.04
+        State Income Tax                                                        $458.33                $5,499.96
+        401(k) Retirement                                                       $458.33                $5,499.96
+        Health Insurance                                                         $85.00                $1,020.00
+        Total Deductions                                                      $2,802.91               $33,634.92
+                                                               NET PAY DISTRIBUTION
+                                                               Direct Deposit — Checking 0000x1111      $6,363.76
+                                                               Net Check                                   $0.00
+        GROSS PAY (Current)                 TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+         $9,166.67                          $2,802.91                          $6,363.76
+         GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+         $110,000.04                        $33,634.92                         $76,365.12
+         IMPORTANT NOTES
+         Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 12/31/2023.
+         Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+         deductions register above.
+         Review your federal and state withholding elections after any change in your family or employment status.
+        Prtiten Sea   Ry vine he   eS fon een eae ae  h a aaa ee ee           ce             ns ee
+        Acme   Corporation                                                                  Advice number:   20031
+        789 ABC Boulevard, Suite 300                                                         Pay date:   01/03/2024
+        XYZ City, NY 12345
+        Deposited to the account of
+        John Doe
+        123 ABC  Street                     account number transit ABA amount
+        XYZ City,  NY 12345                  XXEXXXI111 xxxxx6789 $6,363.76                  NON-NEGOTIABLE
+        This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+        period shown above. It is not a check and it is not negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+        records: a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and. if
+                                                              warranted, corrected on a subsequent payroll
+       o0.__FAE_Der         vor                                               EARNINGS         STATEMENT
+      co.  FILE DEPT. CLOCK VCHR.NO
+                                                                                   Statement of Earnings and Deductions — Employee Copy
+      Acme   Corporation                                                                 Period Beginning: 01/01/2024
+      789 ABC Boulevard, Suite 300                                                       Period Ending: 01/31/2024
+      XYZ City, NY 12345                                                                 Pay Date:      02/03/2024
+      Employer ID Number (EIN): 12-3456789                                               Pay Frequency:    Monthly
+      eS
+      Taxable Marital Status: Married                                                  John  Doe
+       Exemptions/Allowances:                                                           123 ABC Street
+        Federal:        -                                                              XYZ  City, NY 12345
+        NY:             2
+        Local:          0
+       Social Security No.: XXX-XX-6789
+      Job Title:        Senior Systems Analyst
+      a
+      EARNINGS                                                                                  current period and year to date
+      i                                                                              ee ereenE anna IDEnSE eI Inn nnn ne ne
+       Description                                       Hours           Rate             Current            YTD
+       Regular                                          LISi3e         $52.88         $9,166.67         $9,166.67
+      See                                        a   ck    ae   cl       tse               pendant     elias  prea
+       Gross Earnings                                                                 $9,166.67         $9,166.67
+                                                                       nnn eee      nn
+       DEDUCTIONS                                                                        statutory withholding and other deductions
+                                                                                                                LT
+       Description                                                                Current                    YTD
+        Federal Income Tax                                                     $1,100.00                $1,100.00
+       Social Security                                                          $568.33                   $568.33
+       Medicare                                                                  $132.92                  $132.92
+        State Income Tax                                                         $458.33                  $458.33
+        401(k) Retirement                                                        $458.33                  $458.33
+        Health Insurance                                                          $85.00                   $85.00
+      Bene                                                       nap                   ceealpesieeiniaselsliaieldeisaetiasestien statins
+       Total Deductions                                                        $2,802.91                $2,802.91
+        ee                                                                                        ——————— ——————
+                                                                NET PAY OS TRETION           Re
+                                                                Direct Deposit — Checking xxxxxx1111     $6,363.76
+                                                                Net Check                                   $0.00
+        GROSS PAY (Current)                 TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+        $9,166.67                           $2,802.91                          $6,363.76
+        GROSS PAY (YTD)                     TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+        $9,166.67                           $2,802.91                          $6,363.76
+        IMPORTANT NOTES
+        Basis of pay: Monthly payroll cycle, Hours shown are those reported to payroll for the period ending 01/31/2024.
+        Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+        deductions register above.
+        Review your federal and state withholding elections after any change in your family or employment status.
+       TRO Toe eerie    cote a once te he     A   RFE ee ES PORTION WOE MIONIAMEE <2 coe te    ent  nie ae   Gens
+       Acme   Corporation                                                                   Advice number:   eyele
+       789 ABC Boulevard, Suite 300                                                          Pay date:   02/03/2026
+       XYZ City, NY 12345
+       Deposited to the account of
+       John Doe
+       123 ABC  Street                      account number transit ABA amount
+       XYZ City,  NY 12345                  XXXXXX1111 x“xxxx6789 $6,363.76                 NON-NEGOTIABLE
+       a                                     a                                                                   ES
+       This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+       period shown above. It is not a check and it is not negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+       records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                              warranted, corrected on a subsequent payroll
+        o_FLE_6FT_cLOCK_YoWR.   NO                                             EARNINGS        STATEMENT
+       co,   FILE DEPT. CLOCK VCHR_NO.
+                                                                                   Statement of Eamings and Deductions — Employee Copy
+        Acme   Corporation                                                                Period Beginning: 02/01/2024
+        789 ABC Boulevard, Suite 300                                                      Period Ending: 02/29/2024
+        XYZ City, NY 12345                                                                Pay Date:     03/03/2024
+        Employer ID Number (EIN): 12-3456789                                              Pay Frequency:   Monthly
+      Ts TSN   Te eee ee                                       eaten   natnian nalts    nis asin Eo goo
+        Taxable Marital Status: 9 Married                                               John Doe
+        Exemptions/Allowances:                                                          123 ABC Street
+         Federal:        2                                                             XYZ  City, NY 12345
+         NY:             2
+         Local:          0
+       Social Security No.: XXX-XX-6789
+       Job Title:        Senior Systems Analyst
+       EARNINGS                                                                                current period and year to date
+        Description                                      Hours           Rate            Current             YTD
+        Regular                                         173.33         $52.88         $9,166.67        $18,333.34
+        Gross Earnings                                                                $9,166.67        $18,333.34
+       DEDUCTIONS                                                                        statutory withholding and other deductions
+       Description                                                                Current                    YTD
+        Federal Income Tax                                                    $1,100.00                 $2,200.00
+        Social Security                                                         $568.33                 $1,136.66
+        Medicare                                                                $132.92                  $265.84
+        State Income Tax                                                        $458.33                  $916.66
+        401(k) Retirement                                                       $458.33                  $916.66
+        Health Insurance                                                         $85.00                  $170.00
+        Total Deductions                                                      $2,802.91                $5,605.82
+                                                               NET PAY DISTRIBUTION
+                                                              Direct Deposit — Checking xxxxxx1111     $6,363.76
+                                                              Net Check                                    $0.00
+        GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+        $9,166.67                          $2,802.91                          $6,363.76
+        GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+        $18,333.34                         $5,605.82                          $12,727.52
+       IMPORTANT NOTES
+       Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 02/29/2024,
+        Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+        Review your federal and state withholding elections after any change in your family or employment status.
+      nee                     ee   een      SETA HERE — Tile PORTION Ib OT MRBOTINME TTT TTT Tenn n eee nnn enema mene n ene
+      Acme   Corporation                                                                  Advice number:    aes
+      789 ABC Boulevard, Suite 300                                                         Pay date:   aan ite
+      XYZ City, NY 12345
+      Deposited to the account of
+      John Doe
+      123 ABC  Street                     account number transit ABA amount
+                                           <chapenichoneeunntasssianessansensnnstingmnnsennsiogsieommtsiniinmsioneer ene
+      XYZ City,  NY 12345                  *xXxXXXx1111  xxxxx6789 $6,363.76               NON-NEGOTIABLE
+     This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+     period shown above. It is not a check and it is not negotiable. Retain this statement for your Pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+     records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and. if
+                                                            warranted, corrected on a subsequent payroll.
+      co.  FILE DEPT, CLOCK VCHR.NO.
+               nr
+       cout     _peP        ons                                               EARNINGS         STATEMENT
+                                                                                   Statement of Eamings and Deductions — Employee Copy
+       Acme   Corporation                                                                 Period Beginning: 03/01/2024
+       789 ABC Boulevard, Suite 300                                                       Period Ending: 03/31/2024
+      XYZ City, NY 12345                                                                  Pay Date:     04/03/2024
+       Employer ID Number (EIN): 12-3456789                                              Pay Frequency:    Monthly
+      SR      TERS Pe         en                       a    era         rg      ae Se            eels    Slay
+      Taxable Marital Status: Married                                                  John  Doe
+      Exemptions/Allowances:                                                            123 ABC Street
+        Federal:                                                                       XYZ  City, NY 12345
+        NY:             2
+        Local:          0
+      Social Security No.: XXX-XX-6789
+      Job Title:        Senior Systems Analyst
+      EARNINGS                                                                                  current period and year to date
+      Description                                        Hours           Rate            Current             YTD
+       Regular                                         173.33         $52.88          $9,166.67        $27,500.01
+       Gross Earnings                                                                 $9,166.67        $27,500.01
+      DEDUCTIONS                                                                         statutory withholding and other deductions
+      Description                                                                 Current                    YTD
+       Federal Income Tax                                                     $1,100.00                 $3,300.00
+       Social Security                                                          $568.33                 $1,704.99
+       Medicare                                                                 $132.92                  $398.76
+       State Income Tax                                                         $458.33                 $1,374.99
+       401(k) Retirement                                                        $458.33                $1,374.99
+       Health Insurance                                                          $85.00                  $255.00
+      Total Deductions                                                        $2,802.91                $8,408.73
+                                                               NET PAY DISTRIBUTION  7                        E
+                                                              Direct Deposit — Checking xxxxxx1111      $6,363.76
+                                                               Net Check                                   $0.00
+       GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)          NET PAY (Current)
+       $9,166.67                          $2,802.91                           $6,363.76
+       GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)              NET PAY (YTD)
+       $27,500.01                         $8,408.73                           $19,091.28
+       IMPORTANT NOTES
+       Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 03/31/2024.
+       Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+      deductions register above.
+      Review your federal and state withholding elections after any change in your family or employment status.
+     ORIN TSG Ba   ole (ghosts  a or kc     ARNG AR 0   PORTIA ROT NEGONUMEE Cn   ere     ar ea taatncwaban ae hascade.
+     Acme   Corporation                                                                    Advice number:   20024
+     789 ABC Boulevard, Suite 300                                                          Pay date:   04/03/2024
+     XYZ City, NY 12345
+     Deposited to the account of
+     John Doe
+     123 ABC Street                      account number transit ABA amount
+                                          cnet sanlsinioncsiees ution siseninommneichicesepene Steere
+     XYZ City,  NY 12345                  XXXXXX1111 xxxxx6789 $6,363.76                  NON-NEGOTIABLE
+     This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+     period shown above. It is not a check and it is not Negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+     records; a duplicate may not be available after the current calendar year, in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                            warranted, corrected on a subsequent payroll
+     a    oearoar     me yee centre                                           EARNINGS        STATEMENT
+       co. FILE DEPT. CLOCK VCHR.NO.
+       123  456  789        20015
+                                                                                  Statement of Earnings and Deductions — Employee Copy
+       Acme   Corporation                                                                Period Beginning: 04/01/2024
+       789 ABC Boulevard, Suite 300                                                      Period Ending: 04/30/2024
+       XYZ City, NY 12345                                                                Pay Date:     05/03/2024
+       Employer ID Number (EIN): 12-3456789                                              Pay Frequency:   Monthly
+                                                                                                                TT
+       Taxable Marital Status: Married                                                 John Doe
+       Exemptions/Allowances:                                                          123 ABC Street
+         Federal:       ~                                                              XYZ City, NY  12345
+         NY:            2
+         Local:          0
+       Social Security No.: XXX-XX-6789
+      Job Title:         Senior Systems Analyst
+       ee                                                                                           —————————————
+      EARNINGS                                                                                 current period and year to date
+       eet
+       Description                                       Hours           Rate            Current             YTD
+        Regular                                         173.33        $52.88          $9,166.67        $36,666.68
+                 eerie     aa             ae      ning                          LR       CECA
+        Gross Earnings                                                                $9,166.67        $36,666.68
+                                                                     nnn nee ea un nen nnn EERE
+       DEDUCTIONS                                                                        statutory withholding and other deductions
+        ee                                                                  nnn eee eran EInnnSnDnEENERNEREEn anne ne ann ennnenenenenesneeneenenemmememmmmmned
+       Description                                                                Current                    YTD
+        Federal Income Tax                                                    $1,100.00                 $4,400.00
+        Social Security                                                         $568.33                 $2,273.32
+        Medicare                                                                $132.92                  $531.68
+        State Income Tax                                                        $458.33                 $1,833.32
+        401(k) Retirement                                                       $458.33                 $1,833.32
+        Health Insurance                                                         $85.00                  $340.00
+       seoinluniaszsis el Seis lenis antennae oasis tessa nese einai  thoes aa teeiaiataanmetece caer en csnientannsinihinatataasajetaansniaae
+        Total Deductions                                                      $2,802.91                $11,211.64
+       a                                                                                    ————————————————
+                                                                NET PAY DISTRIBUTION   Se                  apes
+                                                               Direct Deposit — Checking xxxxxx1111     $6,363.76
+                                                                Net Check                                  $0.00
+        GROSS PAY (Current)                 TOTAL DEDUCTIONS (Current)        NET PAY (Current)
+         $9,166.67                          $2,802.91                          $6,363.76
+         GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+         $36,666.68                         $11,211.64                         $25,455.04
+         IMPORTANT NOTES
+         Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 04/30/2024.
+         Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+         deductions register above.
+         Review your federal and state withholding elections after any change in your family or employment status.
+       POSS EEN   ORT  ae eran     hn eae Ts 6 Se     oh ORONO      MEOTUMEE  60  i      cor      eat Kiama ea
+       Acme   Corporation                                                                   Advice number:   RGSS
+       789 ABC Boulevard, Suite 300                                                         Pay date:   05/03/2024
+       XYZ City, NY 12345
+       Deposited to the account of
+        John Doe
+        123 ABC Street                      account number transit ABA amount
+        XYZ City, NY 12345                  XxXxxxx1111 xxxxx6789 $6,363.76                 NON-NEGOTIABLE
+       Cee      acca             sie  anes  dination atnesseseenineadsseesigeesiaianspiacaicesshpuncosiratisiisniciiose-ss-heesie SstenieeiieniasisiieanminoiiTinieNS
+       This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+       period shown above. It is not a check and it is not negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+        records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                              warranted, corrected on a subsequent payroll.
+     co_Fut    _9eF       vor                                               EARNINGS         STATEMENT
+    co.   FILE DEPT. CLOCK VCHR.NO.
+                                                                                 Statement of Earnings and Deductions — Employee Copy
+     Acme   Corporation                                                                 Period Beginning: 05/01/2024
+     789 ABC Boulevard, Suite 300                                                       Period Ending: 05/31/2024
+     XYZ City, NY 12345                                                                 Pay Date:     06/03/2024
+     Employer ID Number (EIN): 12-3456789                                               Pay Frequency:   Monthly
+ Se        a         a et
+     Taxable Marital Status: Married                                                  John Doe
+    Exemptions/Allowances:                                                            123 ABC Street
+       Federal:        <                                                              XYZ City, NY  12345
+       NY:             2
+       Local:          0
+     Social Security No.: XXX-XX-6789
+     Job Title:        Senior Systems Analyst
+ ee                                                                                           ———
+     EARNINGS                                                                                 current period and year to date
+      Description                                       Hours          Rate             Current             YTD
+      Regular                                          73239         $52.88         $9,166.67         $45,833.35
+      Gross Earnings                                                                $9,166.67         $45,833.35
+     DEDUCTIONS                                                                         statutory withholding and other deductions
+      Description                                                                Current                    YTD
+      Federal Income Tax                                                     $1,100.00                 $5,500.00
+      Social Security                                                          $568.33                 $2,841.65
+      Medicare                                                                 $132.92                   $664.60
+      State Income Tax                                                         $458.33                 $2,291.65
+       401(k) Retirement                                                       $458.33                 $2,291.65
+       Health Insurance                                                         $85.00                   $425.00
+      Total Deductions                                                       $2,802.91                $14,014.55
+                                                               NET PAY DISTRIBUTION       FS       ;
+                                                               Direct Deposit — Checking xxxxxx1111    $6,363.76
+                                                               Net Check                                   $0.00
+       GROSS PAY (Current)                 TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+       $9,166.67                           $2,802.91                          $6,363.76
+       GROSS PAY (YTD)                     TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+       $45,833.35                          $14,014.55                         $31,818.80
+       IMPORTANT NOTES
+       Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 05/31/2024.
+       Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+       deductions register above.
+       Review your federal and state withholding elections after any change in your family or employment status.
+      beswnnmennatahwesdbnaencnaSennntn tee tense eT      AIMENEMOTE                                        ae
+      Acme   Corporation                                                                   Advice number:   anne
+      789 ABC Boulevard, Suite 300                                                         Pay date:    BG(0S/ 4088
+      XYZ City, NY 12345
+      Deposited to the account of
+      John  Doe
+      123  ABC Street                      account number transit ABA amount
+      XYZ  City, NY 12345                  XXXXXX1111 xxxxx6789 $6,363.76                  NON-NEGOTIABLE
+ nn                                         cg                                                                a
+      This staternent is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+      period shown above. It is not a check and it is not negotiable Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+      records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                             warranted, corrected on a subsequent payroll
+      go._FAE_DEr         ven                                               EARNINGS         STATEMENT
+     co.  FILE DEPT. CLOCK VCHR.NO.
+      COE    OO SS  eee
+                                                                                 Statement of Earnings and Deductions — Employee Copy
+      Acme  Corporation                                                                Period Beginning: 06/01/2024
+      789 ABC Boulevard, Suite 300                                                     Period Ending: 06/30/2024
+      XYZ City, NY 12345                                                                Pay Date:     07/03/2024
+      Employer ID Number (EIN): 12-3456789                                              Pay Frequency:   Monthly
+      Taxable Marital Status: Married                                                 John Doe
+      Exemptions/Allowances:                                                          123 ABC Street
+        Federal:        “                                                             XYZ City, NY  12345
+       NY:              2
+        Local:          0
+      Social Security No.: XXX-XX-6789
+      Job Title:        Senior Systems Analyst
+      EARNINGS                                                                                current period and year to date
+       Description                                      Hours           Rate            Current             YTD
+       Regular                                         173533         $52.88         $9,166.67        $55,000.02
+       Gross Earnings                                                                $9,166.67        $55,000.02
+       DEDUCTIONS                                                                       statutory withholding and other deductions
+       Description                                                               Current                     YTD
+        Federal Income Tax                                                    $1,100.00                $6,600.00
+        Social Security                                                         $568.33                $3,409.98
+        Medicare                                                                $132.92                  $797.52
+        State Income Tax                                                        $458.33                $2,749.98
+        401(k) Retirement                                                       $458.33                $2,749.98
+        Health Insurance                                                         $85.00                  $510.00
+        Total Deductions                                                      $2,802.91               $16,817.46
+                                                                NET PAY DISTRIBUTION             :       ,
+                                                               Direct Deposit — Checking 0000x1111      $6,363.76
+                                                                Net Check                                  $0.00
+         GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+         $9,166.67                          $2,802.91                          $6,363.76
+         GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+         $55,000.02                         $16,817.46                         $38,182.56
+         IMPORTANT NOTES
+         Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 06/30/2024.
+         Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+         deductions register above.
+         Review your federal and state withholding elections after any change in your family or employment status.
+        STD ae it vanse eben tn gpapatae een erence arenes nae  eee         To   ne             oe    eae
+        Acme   Corporation                                                                   Advice number:  aa?
+        789 ABC Boulevard, Suite 300                                                         Pay date:   07/03/2028
+        XYZ City, NY 12345
+        Deposited to the account of
+         John Doe
+         123 ABC Street                      account number transit ABA amount
+         XYZ City, NY 12345                  XXXXXX1111 xxxxx6789 $6,363.76                  NON-NEGOTIABLE
+         This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+         period shown above. It is nota check and it is not negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+         records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                               warranted, corrected on a subsequent payroll
+         ee              a                                                  EARNINGS         STATEMENT
+      co.  FILE DEPT. CLOCK VCHR.NO.
+      123  456 789         20018
+                                                                                 Statement of Earnings and Deductions — Employee Copy
+      Acme   Corporation                                                               Period Beginning: 07/01/2024
+      789 ABC Boulevard, Suite 300                                                     Period Ending: 07/31/2024
+      XYZ City, NY 12345                                                               Pay Date:      08/03/2024
+      Employer ID Number (EIN): 12-3456789                                             Pay Frequency:   Monthly
+      Seen eee eR
+      Taxable Marital Status: Married                                                John  Doe
+      Exemptions/Allowances:                                                          123 ABC Street
+        Federal:       -                                                              XYZ City, NY 12345
+       NY:              2
+        Local:          0
+      Social Security No.: XXX-XX-6789
+      Job Title:        Senior Systems Analyst
+                                                                                                          a
+      EARNINGS                                                                                current period and year to date
+      Description                                       Hours          Rate             Current             YTD
+       Regular                                         173.33        $52.88         $9,166.67        $64,166.69
+       Gross Earnings                                                               $9,166.67        $64,166.69
+      DEDUCTIONS                                                                        statutory withholding and other deductions
+       Description                                                              Current                    YTD
+       Federal Income Tax                                                    $1,100.00                $7,700.00
+       Social Security                                                         $568.33                $3,978.31
+       Medicare                                                                $132.92                  $930.44
+       State Income Tax                                                        $458.33                $3,208.31
+       401(k) Retirement                                                       $458.33                $3,208.31
+       Health Insurance                                                         $85.00                  $595.00
+       Total Deductions                                                      $2,802.91               $19,620.37
+                                                              NEY PAY DISTRIBUTION os      BN       ac      a,
+                                                              Direct Deposit — Checking xxxxxx1111     $6,363.76
+                                                               Net Check                                  $0.00
+        GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+        $9,166.67                          $2,802.91                          $6,363.76
+        GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)             NET PAY (YTD)
+        $64,166.69                         $19,620.37                         $44,546.32
+        IMPORTANT NOTES
+        Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 07/31/2024.
+        Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+        deductions register above.
+        Review your federal and state withholding elections after any change in your family or employment status.
+       mean seas Set pea ennmtind Neon enn ee CR A NESS tte eR RORTONMMOTMEOOTAME
+       Acme   Corporation                                                                  Advice number:   wendy
+       789 ABC Boulevard, Suite 300                                                        Pay date:   On (05/2008
+       XYZ City, NY 12345
+       Deposited to the account of
+       John Doe
+       123 ABC  Street                      account number _ transit ABA amount
+       XYZ City,  NY 12345                  XxXXXX1111 xxxxx6789 $6,363.76                 NON-NEGOTIABLE
+       So   ee        nee   ee
+       This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+       period shown above. It is not a check and it is not negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+       records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                             warranted, corrected on a subsequent payroll.
+         c0__FLE_  per        woe                                              EARNINGS         STATEMENT
+        co.   FILE DEPT, CLOCK VCHR.NO.
+          reer      santa Se a    eee
+                                                                                    Statement of Earnings and Deductions — Employee Copy
+         Acme   Corporation                                                               Period Beginning: 08/01/2024
+         789 ABC Boulevard, Suite 300                                                     Period Ending: 08/31/2024
+         XYZ City, NY 12345                                                               Pay Date:     09/03/2024
+         Employer ID Number (EIN): 12-3456789                                             Pay Frequency:   Monthly
+         Taxable Marital Status: = Married                                              John Doe
+        Exemptions/Allowances:                                                          123 ABC Street
+          Federal:        2                                                             XYZ City, NY  12345
+          NY:             2
+          Local:          0
+        Social Security No.: XXX-XX-6789
+        Job Title:        Senior Systems Analyst
+        EARNINGS                                                                                current period and year to date
+        Description                                        Hours         Rate             Current             YTD
+         Regular                                         13333         $52.88         $9,166.67        $73,333.36
+         Gross Earnings                                                               $9,166.67        $73,333.36
+        DEDUCTIONS                                                                       statutory withholding and other deductions
+        Description                                                               Current                     YTD
+         Federal Income Tax                                                    $1,100.00                $8,800.00
+         Social Security                                                        $568.33                 $4,546.64
+         Medicare                                                               $132.92                 $1,063.36
+         State Income Tax                                                       $458.33                 $3,666.64
+         401(k) Retirement                                                      $458.33                 $3,666.64
+         Health Insurance                                                        $85.00                  $680.00
+        Total Deductions                                                      $2,802.91                $22,423.28
+                                                                NET PAY DISTRIBUTION
+                                                                Direct Deposit — Checking xxxxxx1111    $6,363.76
+                                                                Net Check                                  $0.00
+         GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)         NET PAY (Current)
+         $9,166.67                          $2,802.91                          $6,363.76
+         GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)            NET PAY (YTD)
+         $73,333.36                         $22,423.28                         $50,910.08
+        IMPORTANT NOTES
+        Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 08/31/2024.
+        Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+        deductions register above.
+        Review your federal and state withholding elections after any change in your family or employment status.
+       Dea sei ne late en      nse eo     5    RSE IR  OE RON MCR  Reeser  Bron   re  os  ee cheat eae eunrengee cas
+       Acme   Corporation                                                                  Advice number:  aoOue
+       789 ABC Boulevard, Suite 300                                                        Pay date:   09/03/2024
+       XYZ City, NY 12345
+       Deposited to the account of
+       John Doe
+       123 ABC Street                      account number transit ABA amount
+                                           a eatin        erin as     ee                       5
+       XYZ City, NY 12345                  XXXXxXX1111 xxxxx6789 $6,363.76                 NON  NEGOTIABLE
+       This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+       period shown above. It is not a check and it is not negotiable. Retain this statement for your Pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+       records; a duplicate may not be available after the current calendar year in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                            warranted, corrected on a subsequent payroll.
+      co.  FILE DEPT. CLOCK VCHR.NO.
+      e0__FAE_  oer        on                                                EARNINGS         STATEMENT
+                                                                                  Statement of Earnings and Deductions — Employee Copy
+      Acme   Corporation                                                                Period Beginning: 09/01/2024
+      789 ABC Boulevard, Suite 300                                                      Period Ending: 09/30/2024
+      XYZ City, NY 12345                                                                Pay Date:      10/03/2024
+      Employer ID Number (EIN): 12-3456789                                              Pay Frequency:   Monthly
+               cee                       ee   rp        i  icici     a                             a ee
+      Taxable Marital Status: Married                                                 John  Doe
+      Exemptions/Allowances:                                                          123  ABC Street
+        Federal:       2                                                              XYZ  City, NY 12345
+                                                                                              y.
+       NY:             2
+        Local:         0
+      Social Security No.: XXX-XX-6789
+     Job Title:        Senior Systems Analyst
+      rE
+     EARNINGS                                                                                  current period and year to date
+      a                                                                                            a     een
+      Description                                        Hours          Rate             Current             YTD
+       Regular                                         173.33         $52.88         $9,166.67        $82,500.03
+              i    egestas                            su     mrss seeps       penises             aniapdiomsoemsapacncemaiosnduduibasaicts
+       Gross Earnings                                                                $9,166.67        $82,500.03
+     UU   UU pn      een
+      DEDUCTIONS                                                                        statutory withholding and other deductions
+            LK
+      Description                                                                Current                     YTD
+       Federal Income Tax                                                    $1,100.00                 $9,900.00
+       Social Security                                                         $568.33                 $5,114.97
+      Medicare                                                                 $132.92                 $1,196.28
+       State Income Tax                                                        $458.33                 $4,124.97
+       401(k) Retirement                                                       $458.33                 $4,124.97
+       Health Insurance                                                         $85.00                   $765.00
+      Total Deductions                                                       $2,802.91                $25,226.19
+      SE
+                                                              NET PAY DISTRIBUTION       B
+                                                              Direct Deposit — Checking xxxxxx1111     $6,363.76
+                                                              Net Check                                    $0.00
+       GROSS PAY (Current)                TOTAL DEDUCTIONS (Current)          NET PAY (Current)
+       $9,166.67                          $2,802.91                           $6,363.76
+       GROSS PAY (YTD)                    TOTAL DEDUCTIONS (YTD)              NET PAY (YTD)
+       $82,500.03                         $25,226.19                          $57,273.84
+       IMPORTANT NOTES
+       Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 09/30/2024.
+       Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+       deductions register above.
+       Review your federal and state withholding elections after any change in your family or employment status.
+      Se   eR RVers      Tall compa Rol aie ts ee HERE THI BORTION IS NOE MEROTIAGLE 4+ osteo asthe me ci gre eer, Seren wesley autre
+     Acme   Corporation                                                                    Advice number:   20020
+      789 ABC Boulevard, Suite 300                                                         Pay date:   HET AL SORA
+      XYZ City, NY 12345
+      Deposited to the account of
+      John Doe
+      123 ABC Street                      account number _ transit ABA amount
+      XYZ City, NY  12345                 XXXXXX1111 xxxxx6789 $6,363.76                   NON-NEGOTIABLE
+     This statement is furnished to you as a record of wages paid and amounts withheld for the pay Year-to-date figures include every payroll processed from January 1 of the current year through the
+     period shown above, It is not a check and it is not negotiable. Retain this statement for your pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+     records; a duplicate may not be available after the current calendar year. in writing within thirty (30) days of the pay date so the discrepancy can be researched and. if
+                                                            warranted, corrected on a subsequent payroll
+CO.
+123
+         FILE
+         456
+                  DEPT.
+                  789
+                            CLOCK       VCHR. NO.
+                                        20021
+                                                                                                                                        EARNINGS STATEMENT
+                                                                                                                                                 Statement of Earnings and Deductions — Employee Copy
+
+
+Acme Corporation                                                                                                                                              Period Beginning:           10/01/2024
+789 ABC Boulevard, Suite 300                                                                                                                                  Period Ending:              10/31/2024
+XYZ City, NY 12345                                                                                                                                            Pay Date:                   11/03/2024
+Employer ID Number (EIN): 12-3456789                                                                                                                          Pay Frequency:                 Monthly
+
+Taxable Marital Status:          Married                                                                                                                   John Doe
+Exemptions/Allowances:                                                                                                                                     123 ABC Street
+  Federal:                       2                                                                                                                         XYZ City, NY 12345
+  NY:                            2
+  Local:                         0
+Social Security No.:             XXX-XX-6789
+Job Title:                       Senior Systems Analyst
+
+
+EARNINGS                                                                                                                                                                  current period and year to date
+ Description                                                                                     Hours                          Rate                           Current                               YTD
+ Regular                                                                                     173.33                       $52.88                       $9,166.67                        $91,666.70
+ Gross Earnings                                                                                                                                        $9,166.67                        $91,666.70
+
+DEDUCTIONS                                                                                                                                                    statutory withholding and other deductions
+ Description                                                                                                                                     Current                                             YTD
+ Federal Income Tax                                                                                                                      $1,100.00                                      $11,000.00
+ Social Security                                                                                                                             $568.33                                      $5,683.30
+ Medicare                                                                                                                                    $132.92                                      $1,329.20
+ State Income Tax                                                                                                                            $458.33                                      $4,583.30
+ 401(k) Retirement                                                                                                                           $458.33                                      $4,583.30
+ Health Insurance                                                                                                                             $85.00                                          $850.00
+ Total Deductions                                                                                                                        $2,802.91                                      $28,029.10
+
+                                                                                                             NET PAY DISTRIBUTION
+                                                                                                             Direct Deposit — Checking xxxxxx1111                                         $6,363.76
+                                                                                                             Net Check                                                                        $0.00
+
+
+  GROSS PAY (Current)                                                 TOTAL DEDUCTIONS (Current)                                          NET PAY (Current)
+  $9,166.67                                                           $2,802.91                                                           $6,363.76
+  GROSS PAY (YTD)                                                     TOTAL DEDUCTIONS (YTD)                                              NET PAY (YTD)
+  $91,666.70                                                          $28,029.10                                                          $63,637.60
+
+  IMPORTANT NOTES
+  Basis of pay: Monthly payroll cycle. Hours shown are those reported to payroll for the period ending 10/31/2024.
+  Your federal taxable wages are reduced by the pre-tax retirement and health plan contributions itemized in the
+  deductions register above.
+  Review your federal and state withholding elections after any change in your family or employment status.
+
+
+
+                                                                        DETACH HERE — THIS PORTION IS NOT NEGOTIABLE
+
+
+Acme Corporation                                                                                                                                                   Advice number:               20021
+789 ABC Boulevard, Suite 300                                                                                                                                       Pay date:               11/03/2024
+XYZ City, NY 12345
+
+Deposited to the account of
+John Doe
+123 ABC Street                                                        account number       transit ABA                amount
+XYZ City, NY 12345                                                    xxxxxx1111           xxxxx6789           $6,363.76                                           NON-NEGOTIABLE
+
+This statement is furnished to you as a record of wages paid and amounts withheld for the pay            Year-to-date figures include every payroll processed from January 1 of the current year through the
+period shown above. It is not a check and it is not negotiable. Retain this statement for your           pay date shown. If you believe an amount shown here is incorrect, notify your payroll administrator
+records; a duplicate may not be available after the current calendar year.                               in writing within thirty (30) days of the pay date so the discrepancy can be researched and, if
+                                                                                                         warranted, corrected on a subsequent payroll.
+          Notice Concerning   Property Taxes  and  Hazard  Insurance
+          ABC MORTGAGE COMPANY — NOTICE CONCERNING PROPERTY TAXES AND HAZARD INSURANCE — PLEASE READ AND RETAIN
+          Loan #1234567890 - ABC Mortgage Company - 11/29/2024
+          Document LN-1411 - Rev. 4.9 - In effect as of 06/11/2024
+                                                                                             ee
+          Where this document summarizes the law, the law itself controls in the event of any difference. This notice summarizes the obligations of John Doe with
+          respect to property taxes, assessments, and insurance coverage on the property located at 456 XYZ Avenue, XYZ City, NY 12345, which secures loan
+          number 1234567890, These obligations continue for the entire term of the loan and exist whether or not an escrow account is maintained. They arise
+          from the security instrument you sign at closing and from the law of NY, and a failure to meet them can result in a lien with priority over the mortgage, in
+          an uninsured loss, or in charges assessed to your account. The notice is provided as of November 14, 2024 for your reference.
+          Article |. Real Estate Taxes
+          General real estate taxes are assessed by the county or municipality in which the property lies and are billed on a cycle established by local law. Unpaid taxes
+          become a lien on the property that generally takes priority over the mortgage, and continued nonpayment can result in a tax sale of the property or of the tax
+          lien itself, in either case on a timetable set by statute rather than by the lender.
+         Where an escrow account is maintained, the servicer pays the general tax bill from escrow. You should nonetheless review each assessment notice and tax bill
+          you receive to confirm that the assessed value, the exemptions applied, and the parcel identification are correct. An error in any of those items affects the
+         amount escrowed and is corrected through the assessor, not through the servicer.
+         Article ll. Required Hazard Insurance
+         The security instrument requires that the improvements be insured against loss by fire, hazards within the term "extended coverage,” and other hazards for
+         which insurance is required, in the amounts and for the periods required, with a carrier acceptable to the lender. The policy must name the lender and its
+         successors and assigns as mortgagee so that notice of cancellation is received and the lender's interest is protected.
+         Coverage must be maintained continuously. A policy cancelled for nonpayment, not renewed at expiration, or reduced below the required amount leaves the
+         collateral unprotected and permits the servicer to place coverage at your expense after the notices described in the separate lender-placed insurance notice.
+         Confirm at each renewal that the mortgagee clause names the current servicer at the current address.
+         Article Ill. Flood and Other Specialized Coverage
+         Where the property is located in a special flood hazard area, flood insurance is required by federal law for the term of the loan, in an amount at least equal to
+         the lesser of the outstanding principal balance, the insurable value of the improvements, or the maximum available under the National Flood Insurance
+         Program. The determination applicable to your property is disclosed to you separately.
+         Depending on the location and characteristics of the property, other coverage may be required or advisable, including windstorm or named-storm coverage in
+         coastal areas, earthquake coverage where the exposure warrants it, and a walls-in policy where a condominium or homeowners association maintains a
+         master policy. Review the association's coverage where applicable to confirm what it does and does not insure.
+         Article lV. Property Address and Occupancy of Record
+         Our records identify the property securing loan number 1234567890 as 456 XYZ Avenue, XYZ City, NY 12345, and they reflect the occupancy status certified
+         in your application. Certain program requirements, insurance obligations, and tax treatments depend upon that status, and it is therefore recorded as of the
+         date of the transaction and carried forward until we are notified of a change.
+         Notify us if the mailing address at which you wish to receive correspondence differs from the property address, and notify us again if either changes. A mailing
+         address that differs from the property address is common and is recorded without any effect on the terms of the loan: what matters is that both are accurate so
+         that notices and bills reach the right place.
+         Where a change in the use or occupancy of the property is contemplated, review the security instrument and any rider attached to it, since some contain
+         provisions concerning occupancy, leasing, or transfer of the property. Consult your own adviser concerning the effect of a contemplated change before it is
+         made.
+         Article V. Adequacy of Coverage
+         The dwelling limit should be sufficient to rebuild the structure at current construction costs, which may differ substantially from the purchase price or the
+         assessed value. Review the limit annually, and consider whether an extended or guaranteed replacement cost endorsement is appropriate. Review the
+         deductible as well, particularly any percentage deductible applicable to wind, hail, or named storms.
+         Consider also whether your personal property limits, loss-of-use coverage, and liability limits are adequate for your circumstances. Those coverages protect
+         you rather than the lender and are not addressed by the minimum requirements of the security instrument. An insurance professional can evaluate the
+         adequacy of coverage on 456 XYZ Avenue, XYZ City, NY 12345.
+         Article VI. Identity Verification Requirements
+         Federal law requires all financial institutions to obtain, verify, and record information identifying each person who opens an account, in order to help the
+         government fight the funding of terrorism and money-laundering activities. When you apply for credit, we ask for your name, address, date of birth, and other
+         information that allows us to identify you, and we may ask to see a driver's license or other identifying document.
+                                               Retain this document with your loan file records.        Page 1 of 3

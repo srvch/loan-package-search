@@ -1,0 +1,53 @@
+Date                 Description                       Withdrawals   Deposits            Balance
+ 06/07/2024           DEBIT CARD PURCHASE XYZ BAKERY          59.41                     60,398.47
+ 06/07/2024           DEBIT CARD PURCHASE XYZ BAKERY          33.68                     60,364.79
+ 06/07/2024           DEBIT CARD PURCHASE XYZ BAKERY          80.97                     60,283.82
+ 06/07/2024           DEBIT CARD PURCHASE XYZ DINER           51.07                     60,232.75
+ 06/07/2024           DEBIT CARD PURCHASE XYZ SPORTS          54.54                     60,178.21
+ 06/07/2024           DEBIT CARD PURCHASE XYZ SPORTS          75.40                     60,102.81
+ 06/07/2024           POS PURCHASE ABC CLEANERS               64.28                     60,038.53
+ 06/07/2024           POS PURCHASE ABC MARKET                 37.85                     60,000.68
+ 06/07/2024           POS PURCHASE XYZ CAFE                   41.33                     59,959.35
+ 06/08/2024           DEBIT CARD PURCHASE XYZ BOOKS           76.79                     59,882.56
+ 06/08/2024           DEBIT CARD PURCHASE XYZ DINER           82.36                     59,800.20
+ 06/08/2024           POS PURCHASE ABC HARDWARE               32.29                     59,767.91
+ 06/09/2024           DEBIT CARD PURCHASE ABC GROCERS        100.44                     59,667.47
+ 06/09/2024           DEBIT CARD PURCHASE XYZ BOOKS           28.81                     59,638.66
+ 06/11/2024           ACH CREDIT UTILITY REFUND                          76.17          59,714.83
+ 06/11/2024           DEBIT CARD PURCHASE XYZ BOOKS           73.32                     59,641.51
+ 06/11/2024           POS PURCHASE ABC HARDWARE               63.58                     59,577.93
+ 06/13/2024           POS PURCHASE ABC GARDEN CENTER          35.07                     59,542.86
+ 06/13/2024           POS PURCHASE XYZ CAFE                  115.04                     59,427.82
+ 06/14/2024           POS PURCHASE ABC DELI                   37.16                     59,390.66
+ 06/14/2024           POS PURCHASE XYZ CAFE                   26.03                     59,364.63
+ 06/15/2024           DEBIT CARD PURCHASE ABC GROCERS         30.90                     59,333.73
+ 06/16/2024           POS PURCHASE ABC GARDEN CENTER          35.77                     59,297.96
+ 06/16/2024           POS PURCHASE ABC HARDWARE               27.42                     59,270.54
+ 06/17/2024           DEBIT CARD PURCHASE XYZ THEATER        108.78                     59,161.76
+ 06/17/2024           POS PURCHASE ABC MARKET                 37.85                     59,123.91
+ 06/18/2024           ACH CREDIT DIVIDEND PAYMENT                       193.52          59,317.43
+ 06/18/2024           DEBIT CARD PURCHASE XYZ THEATER         87.92                     59,229.51
+ 06/18/2024           POS PURCHASE ABC CLEANERS              103.91                     59,125.60
+ 06/19/2024           ACH CREDIT UTILITY REFUND                          66.67          59,192.27
+ 06/19/2024           DEBIT CARD PURCHASE XYZ DINER           73.32                      59,118.95
+ 06/19/2024           DEBIT CARD PURCHASE XYZ THEATER         89.31                     59,029.64
+ 06/19/2024           POS PURCHASE ABC COFFEE                 67.06                     58,962.58
+ 06/20/2024           POS PURCHASE ABC FUEL 118               96.96                     58,865.62
+ 06/21/2024           ACH CREDIT FLEX SPENDING REIMB                    314.85          59,180.47
+ 06/21/2024           DEBIT CARD PURCHASE XYZ BAKERY          67.75                      59,112.72
+ 06/21/2024           POS PURCHASE ABC COFFEE                 99.05                     59,013.67
+ 06/21/2024           POS PURCHASE ABC GARDEN CENTER          26.03                     58,987.64
+ 06/22/2024           ATM WITHDRAWAL ABC BANK BRANCH          80.00                     58,907.64
+ 06/22/2024           DEBIT CARD PURCHASE XYZ BOOKS           82.36                     58,825.28
+ 06/22/2024           POS PURCHASE ABC COFFEE                 55.93                     58,769.35
+ 06/22/2024           POS PURCHASE ABC MARKET                 73.32                     58,696.03
+ 06/24/2024           DEBIT CARD PURCHASE XYZ BOOKS           94.87                     58,601.16
+ 06/24/2024           DEBIT CARD PURCHASE XYZ DINER           25.34                     58,575.82
+ 06/24/2024           DEBIT CARD PURCHASE XYZ SPORTS          98.35                     58,477.47
+ 06/24/2024           POS PURCHASE XYZ PHARMACY               62.89                     58,414.58
+ 06/25/2024           POS PURCHASE ABC DELI                   26.03                     58,388.55
+ 06/26/2024           DEBIT CARD PURCHASE XYZ BAKERY          87.22                     58,301.33
+
+
+Member FDIC · Equal Housing Lender                                               DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                             Page 3 of 4

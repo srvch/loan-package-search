@@ -1,0 +1,60 @@
+Date                    Description                                                                                    Withdrawals                 Deposits                   Balance
+ 06/26/2024              DEBIT CARD PURCHASE XYZ PET SUPPLY                                                                       39.94                                      58,261.39
+ 06/26/2024              DEBIT CARD PURCHASE XYZ SPORTS                                                                           46.20                                      58,215.19
+ 06/26/2024              POS PURCHASE ABC COFFEE                                                                                  80.97                                      58,134.22
+ 06/26/2024              POS PURCHASE ABC GARDEN CENTER                                                                         100.44                                       58,033.78
+ 06/26/2024              POS PURCHASE XYZ PHARMACY                                                                                63.58                                      57,970.20
+ 06/27/2024              POS PURCHASE ABC DELI                                                                                    40.64                                      57,929.56
+ 06/28/2024              DEBIT CARD PURCHASE ABC GROCERS                                                                          82.36                                      57,847.20
+ 06/28/2024              DEBIT CARD PURCHASE XYZ BOOKS                                                                            96.96                                      57,750.24
+ 06/28/2024              DEBIT CARD PURCHASE XYZ DINER                                                                            81.66                                      57,668.58
+ 06/28/2024              POS PURCHASE ABC DELI                                                                                    89.31                                      57,579.27
+ 06/29/2024              ACH DEBIT ABC WIRELESS                                                                                 114.93                                       57,464.34
+ 06/29/2024              ATM WITHDRAWAL ABC BANK BRANCH                                                                           80.00                                      57,384.34
+ 06/29/2024              POS PURCHASE ABC CLEANERS                                                                                71.93                                      57,312.41
+ 06/29/2024              POS PURCHASE ABC FUEL 118                                                                                99.74                                      57,212.67
+ 06/30/2024              ACH DEBIT XYZ WATER DIST                                                                                 82.29                                      57,130.38
+ 06/30/2024              ATM WITHDRAWAL ABC BANK BRANCH                                                                           60.00                                      57,070.38
+ 06/30/2024              DEBIT CARD PURCHASE XYZ PET SUPPLY                                                                       78.18                                      56,992.20
+ 06/30/2024              INTEREST PAYMENT                                                                                                                21.00               57,013.20
+ 06/30/2024              POS PURCHASE ABC GARDEN CENTER                                                                           58.02                                      56,955.18
+                         Totals                                                                                               6,169.02               6,690.45                56,955.18
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+  DAILY ENDING BALANCE                                          Ledger balance at the close of each day on which an item posted
+
+ Date                       Amount      Date                       Amount      Date                      Amount           Balance history for this period
+ 06/02                   56,322.19      06/03                   59,677.27      06/04                  61,191.41
+ 06/05                   60,537.09      06/06                   60,056.34      06/07                  59,959.35
+ 06/08                   59,767.91      06/09                   59,638.66      06/11                  59,577.93
+ 06/13                   59,427.82      06/14                   59,364.63      06/15                  59,333.73
+ 06/16                   59,270.54      06/17                   59,123.91      06/18                  59,125.60
+ 06/19                   58,962.58      06/20                   58,865.62      06/21                  58,987.64           Trend of the ledger balance over the statement period. Amounts
+                                                                                                                          as listed at left.
+ 06/22                   58,696.03      06/24                   58,414.58      06/25                  58,388.55
+ 06/26                   57,970.20      06/27                   57,929.56      06/28                  57,579.27
+ 06/29                   57,212.67      06/30                   56,955.18
+
+
+ INFORMATION ABOUT YOUR ACCOUNT                                   Change of address, check copies, deposit agreement and balance computation
+
+Change of address — please call us at the telephone number listed on the front of this        documents. Those documents are part of the contract for your deposit account and govern
+statement, or write to us at the address shown there, to tell us about a change of address.   all transactions relating to your account, including all deposits and withdrawals.
+Do not send a change of address with a deposit.
+                                                                                              Account balance computation method — the balance shown for each day is the ledger
+Check copies — you can view and print copies of your paid checks through Online Banking       balance at the close of that business day. Deposits and other credits may not be available
+for up to 12 months. You can also request a copy of, or more information about, a check or    for immediate withdrawal; refer to the funds availability policy in your deposit account
+other item by calling the Service Center number on the front of this statement.               agreement. Interest, where applicable, is computed by applying a daily periodic rate to the
+                                                                                              collected balance in the account each day.
+Deposit agreement — when you opened your account you received a deposit agreement
+and fee schedule, and agreed that your account would be governed by the terms of those
+
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                                                   DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                                Page 4 of 4

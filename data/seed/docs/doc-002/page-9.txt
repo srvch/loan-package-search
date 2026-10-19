@@ -1,0 +1,51 @@
+Uniform Residential Loan Application                                                                          Printed November 14, 2024
+Freddie Mac Form 65 • Fannie Mae Form 1003                                                                            Borr. Init. ________
+Effective 1/2021
+ To be completed by the Lender:
+ Lender Loan No./Universal Loan Identifier    1234567890            Lender      ABC Mortgage Company         Agency Case No.
+
+
+Uniform Residential Loan Application — Lender Loan Information
+This section is completed by your Lender.
+
+     L1. Property and Loan Information
+  Community Property State                                                               Refinance Type                        Refinance Program
+    At least one borrower lives in a community property state.                             No Cash Out                           Full Documentation
+    The property is in a community property state.                                         Limited Cash Out                      Interest Rate Reduction
+  Transaction Detail                                                                       Cash Out                              Streamlined without Appraisal
+     Conversion of Contract for Deed or Land Contract                                    Energy Improvement
+     Renovation                                                                             Mortgage loan will finance energy-related improvements.
+     Construction-Conversion/Construction-to-Permanent                                      Property is currently subject to a lien that could take priority over the
+        Single-Closing    Two-Closing                                                      first mortgage lien, such as a clean energy lien paid for through
+  Construction/Improvement Costs                                                           property taxes (e.g., the Property Assessed Clean Energy program).
+  Lot Acquired Date                             (mm/dd/yyyy)
+
+  Project Type       Condominium          Cooperative       Planned Unit Development (PUD)             Property is not located in a project
+
+     L2. Title Information
+  Title to the Property Will be Held in What Name(s):                                 For Refinance: Title to the Property is Currently Held in What Name(s):
+   Jane Doe; John Doe
+  Estate Will be Held in                                                              Manner in Which Title Will be Held
+     Fee Simple                                                                         Sole Ownership      Joint Tenancy with Right of Survivorship
+     Leasehold Expiration Date                                   (mm/dd/yyyy)           Life Estate   Tenancy by the Entirety
+                                                                                        Tenancy in Common        Other
+
+     L3. Mortgage Loan Information
+  Mortgage Type Applied For                                                           Terms of Loan                                Mortgage Lien Type
+     Conventional         USDA/RD            FHA          VA                          Note Rate 6.500%                               First Lien
+  Amortization Type                                                                   Loan Term 360                    (months)      Subordinate Lien
+     Fixed Rate         Adjustable Rate                                               Loan Summary
+  Loan Features
+                                                                                       Loan Amount                                                      $496,000.00
+    Balloon / Balloon Term                (months)
+     Interest Only / Interest Only Term              (months)                          Down Payment                                                     $124,000.00
+     Negative Amortization                                                             Property Value                                                   $620,000.00
+     Prepayment Penalty / Term                (months)
+                                                                                       Loan-to-Value (LTV)                                                  80.000%
+
+                                                                                       Lien Position                                                  First Mortgage
+
+
+
+
+Borrower Name(s): Jane Doe                                                                                                                                  Page 9 of 9

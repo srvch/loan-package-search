@@ -1,0 +1,71 @@
+Rate Lock Terms, Extensions, and Expiration
+ABC MORTGAGE COMPANY — RATE LOCK TERMS, EXTENSIONS, AND EXPIRATION
+Loan #1234567890 · ABC Mortgage Company · 11/20/2024
+Form MTG-5384 · Rev. 3.6 · Effective 12/21/2023
+
+
+
+This document describes the policy of ABC Mortgage Company concerning interest rate lock-in agreements for residential mortgage transactions,
+including the application identified as loan number 1234567890 for the property at 456 XYZ Avenue, XYZ City, NY 12345. A rate lock is a commitment,
+for a stated period and subject to stated conditions, to make credit available to John Doe at a specified interest rate and point combination. The specific
+rate, points, lock period, and expiration date applicable to your transaction, if a lock has been established, appear on the separate rate lock confirmation
+issued to you; this policy explains the rules that govern locks generally. This document supersedes any earlier version of the same document furnished
+to you.
+
+1.0 Floating Versus Locking
+Until a lock is established, the rate applicable to your transaction floats, meaning that the rate available to you moves with the market and is not determined
+until a lock is taken or, at the latest, until the point at which the loan documents are prepared. A floating rate exposes you to the possibility of both improvement
+and deterioration in pricing before closing.
+
+Locking fixes the rate and points for the lock period, transferring the risk of market movement during that period to the lender, which manages the exposure
+through its own hedging arrangements. Neither choice is inherently better; the decision depends on your tolerance for uncertainty, the time remaining before
+closing, and the state of the market when the decision is made.
+
+2.0 Lock Periods and Expiration
+Locks are offered for defined periods, commonly thirty, forty-five, or sixty days, and longer periods are available for certain programs at a price that reflects the
+additional exposure. The lock expires at the close of business on the expiration date shown on the confirmation. A lock must be valid on the date the loan is
+funded, not merely on the date the documents are signed.
+
+Select a lock period that accommodates the realistic timeline of your transaction, including underwriting, appraisal, title work, and any condition likely to require
+time to satisfy. A lock period that is too short frequently results in an extension fee that exceeds what the longer period would have cost at the outset.
+
+3.0 How a Lock Is Taken
+A lock is established only when we confirm it in writing. An oral discussion of available pricing, a rate quoted in a marketing communication, a rate shown on an
+initial Loan Estimate issued before a lock, and a rate discussed in general conversation are not locks and create no commitment. If you have not received a
+written lock confirmation identifying the rate, the points, the lock period, and the expiration date, your rate is floating.
+
+Establishing a lock generally requires a complete application, a property address, and a loan program selection, because pricing depends on program,
+occupancy, property type, loan amount, credit score, and loan-to-value ratio. A change in any of those characteristics after a lock is taken may require the lock
+to be repriced under the terms described below.
+
+4.0 Fraud Awareness and Reporting
+Mortgage transactions attract fraud, most commonly in the form of messages that appear to come from a lender, a settlement agent, or a real estate
+professional and that direct funds to an account controlled by a criminal. We do not transmit wiring instructions by electronic message, and we do not change
+previously issued remittance instructions by electronic message. Verify any such instruction by telephone at a number you have independently confirmed
+before transferring funds.
+
+Report a suspicious communication concerning loan number 1234567890 to us at (555) 555-0120 promptly, and preserve the message rather than deleting it.
+If funds have already been transmitted, contact your financial institution immediately and ask that a recall be initiated; the prospects of recovery diminish
+sharply within hours, and prompt action is by far the most important factor.
+
+5.0 Lock Extensions
+Where the transaction cannot close before expiration, an extension may be available for a fee that depends on the length of the extension and the market at
+the time it is requested. An extension request should be made before the lock expires; a request made after expiration is treated as a relock rather than an
+extension and is priced accordingly.
+
+An extension preserves the locked rate and points and changes only the expiration date. Fees for extension, where charged, are disclosed to you before the
+extension is applied and appear on the revised disclosures issued for the transaction where required by the integrated disclosure rules.
+
+6.0 Expiration and Relock
+If a lock expires and the loan has not closed, pricing reverts to the market. A relock is generally offered at the worse of the original locked pricing and the
+current market pricing, a convention that prevents a lock from operating as an option to be abandoned when the market improves. The terms of any relock are
+confirmed to you in writing before they are applied.
+
+Where expiration results from a delay attributable to us rather than to you or to a third party, the circumstances are reviewed and an accommodation may be
+extended. Requests for such review should be directed to the office identified at the end of this policy and should describe the sequence of events giving rise to
+the delay.
+
+
+
+
+                                                              Retain this document with your loan file records.                                             Page 1 of 4

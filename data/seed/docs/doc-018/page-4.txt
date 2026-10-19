@@ -1,0 +1,55 @@
+Date                 Description                                                                          Withdrawals            Deposits               Balance
+ 03/20/2024           POS PURCHASE XYZ CAFE                                                                      121.31                                54,127.57
+ 03/21/2024           POS PURCHASE ABC HARDWARE                                                                    48.96                               54,078.61
+ 03/22/2024           DEBIT CARD PURCHASE XYZ DINER                                                              117.95                                53,960.66
+ 03/22/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                             106.17                                53,854.49
+ 03/23/2024           ATM WITHDRAWAL XYZ BANK PLAZA                                                                40.00                               53,814.49
+ 03/23/2024           DEBIT CARD PURCHASE ABC GROCERS                                                              91.02                               53,723.47
+ 03/23/2024           POS PURCHASE ABC MARKET                                                                      49.80                               53,673.67
+ 03/24/2024           ACH DEBIT XYZ AUTO FINANCE                                                                 385.78                                53,287.89
+ 03/24/2024           ACH DEBIT XYZ INTERNET                                                                       73.36                               53,214.53
+ 03/24/2024           DEBIT CARD PURCHASE XYZ DINER                                                              126.36                                53,088.17
+ 03/24/2024           POS PURCHASE ABC GARDEN CENTER                                                               43.07                               53,045.10
+ 03/24/2024           POS PURCHASE ABC HARDWARE                                                                  123.84                                52,921.26
+ 03/24/2024           POS PURCHASE ABC MARKET                                                                    115.42                                52,805.84
+ 03/25/2024           ATM WITHDRAWAL ABC BANK BRANCH                                                               80.00                               52,725.84
+ 03/25/2024           DEBIT CARD PURCHASE XYZ DINER                                                                93.55                               52,632.29
+ 03/25/2024           POS PURCHASE ABC GARDEN CENTER                                                             121.31                                52,510.98
+ 03/26/2024           ACH CREDIT DIVIDEND PAYMENT                                                                                    205.21            52,716.19
+ 03/26/2024           ACH CREDIT DIVIDEND PAYMENT                                                                                    126.03            52,842.22
+ 03/26/2024           DEBIT CARD PURCHASE ABC GROCERS                                                              50.64                               52,791.58
+ 03/26/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                                53.16                               52,738.42
+ 03/26/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                              126.36                                52,612.06
+ 03/26/2024           DEBIT CARD PURCHASE XYZ THEATER                                                              95.23                               52,516.83
+ 03/26/2024           POS PURCHASE ABC GARDEN CENTER                                                             110.38                                52,406.45
+ 03/27/2024           DEBIT CARD PURCHASE ABC GROCERS                                                              38.02                               52,368.43
+ 03/27/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                                91.87                               52,276.56
+ 03/27/2024           DEBIT CARD PURCHASE XYZ DINER                                                                81.77                               52,194.79
+ 03/27/2024           POS PURCHASE ABC FUEL 118                                                                    86.82                               52,107.97
+ 03/28/2024           ATM WITHDRAWAL ABC BANK BRANCH                                                             120.00                                51,987.97
+ 03/28/2024           DEBIT CARD PURCHASE XYZ BAKERY                                                             135.62                                51,852.35
+ 03/28/2024           POS PURCHASE ABC CLEANERS                                                                    58.21                               51,794.14
+ 03/28/2024           POS PURCHASE ABC FUEL 118                                                                  126.36                                51,667.78
+ 03/28/2024           POS PURCHASE ABC GARDEN CENTER                                                               50.64                               51,617.14
+ 03/29/2024           ACH DEBIT ABC INSURANCE                                                                    147.63                                51,469.51
+ 03/29/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                              111.22                               51,358.29
+ 03/29/2024           DEBIT CARD PURCHASE XYZ THEATER                                                            135.62                                51,222.67
+ 03/29/2024           POS PURCHASE ABC MARKET                                                                      54.01                               51,168.66
+ 03/30/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                                54.01                                51,114.65
+ 03/30/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                               38.86                               51,075.79
+ 03/30/2024           POS PURCHASE ABC FUEL 118                                                                  100.28                                50,975.51
+ 03/30/2024           CHECK 1840                                                                                 139.82                                50,835.69
+ 03/30/2024           POS PURCHASE ABC GARDEN CENTER                                                               90.18                               50,745.51
+ 03/31/2024           DEBIT CARD PURCHASE ABC GROCERS                                                              64.94                               50,680.57
+ 03/31/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                             103.64                                50,576.93
+ 03/31/2024           INTEREST PAYMENT                                                                                                20.00            50,596.93
+ 03/31/2024           POS PURCHASE ABC COFFEE                                                                    138.14                                50,458.79
+                      Totals                                                                                  10,035.31           10,803.52            50,458.79
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                              DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                                 Page 4 of 5

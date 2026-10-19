@@ -1,0 +1,89 @@
+Uniform Underwriting and Transmittal Summary
+ I. Borrower and Property Information
+Borrower Name      John Doe                                                                         Occupancy Status                              Sales Price $          620,000.00
+Total # of Borrowers    2                                                                             Primary Residence                           Appraised Value $          620,000.00
+                                                                                                      Second Home
+Property Address 456 XYZ Avenue, XYZ City, NY 12345
+                                                                                                      Investment Property
+       Property Type                       Project Classification                                                                                                       Property Rights
+          1 Unit                           Freddie Mac                                   Fannie Mae                                                                        Fee Simple
+          2 units                             Streamlined Review                           E Established PUD Project                                                       Leasehold
+          3 units                             Established Project                          F New PUD Project
+          4 units                             New Project                                  P Limited Review - New Condo Project
+          Condominium                         Detached Project                             Q Limited Review - Established Condo Project
+          PUD       Co-op                     2- to 4-unit Project                         R Full Review - New Condo Project
+          Manufactured Housing                Exempt from Review                           S Full Review - Established Condo Project
+          Single Wide     Multiwide           Reciprocal Review                            T Fannie Mae Review through PERS - Condo Project
+                                                                                           U FHA-approved Condo Project
+                                                                                           V Condo Project Review Waived
+                                                                                           1 Full Review - Co-op Project
+                                                                                           2 Fannie Mae Review through PERS - Co-op Project
+       Project Name                                                                    Fannie Mae Condo Project Manager™ Project ID# (if any)
+ II. Mortgage Information
+Loan Type                         Amortization Type                               Loan Purpose                                                    Lien Position
+  Conventional                      Fixed-Rate—Monthly Payments                     Purchase                                                          First Mortgage
+  FHA                               Fixed-Rate—Biweekly Payments                    Cash-Out Refinance                                            Amount of Subordinate Financing
+  VA                                Balloon                                         Limited Cash-Out Refinance (Fannie)                           $
+  USDA/RD                           ARM (type)                                      No Cash-Out Refinance (Freddie)                               (If HELOC, include balance and credit limit)
+                                    Other (specify)                                 Home Improvement                                                  Second Mortgage
+                                                                                    Construction Conversion/Construction to Permanent
+Note Information                                            Mortgage Originator                                                               Temporary Buydown
+Loan Amount $             496,000.00                           Seller                                                                            Yes
+Note Rate             6.500 %                                  Broker                                                                            No
+                                                               Correspondent                                                                  Terms
+Loan Term (in months)             360
+                                                            Broker/Correspondent Name and Company Name:
+
+
+ III. Underwriting Information
+Underwriter’s Name                                     Appraiser’s Name/License #                                       Appraisal Company Name
+ Uma Underwriter                                          Alan Appraiser / AP-12345                                         ABC Appraisal Services, Inc.
+Stable Monthly Income                                                  Amount         Proposed Monthly Payment for the Property
+Borrower 1 Base Income — John Doe                                     $9,135.00       First Mortgage P&I                    $                                  3,135.06
+Borrower 2 Base Income — Jane Doe                                         $0.00       Subordinate Lien(s) P&I                                              $
+Combined Other Income                                                     $0.00       Homeowner’s Insurance                             $                              165.00
+Self-Employment Income                                                $7,852.64       Supplemental Property Insurance                                              $
+Net Rental Income                                                         $0.00       Property Taxes                            $                              620.00
+Total Borrower Income                                                $16,987.64       Mortgage Insurance                            $                              0.00
+  At least one borrower is self-employed                                              Association/Project Dues (Condo, Co-Op, PUD)                    $                             0.00
+Loan-to-Value Ratios                                                                  Other                                                   $
+LTV                                                                  80.000    %      Total                                 $                      3,920.06
+CLTV/TLTV                                                            80.000    %      All Other Monthly Payments Used in Qualifying                                       $
+HCLTV/HTLTV                                                          80.000    %
+Qualifying Ratios                                                    Level of Property Review                                                                                 Borrower Funds to Close
+Primary Housing Expense/Income                        23.076    %       Exterior/Interior                                   Required                   $                      138,880.00
+Total Obligations/Income(DTI)                         34.000    %       Exterior Only                                       Verified Assets                    $                470,982.63
+                                                                        No Appraisal
+Qualifying Rate                                                                                                             No. of Months Reserves                                             84.7
+                                                                     Form Number                     1004
+  Rate Used for Qualifying                             6.500    %                                                           Interested Party Contributions                                          %
+                                                                     Escrow (T&I)
+   Initial Bought-Down Rate                                     %                                                           Homeownership Education Certificate in File
+                                                                        Yes      No
+   Other                                                        %    Affordable Housing Initiative                              Yes      No
+Risk Assessment                                                         Yes      No
+   Manual Underwriting
+   AUS
+        DU       LPA      Other
+AUS Recommendation                           Approve/Eligible
+DU Case ID/LP AUS Key#                       DU1234567890
+LPA Doc Class (Freddie)
+Representative Credit/Indicator Score               762
+
+
+Underwriter Comments
+Risk assessment run through Desktop Underwriter (DU); findings Approve/Eligible. Stable monthly income $16,987.64. Cash to close $138,880.00 supported by verified assets.
+Special Feature Codes: 210, 127.
+
+
+
+ IV. Seller and Contact Information
+       Seller Name  ABC Mortgage Company                              Contact Name       Uma Underwriter                                    Contact Phone Number              (555) 555-0170
+       Seller Address100 ABC Plaza                                    Contact Title     Underwriter
+         XYZ City, NY 12345
+       Seller No
+                                                                      Investor Loan No
+       Seller Loan No   1234567890
+
+
+Freddie Mac Form 1077 12/18                                                           Page 1 of 1                                                                      Fannie Mae Form 1008 12/18

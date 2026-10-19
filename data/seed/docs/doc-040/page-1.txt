@@ -1,0 +1,8 @@
+ABC Mortgage Company                                                                                                           LOAN IDENTIFICATION
+
+Loan Origination System — Underwriting Workbench                                                                               Lender Loan Number                                            1234567890
+                                                                                                                               Primary Borrower                                                 John Doe
+LOAN SUMMARY DASHBOARD
+Credit file summary prepared for underwriting review.                                                                          Report Date                                                     11/14/2024
+                                                                                                                               Underwriting Decision                                  Approve/Eligible
+                                                                                                                               Page                                                           Page 1 of 1

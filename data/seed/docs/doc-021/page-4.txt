@@ -1,0 +1,70 @@
+Date                     Description                                                                                       Withdrawals                 Deposits                   Balance
+ 01/26/2024               DEBIT CARD PURCHASE XYZ BOOKS                                                                               31.80                                      52,877.51
+ 01/26/2024               DEBIT CARD PURCHASE XYZ SPORTS                                                                              37.56                                      52,839.95
+ 01/26/2024               POS PURCHASE XYZ PHARMACY                                                                                   52.62                                      52,787.33
+ 01/27/2024               POS PURCHASE ABC FUEL 118                                                                                 120.88                                       52,666.45
+ 01/28/2024               BRANCH DEPOSIT                                                                                                                    699.05               53,365.50
+ 01/28/2024               DEBIT CARD PURCHASE XYZ BOOKS                                                                               64.27                                      53,301.23
+ 01/28/2024               POS PURCHASE ABC HARDWARE                                                                                 115.89                                       53,185.34
+ 01/29/2024               DEBIT CARD PURCHASE XYZ BAKERY                                                                            130.04                                       53,055.30
+ 01/29/2024               DEBIT CARD PURCHASE XYZ DINER                                                                               69.27                                      52,986.03
+ 01/29/2024               DEBIT CARD PURCHASE XYZ PET SUPPLY                                                                        129.21                                       52,856.82
+ 01/29/2024               DEBIT CARD PURCHASE XYZ THEATER                                                                             71.76                                      52,785.06
+ 01/29/2024               POS PURCHASE ABC COFFEE                                                                                     69.27                                      52,715.79
+ 01/29/2024               POS PURCHASE ABC HARDWARE                                                                                   72.60                                      52,643.19
+ 01/30/2024               MOBILE DEPOSIT                                                                                                                 1,504.51                54,147.70
+ 01/31/2024               DEBIT CARD PURCHASE XYZ DINER                                                                             104.23                                       54,043.47
+ 01/31/2024               INTEREST PAYMENT                                                                                                                     6.00              54,049.47
+                          Totals                                                                                                  6,924.49               7,494.14                54,049.47
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+  DAILY ENDING BALANCE                                           Ledger balance at the close of each day on which an item posted
+
+ Date                        Amount      Date                       Amount      Date                         Amount           Balance history for this period
+ 01/01                    53,348.95      01/02                   52,927.86      01/03                     56,186.99
+ 01/04                    55,944.22      01/05                   55,809.85      01/06                     55,744.75
+ 01/07                    55,650.51      01/08                   55,517.97      01/09                     55,442.04
+ 01/10                    55,279.33      01/11                   54,799.63      01/12                     54,679.42
+ 01/13                    55,746.92      01/14                   55,652.68      01/15                     55,284.71
+ 01/16                    55,007.86      01/17                   54,490.77      01/18                     54,338.94           Trend of the ledger balance over the statement period. Amounts
+                                                                                                                              as listed at left.
+ 01/20                    54,094.68      01/21                   54,016.92      01/22                     54,311.87
+ 01/23                    54,148.36      01/24                   53,829.84      01/25                     53,126.10
+ 01/26                    52,787.33      01/27                   52,666.45      01/28                     53,185.34
+ 01/29                    52,643.19      01/30                   54,147.70      01/31                     54,049.47
+
+
+ INFORMATION ABOUT YOUR ACCOUNT                                    Change of address, check copies, deposit agreement and balance computation
+
+Change of address — please call us at the telephone number listed on the front of this           documents. Those documents are part of the contract for your deposit account and govern
+statement, or write to us at the address shown there, to tell us about a change of address.      all transactions relating to your account, including all deposits and withdrawals.
+Do not send a change of address with a deposit.
+                                                                                                 Account balance computation method — the balance shown for each day is the ledger
+Check copies — you can view and print copies of your paid checks through Online Banking          balance at the close of that business day. Deposits and other credits may not be available
+for up to 12 months. You can also request a copy of, or more information about, a check or       for immediate withdrawal; refer to the funds availability policy in your deposit account
+other item by calling the Service Center number on the front of this statement.                  agreement. Interest, where applicable, is computed by applying a daily periodic rate to the
+                                                                                                 collected balance in the account each day.
+Deposit agreement — when you opened your account you received a deposit agreement
+and fee schedule, and agreed that your account would be governed by the terms of those
+
+
+
+ IN CASE OF ERRORS OR QUESTIONS                                 About your electronic funds transfers
+
+Telephone us at 1-800-555-0199 or write to us at P.O. Box 1234, XYZ City, NY 12345 as soon as you can if you think your statement or receipt is wrong, or if you need more information
+about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared.
+ 1. Tell us your name and account number.
+ 2. Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.
+ 3. Tell us the dollar amount of the suspected error.
+We will investigate your complaint and will correct any error promptly. If we take more than 10 business days to do this, we will credit your account for the amount you think is in error, so
+that you will have use of the money during the time it takes us to complete our investigation.
+
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                                                       DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                  Page 4 of 4

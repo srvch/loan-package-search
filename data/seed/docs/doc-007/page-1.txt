@@ -1,0 +1,117 @@
+a Employee's social security numbe
+                                  Seiptas         ee                    Safe, accurate, —         Visit the IRS website at
+                                 XXX-XX-6789            OMB No. 1545-0008 FAST! Use     ‘e-file    www.irs.gov/efile
+        b Employer identification number (EIN)                    1 Wages, tips, other compensation 2 Federal income tax withheld
+        12-3456789                                                           100,345.00               12,804.00
+        c Employer's name, address, and ZIP code                  3 Social security wages 4 Social security tax withheld
+        Acme Corporation                                                     106,700.00                6,615.40
+        789 ABC Boulevard,  Suite  300                            5 Medicare wages and tips 6 Medicare tax withheld
+        XYZ City, NY  12345                                                  106,700.00                1,547.15
+                                                                                          oe
+        d Control number                                                                  10 Dependent care benefits
+        NY-56789-22
+        e Employee's first name and initial Last name        Suff. | 11 Nonqualified pians 12a See instructions for box 12
+                                                                                              2 |       5,335.00
+        John Doe                                                  a   eee          Tican
+        123 ABC Street                                                2s           iT
+        ee                                                                         Pee
+                                                                                          12d
+        f Employee's address and ZIP code                                                 -     |
+                                                                                          3
+        15 State Employer's state ID number 16 State wages, tips, etc. | 17 State income tax 18 Local wages, tips, etc. | 19 Local income tax 20 Locality name
+        NY   | NY1234567                   100,345.00        5,335.00             0.00
+       Form W-2    Wage    and Tax Statement             2  0 2  2              Department of the Treasury—internal Revenue Service
+       Copy B—To Be Filed With Employee's FEDERAL Tax Return.
+       This information is being furnished to the Internal Revenue Service.
+       co"              ~~" Detach along this line — file Copy B above with your federal income tax retum —retain the summary below foryourrecords =stst=—“‘s*~*S
+       Acme   Corporation                                                       WE        os                 2022
+       Payroll Services : Employee Reference Copy — not filed with any tax authority Employee             Ahn Doe
+                                                                                SSN                    XXX-XX-6789
+                                                                                Control number         NY-56789-22
+       Federal wage and tax amounts reported on Form W-2 for tax year 2022
+        Box     Description                                                                                Amount
+        1       Wages, tips, other compensation                                                        100, 345.00
+        2        Federal income tax withheld                                                            12,804.00
+        3        Social security wages                                                                 106,700.00
+        4        Social security tax withheld                                                            6,615.40
+        5        Medicare wages and tips                                                               106,700.00
+        6        Medicare tax withheld                                                                   1,547.15
+       15 State / Employer's state |D number 16 State wages, tips, etc. 17 State income tax 18 Local wages, tips, etc.
+       NY   NY1234567             100,345.00                 5,335.00                   0.00
+       Notice to Employee. Do you have to file? Refer to the Form 1040 instructions to determine if you W-2c, Corrected Wage and Tax Statement, with the SSA to correct any name, SSN, or money
+       are required to file a tax return. Even if you do not have to file a tax return, you may be eligible for a amount error reported to the SSA on this form. Credit for excess taxes. If you had more than one
+       refund if box 2 shows an amount or if you are eligible for any credit. Employee's social security employer in 2022 and more than the maximum social security or tier 1 railroad retirement (RRTA)
+       number (SSN). For your protection, this form may show only the last four digits of your SSN. tax was withheld, you may be able to claim a credit for the excess against your federal income tax.
+       However, your employer has reported your complete SSN to the IRS and the Social Security Keep this copy. This reference summary is produced by your employer's payroll department. The
+       Administration (SSA). Corrections. If your name, SSN, or address is incorrect, correct Copies B, amounts shown above agree with the boxes of the Form W-2 printed at the top of this page.
+       C, and 2 and ask your employer to correct your employment record. Ask the employer to file Form
+HMDA Data Collection Notice
+IMPORTANT NOTICE — HMDA DATA COLLECTION NOTICE
+Loan #1234567890 · ABC Mortgage Company · 12/04/2024
+Form MTG-1548 · Rev. 5.2 · Effective 05/05/2024
+
+
+
+You may request an additional copy of this document at any time at no charge. The Home Mortgage Disclosure Act requires certain financial institutions,
+including ABC Mortgage Company, to collect and report information about applications for, and originations and purchases of, home mortgage loans.
+This notice is furnished to John Doe in connection with loan number 1234567890 and the property located at 456 XYZ Avenue, XYZ City, NY 12345. It
+explains what information is collected, why the law requires it, how the information is disclosed to the public, and the limits that apply to its use. The data
+reported under this statute play no part in the evaluation of your creditworthiness and cannot lawfully be used as a basis for any decision concerning
+your application.
+
+1.0 Purpose of the Statute
+The Home Mortgage Disclosure Act was enacted to provide the public and public officials with sufficient information to determine whether financial institutions
+are serving the housing needs of the communities in which they are located, to assist public officials in distributing public-sector investment so as to attract
+private investment where it is most needed, and to assist in identifying possible discriminatory lending patterns and enforcing anti-discrimination statutes. The
+statute is a disclosure and monitoring law; it does not direct any institution to make any particular loan.
+
+The data collected under the statute are used by regulators, researchers, community organizations, and the public to examine lending patterns across
+geographies, loan products, and applicant characteristics. Because the analysis depends upon complete and accurate reporting, ABC Mortgage Company
+maintains procedures designed to ensure that the information recorded for each application, including the application associated with loan number
+1234567890, is collected consistently and reported without alteration.
+
+2.0 Complaints and Escalation
+If you are dissatisfied with any aspect of the handling of loan number 1234567890, we ask that you first raise the matter with us by telephone at (555)
+555-0120 or in writing at 100 ABC Plaza, XYZ City, NY 12345, describing the issue, the dates and amounts involved, and the resolution you seek. Most
+concerns are resolved fastest at that level, and a written summary from you is the most reliable way to ensure the matter is understood as you intend it.
+
+You may also, at any time and without first contacting us, submit a complaint to the federal consumer complaint system, to the state regulator having
+jurisdiction over the institution in NY, or to the federal banking agency that supervises us. Raising a concern with us does not waive, shorten, or otherwise limit
+any right you have to pursue the matter with a regulator or through any other remedy available at law or in equity.
+
+3.0 Communication Preferences
+You may tell us how you prefer to be reached, and we will honor a stated preference where the nature of the communication and applicable law permit. Certain
+communications must be delivered in a specific manner regardless of preference, and those are sent by the required method even where you have asked to be
+contacted only in another way.
+
+Marketing communications are distinct from servicing communications. You may opt out of marketing by contacting us at (555) 555-0120 or by following the
+instructions contained in the communication itself, and doing so does not affect the delivery of statements, disclosures, escrow analyses, or any other
+communication concerning the administration of loan number 1234567890.
+
+Where you have asked to receive communications electronically, keep the electronic address on file current and add our sending address to the list of
+permitted senders in your mail application, so that a notice is not diverted to a junk folder. A notice diverted in that manner remains effective as of the date it
+was sent.
+
+4.0 Effect of a Transfer of Servicing
+The servicing of loan number 1234567890 — the collection of payments, the administration of any escrow account, and the handling of your inquiries — may
+be transferred to another company at any time. A transfer of servicing is not a sale of your obligation to a different borrower and does not change the interest
+rate, the payment amount, the maturity date, or any other term of the note or the security instrument.
+
+Where servicing transfers, you receive a notice from the transferor at least fifteen (15) days before the effective date and a notice from the transferee within
+fifteen (15) days after it, unless the transfer occurs in circumstances for which the law permits a combined or later notice. The notices identify both companies,
+the date payments should begin going to the new servicer, and the telephone numbers at which each may be reached.
+
+For sixty (60) days after the effective date of a transfer, a payment received by the prior servicer on or before its due date may not be treated as late merely
+because it was sent to the wrong company. Even so, redirect your payments promptly, and update any automatic payment arrangement you maintain through
+your own financial institution, since that arrangement is under your control rather than ours.
+
+5.0 Definitions Used in This Document
+Unless the context plainly requires otherwise, "you" and "your" refer to John Doe and to any other person obligated on loan number 1234567890; "we," "us,"
+and "our" refer to ABC Mortgage Company and to any successor, assignee, or servicer that acquires the loan or the right to service it; and "the property" refers
+to the real property located at 456 XYZ Avenue, XYZ City, NY 12345 that secures the loan. "Applicable law" means the federal statutes and regulations
+governing residential mortgage credit together with the law of the State of NY, in each case as amended from time to time.
+
+
+
+
+                                                              Retain this document with your loan file records.                                           Page 1 of 4

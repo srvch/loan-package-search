@@ -1,0 +1,49 @@
+Subject Photo Page
+Borrower John Doe                                                             Property Address 456 XYZ Avenue
+City XYZ City                                                  County XYZ County                             State NY                       Zip Code 12345
+Lender/Client ABC Mortgage Company                                                                           File # 1234567890
+
+
+                                                                                                                                                                    Subject Front
+                                                                                                      Address                            456 XYZ Avenue, XYZ City, NY 12345
+                                                                                                      Sales Price                        $620,000.00
+                                                                                                      Appraised Value                    $620,000.00
+                                                                                                      Gross Living Area                  2,400
+                                                                                                      Total Rooms                        8
+                                                                                                      Total Bedrooms                     4
+                                                                                                      Total Bathrooms                    2.1
+                                                                                                      Location                           N;Res;
+                                                                                                      View                               N;Res;
+                                                                                                      Site                               0.25 acres
+                                                                                                      Age                                19 yrs
+                                                                                                      Date of Inspection                 11/02/2024
+
+
+
+
+                                                                                                                                                                      Subject Rear
+                                                                                                      Design (Style)                     Colonial
+                                                                                                      Year Built                         2005
+                                                                                                      Gross Living Area                  2,400
+                                                                                                      Basement                           None (slab construction)
+                                                                                                      Amenities                          Fireplace(s) # 1; Patio/Deck; Covered Porch
+                                                                                                      Photographed                       11/02/2024
+
+
+
+
+                                                                                                                                                                   Subject Street
+                                                                                                      Neighborhood                       ABC Subdivision
+                                                                                                      City / State                       XYZ City, NY
+                                                                                                      Street                             View along the subject's street, looking north
+                                                                                                      Photographed                       11/02/2024
+
+
+
+
+All exterior photographs were taken from the street on 11/02/2024 by Alan Appraiser; the original digital images are retained in the appraiser's work file.
+
+
+
+
+Freddie Mac Form 70 March 2005                                             UAD Version 9/2011      Page 9 of 12                                         Fannie Mae Form 1004 March 2005

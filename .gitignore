@@ -1,0 +1,4 @@
+target/
+data/lucene-index/
+*.log
+.DS_Store

@@ -1,0 +1,122 @@
+Jane Doe                            Equifax, Experian,             123456789            11/09/2024
+                                            TransUnion
+
+
+Underwriting Analysis Report
+  SUMMARY
+  Recommendation            Approve/Eligible
+  Primary Borrower          John Doe                        Co-Borrower                Jane Doe
+  Lender Loan Number        1234567890                      Casefile ID                DU1234567890
+  Submission Date           11/14/2024                      Submitted By               ABC Mortgage
+                                                                                       Company
+
+  PROPERTY INFORMATION
+  Property Address          456 XYZ Avenue, XYZ
+                            City, NY 12345
+
+  MORTGAGE INFORMATION
+  Loan Type                 Conventional / Purchase LTV/CLTV              80.000% / 80.000%
+  Submitting Lender         ABC Mortgage Company    Representative Credit 762
+                                                            Score
+
+
+  INCOME
+  Total Qualifying          $16,987.64
+  Income
+
+
+  QUALIFYING RATIOS
+  Housing Expense           23.076%                         Debt-to-Income             34.000%
+
+  FUNDS
+  Total Available Assets    $470,982.63                     Funds Required to          $138,880.00
+                                                            Close
+  Months Reserves           84.70                           Total Funds to be          $138,880.00
+                                                            Verified
+
+
+  The recommendation for this case is: Approve/Eligible
+
+  NOTICE: The DU Underwriting Findings report does not constitute an approval or denial of the loan application.
+  Lenders must comply with all laws and regulations, including those related to privacy and nonpublic personal
+  information, in connection with the DU Findings report. For information about sharing the DU Findings report,
+  please see the DU Schedule to your Software Subscription Agreement.
+
+  Copyright (c) 1994-2024 Fannie Mae
+
+
+
+
+https://desktopunderwriter.fanniemae.com/Findings/Findings.aspx                                    11/14/2024
+Notice of Property Located in a Special Flood Hazard Area
+ABC MORTGAGE COMPANY — NOTICE OF PROPERTY LOCATED IN A SPECIAL FLOOD HAZARD AREA
+Loan #1234567890 · ABC Mortgage Company · 12/03/2024
+Doc. LN-3329 · Version 3.1 · Effective Date 01/10/2023
+
+
+
+This document supersedes any earlier version of the same document furnished to you. Federal law requires ABC Mortgage Company to determine
+whether the property offered as security for loan number 1234567890, located at 456 XYZ Avenue, XYZ City, NY 12345, is situated in an area identified
+by the Federal Emergency Management Agency as having special flood hazards, and to notify John Doe of that determination. The Standard Flood
+Hazard Determination Form completed for this transaction states the result and accompanies this notice or is delivered with your disclosure package.
+This document explains what the determination means, when flood insurance is required, how coverage amounts are calculated, and what occurs if
+required coverage is not maintained.
+
+1. The Determination
+A flood hazard determination identifies the flood zone in which the improvements lie, by reference to the Flood Insurance Rate Map covering the community,
+and states whether the community participates in the National Flood Insurance Program. The determination is made by a third-party provider engaged for that
+purpose and is documented on the Standard Flood Hazard Determination Form retained in the loan file.
+
+Zones beginning with the letter A or V are special flood hazard areas, in which the requirement to maintain flood insurance applies. Zones designated X, B, or
+C are outside the special flood hazard area, and coverage is not federally required, although the risk of flooding is never zero and coverage remains available
+and frequently inexpensive in those zones.
+
+2. Credit Reporting
+We may furnish information about the status and payment history of loan number 1234567890 to one or more consumer reporting agencies, and we do so in
+accordance with the accuracy and dispute-handling requirements that federal law imposes on furnishers. Information furnished ordinarily includes the account
+type, the date opened, the balance, the scheduled payment, and the payment status as of the reporting date.
+
+If you believe that information we have furnished about this account is inaccurate or incomplete, you may notify us in writing at 100 ABC Plaza, XYZ City, NY
+12345, describing the item and the reason you believe it to be incorrect and enclosing any supporting documentation. We will investigate, report the results to
+you, and correct any inaccuracy with each agency to which the information was furnished.
+
+You may also dispute the item directly with the consumer reporting agency, which must generally conduct its own reasonable reinvestigation. Disputing with us
+and with the agency are independent routes and may be used together; neither route requires payment of any fee, and no service can lawfully remove
+information that is accurate and current.
+
+3. Circumstances Requiring Coverage
+Where the improvements securing the loan are located in a special flood hazard area and the community participates in the National Flood Insurance Program,
+federal law prohibits the extension of credit unless flood insurance is obtained for the term of the loan. Evidence of coverage must be provided before closing,
+and the coverage must remain in force continuously thereafter.
+
+Where the community does not participate in the program, federally backed coverage is unavailable, and the loan may be subject to program restrictions or to
+a requirement of private coverage. The consequences of nonparticipation, including the unavailability of federal disaster assistance for certain purposes, are
+described in the notice accompanying the determination form.
+
+4. Use of Vendors and Agents
+We engage third parties to perform functions in connection with the origination and servicing of residential mortgage loans, including document preparation,
+data processing, payment processing, tax and flood determination services, insurance tracking, appraisal management, printing, and mailing. Those providers
+receive only the information necessary to perform the service for which they are engaged.
+
+Each provider is bound by contract to maintain the confidentiality and security of the information disclosed to it and to use that information only for the purposes
+of the engagement. Engaging a service provider does not relieve us of responsibility for the performance of the function delegated, and inquiries concerning
+any such function may be directed to us rather than to the provider.
+
+5. Required Coverage Amounts
+The minimum amount of flood insurance required is the least of the outstanding principal balance of the loan, the maximum limit of coverage available for the
+property type under the National Flood Insurance Program, or the insurable value of the improvements. Insurable value is generally measured by replacement
+cost, or by another method appropriate to the property, and excludes the value of the land.
+
+Contents coverage is not required by the lender and does not satisfy the building-coverage requirement, although you may find it valuable. Where the property
+is a unit in a condominium or association covered by a master flood policy, the association's coverage may satisfy part or all of the requirement; evidence of the
+master policy and of the allocation applicable to the unit is required.
+
+6. Escrow of Flood Premiums
+Federal law requires that premiums for flood insurance be escrowed for most residential loans secured by property in a special flood hazard area, subject to
+limited exceptions for small institutions and for certain loan types. Where escrow applies, the premium is collected monthly with your payment and disbursed by
+the servicer when the policy renews.
+
+
+
+
+                                                              Retain this document with your loan file records.                                            Page 1 of 3

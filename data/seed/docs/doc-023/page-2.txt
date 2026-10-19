@@ -1,0 +1,68 @@
+Sample Brokerage · Quarterly transaction statement                                                                  Account ****7777 · John Doe · 07/01/2024 – 09/30/2024
+
+
+Rollover IRA brokerage account—7777
+John Doe · R/O IRA SBTC AS CUSTODIAN · Account number ****7777
+
+
+
+
+                                                                                                                                                 $65,688.10
+  Account overview                                                                                                                    Total account value as of 09/30/2024
+
+
+Change in your account value                                                                Account facts
+
+ Beginning balance on 07/01/2024                                      $116,500.86            Account number                                                       ****7777
+ Additions                                                             $14,096.96            Registration                                R/O IRA SBTC AS CUSTODIAN
+
+ Withdrawals                                                           ($7,202.00)           Total securities market value                                     $65,688.10
+
+ Change in market value of securities*                                ($57,707.72)           Holdings in the account                                                      14
+
+ Ending account value on 09/30/2024                                    $65,688.10            Transactions this period                                                     18
+
+* Appreciation or depreciation of the securities you held, plus any income earned during
+the statement period.
+
+
+
+  Balances and holdings for your Sample Brokerage Rollover IRA—7777
+Your securities are held in your cash account, unless otherwise noted. This section shows securities that were held in the account at the end of the time period indicated.
+Prices are as of the close of business on 09/30/2024 and are provided by outside vendors; they are for account-tracking purposes and are not suitable for tax reporting.
+
+Mutual funds and exchange-traded funds
+ Symbol                   Name                                                                               Shares                      Price                 Market Value
+
+ ABCTX                    ABC Total Stock Market Index Adm                                                      6.00                  $194.60                    $1,167.60
+ ABCBX                    ABC Total Bond Market Index Adm                                                     89.00                   $109.59                    $9,753.51
+ ABCIX                    ABC Total Intl Stock Index Adm                                                      43.00                   $104.41                    $4,489.63
+ ABCFX                    ABC 500 Index Fund Admiral                                                          59.00                   $155.15                    $9,153.85
+ ABCSX                    ABC Small-Cap Index Adm                                                               7.00                  $194.77                    $1,363.39
+ ABCRX                    ABC Real Estate Index Adm                                                           59.00                   $207.30                   $12,230.70
+ ABCEX                    ABC Interm-Term Tax-Exempt Adm                                                      13.00                    $50.49                      $656.37
+ ABCMX                    ABC Federal Money Market Fund                                                       47.00                    $39.80                    $1,870.60
+ ABCDX                    ABC Dividend Appreciation Index                                                     65.00                   $220.69                   $14,344.85
+ XYZEX                    XYZ Tax-Exempt Bond Fund                                                            29.00                    $74.83                    $2,170.07
+ XYZIX                    XYZ Total International Stock Fund                                                  62.00                    $61.90                    $3,837.80
+ XYZBX                    XYZ Total Bond Market Fund                                                          71.00                    $22.89                    $1,625.19
+ XYZFX                    XYZ 500 Index Fund                                                                  16.00                    $48.89                      $782.24
+ XYZRX                    XYZ Real Estate Fund                                                                85.00                    $26.38                    $2,242.30
+                          Total market value                                                                                                                    $65,688.10
+
+
+
+  Account activity for your Sample Brokerage Rollover IRA—7777
+This section shows transactions that have settled by 09/30/2024. There were 18 transactions during this statement period. Additions this period totaled $14,096.96 and
+withdrawals totaled $7,202.00.
+
+Completed transactions
+ Date                          Description                                                                                         Amount                           Balance
+
+ 07/08/2024                    Dividend Reinvestment                                                                            $1,870.96                      $118,371.82
+ 07/15/2024                    Dividend Reinvestment                                                                              $264.79                      $118,636.61
+ 07/19/2024                    Sweep In                                                                                       ($1,042.24)                      $117,594.37
+ 07/22/2024                    Buy                                                                                            ($1,489.64)                      $116,104.73
+
+
+Quarterly transaction statement                                                                                                                                    Page 2 of 3

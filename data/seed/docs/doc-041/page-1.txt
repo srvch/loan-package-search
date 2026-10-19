@@ -1,0 +1,71 @@
+1 Loan Information                                                                                                                             source: Uniform Residential Loan Application (Form 1003)
+ BORROWER (First, Middle, Last, Suffix)                                             LENDER LOAN NUMBER                                                APPLICATION DATE
+ John Doe                                                                           1234567890                                                        11/14/2024
+ SUBJECT PROPERTY ADDRESS                                                           LOAN PURPOSE                                                      ORIGINATING LENDER
+ 456 XYZ Avenue, XYZ City, NY 12345                                                 Purchase                                                          ABC Mortgage Company
+
+ 2 Terms and Pricing                                                                                                                                 ties to Form 1008, Section II — Mortgage Information
+ LOAN AMOUNT                                                 NOTE RATE                                          AMORTIZATION MONTHS                                       LOAN-TO-VALUE (LTV)
+ $496,000.00                                                 6.500%                                             360                                                       80.000%
+
+ 3 Proposed Monthly Payment (PITI)                                                                                                             Exhibit A — composition of the proposed housing expense
+
+                                                                                       PROPOSED HOUSING EXPENSE                                                                     MONTHLY AMOUNT
+
+                                                                                       Principal & Interest                                                                                   $3,135.06
+                                                                                       Property Taxes                                                                                            $620.00
+                                                                                       Hazard Insurance                                                                                          $165.00
+                                                                                       Mortgage Insurance                                                                                           $0.00
+                                                                                       HOA Dues                                                                                                     $0.00
+                                                                                       Total PITI                                                                                             $3,920.06
+
+                                                                                        PAYMENT SUMMARY
+
+                                                                                        Qualifying payment used for ratios                                                                    $3,920.06
+Exhibit A. Share of the proposed payment by component; components with no               Principal & interest at note rate 6.500%                                                              $3,135.06
+monthly amount are omitted from the plot.
+
+
+ 4 Qualifying Ratios                                                                                                                         Exhibit B — housing and total-debt ratios against benchmark
+
+
+                                                                                        RATIO ANALYSIS
+
+                                                                                        Housing Ratio — front-end DTI                                                                          23.076%
+                                                                                        Debt Ratio — back-end DTI                                                                              34.000%
+                                                                                        Representative Credit Score                                                                                   762
+                                                                                        Automated Underwriting System                                                Desktop Underwriter (DU)
+                                                                                        Underwriting Recommendation                                                                Approve/Eligible
+                                                                                      Ratios are calculated on the total proposed PITI shown in section 3 and on the qualifying income documented in the file.
+
+
+
+
+Exhibit B. Dotted references mark the 28% housing and 43% total-debt
+benchmarks.
+
+
+ 5 Reserves Analysis                                                                                                                                Exhibit C — verified reserves stated in months of PITI
+
+
+                                                                                    RESERVES
+
+                                                                                    Verified reserves (months of PITI)                                                                                84.7
+                                                                                    Program guideline (months)                                                                                         2.0
+                                                                                    Basis of measurement                                                                      $3,920.06 per month
+                                                                                    Result                                                                                          Meets guideline
+
+Exhibit C. Verified reserves after closing, in months of the total proposed PITI.
+
+
+This summary is generated from the loan file for internal underwriting review. All figures reconcile to the corresponding line items on the Uniform Underwriting and Transmittal Summary
+(Form 1008), the Closing Disclosure, and the Tri-Merge Credit Report contained in this package. It is a work product of the lender and does not evidence approval of the application.
+
+
+
+Underwriter — signature and date                                                                        Underwriting manager — second review, if required
+
+
+
+
+Loan Summary Dashboard — underwriting work product                      CONFIDENTIAL — INTERNAL UNDERWRITING USE ONLY                                                                            Page 1 of 1

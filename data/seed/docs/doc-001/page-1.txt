@@ -1,0 +1,75 @@
+ABC Mortgage Company                                                                                                                              Application Date 11/14/2024
+ To be completed by the Lender:
+ Lender Loan No./Universal Loan Identifier      1234567890            Agency Case No.
+
+
+Uniform Residential Loan Application
+Verify and complete the information on this application. If you are applying for this loan with others, each additional Borrower must provide information as
+directed by your Lender.
+
+Section 1: Borrower Information. This section asks about your personal information and your income from employment and other sources,
+such as retirement, that you want considered to qualify for this loan.
+   1a. Personal Information
+Name (First, Middle, Last, Suffix)                                                              Social Security Number 123-45-6789
+ John Doe                                                                                       (or Individual Taxpayer Identification Number)
+Alternate Names – List any names by which you are known or any names under                      Date of Birth                      Citizenship
+which credit was previously received (First, Middle, Last, Suffix)                              (mm/dd/yyyy)                          U.S. Citizen
+                                                                                                01/01/1980                            Permanent Resident Alien
+                                                                                                                                      Non-Permanent Resident Alien
+Type of Credit                                                                                  List Name(s) of Other Borrower(s) Applying for this Loan
+   I am applying for individual credit.                                                         (First, Middle, Last, Suffix) – Use a separator between names
+   I am applying for joint credit. Total Number of Borrowers: 2                                 Jane Doe
+    Each Borrower intends to apply for joint credit. Your initials: JD
+Marital Status                             Dependents (not listed by another                    Contact Information
+  Married                                  Borrower)                                            Home         Phone (555) 555-0101
+  Separated                                Number 1                                             Cell         Phone
+  Unmarried                                Ages 9                                               Work         Phone            Ext.
+(Single, Divorced, Widowed, Civil Union, Domestic Partnership, Registered Reciprocal            Email         john.doe@example.com
+Beneficiary Relationship)
+Current Address
+Street 123 ABC Street                                                                                                             Unit #
+City XYZ City                                          State NY            ZIP 12345                  County XYZ County
+How Long at Current Address? 6.3               Years               Months         Housing        No primary housing expense         Own          Rent ($0.00 /month)
+If at Current Address for LESS than 2 years, list Former Address     Does not apply
+Street                                                                                                                   Unit #
+City                 State            ZIP                    Country
+
+Mailing Address – if different from Current Address          Does not apply
+Street                                                                                                                   Unit #
+City                 State               ZIP                          Country
+
+   1b. Current Employment/Self-Employment and Income                            Does not apply
+Employer or Business Name Acme Corporation                                 Phone (555) 555-0110                                   Gross Monthly Income
+Street 789 ABC Boulevard, Suite 300                                            Unit #                                             Base            $9,135.00              /month
+City XYZ City State NY           ZIP 12345                      Country                                                           Overtime        $0.00                  /month
+Position or Title Senior Systems Analyst                                                         Check if this statement          Bonus           $0.00                  /month
+Start Date 03/05/2018                 (mm/dd/yyyy)                                               applies:                         Commission      $0.00                  /month
+                                                                                                    I am employed by a family     Self-Employment $0.00                  /month
+How long in this line of work? 8.5     Years                      Months
+                                                                                                   member, property seller,
+Pay Frequency        Weekly            Bi-Weekly           Semi-Monthly               Monthly                                     Other           $0.00                  /month
+                                                                                                   real estate agent, or other
+                                                                                                   party to the transaction.      TOTAL                $9,135.00         /month
+  Check if you are the Business             I have an ownership share of less            Annual Base Salary
+  Owner or Self-Employed                 than 25%.                                        $110,000.00
+                                            I have an ownership share of 25% or
+                                         more.
+
+   1c. IF APPLICABLE, Complete Information for Additional Employment/Self-Employment and Income                                     Does not apply
+
+   1d. IF APPLICABLE, Complete Information for Previous Employment/Self-Employment and Income                                      Does not apply
+Provide at least 2 years of current and previous employment and income.
+
+   1e. Income from Other Sources                    Does not apply
+Include income from other sources below. Under Income Source, choose from the sources listed here:
+• Alimony                    • Child Support               • Interest and Dividends      • Notes Receivable             • Royalty Payments            • Unemployment Benefits
+• Automobile Allowance       • Disability                  • Mortgage Credit             • Public Assistance            • Separate Maintenance        • VA Compensation
+• Boarder Income             • Foster Care                 Certificate                   • Retirement (e.g., Pension,   • Social Security             • Other
+• Capital Gains              • Housing or Parsonage        • Mortgage Differential       IRA)                           • Trust
+                                                           Payments
+NOTE: Reveal alimony, child support, separate maintenance, or other income ONLY IF you want it considered in determining your qualification for this loan.
+
+
+
+
+Borrower Name: John Doe                                                                                                                                                Page 1 of 9

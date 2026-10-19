@@ -1,0 +1,39 @@
+Sample Brokerage · Quarterly transaction statement                                                                                     Account ****7777 · John Doe · 04/01/2024 – 06/30/2024
+
+
+Completed transactions
+ Date                              Description                                                                                                          Amount                                  Balance
+
+ 05/21/2024                        Dividend Reinvestment                                                                                             $1,163.53                             $94,989.91
+ 05/28/2024                        Dividend Reinvestment                                                                                               $662.03                             $95,651.94
+ 05/28/2024                        Dividend Reinvestment                                                                                             $1,252.92                             $96,904.86
+ 05/31/2024                        Sweep In                                                                                                        ($1,092.32)                             $95,812.54
+ 06/03/2024                        Sell                                                                                                              ($348.60)                             $95,463.94
+ 06/08/2024                        Dividend Reinvestment                                                                                               $725.44                             $96,189.38
+ 06/17/2024                        Sell                                                                                                            ($1,859.57)                             $94,329.81
+ 06/22/2024                        Buy                                                                                                               ($193.64)                             $94,136.17
+ 06/23/2024                        Dividend Reinvestment                                                                                             $1,808.37                             $95,944.54
+                                   Ending balance                                                                                                                                         $116,500.86
+
+
+For our brokerage clients. Your brokerage cash and/or securities are held in custody by Sample        writing to further protect your rights, including your rights under the Securities Investor Protection
+Brokerage, member FINRA and SIPC. Securities products are offered through its broker-dealer           Act.
+affiliate; they are not deposits, are not insured by the FDIC, and may lose value. Summary data       Free credit balance. Any free credit balance carried for your account represents funds payable
+are provided solely as a service and are for informational purposes only.                             on demand which, although properly accounted for on our books of record, aren't segregated and
+Portfolio holdings. Holdings reflect the net market value of the securities in your account on a      may be used in the conduct of our business to the extent permitted by law. Your settlement fund
+trade-date basis at the close of the statement period. Current prices listed on this statement help   may be liquidated on request and the proceeds remitted to you.
+you track your account and aren't suitable for tax purposes. Account balances are displayed using     Cost basis. We are required to report cost basis information to the IRS for sales of covered
+two decimal places.                                                                                   securities held in taxable accounts. Retirement accounts are not subject to that reporting. It is
+Estimated values. We rely on outside vendors to provide periodic valuation and market-price           your responsibility to choose the cost basis method appropriate for your tax situation.
+information for the securities listed in your account. From time to time that information isn't       Advice. Sample Brokerage doesn't provide tax, investment, or legal advisory services, and no
+available or isn't received in time for posting. In that case the price on your statement is marked   one associated with it is authorized to render such advice. This statement is not a tax document;
+"—" and the security hasn't been valued for purposes of calculating account totals.                   retain it with your records and compare it with the tax forms you receive after year-end.
+Reporting account discrepancies. Promptly report in writing any inaccuracies or discrepancies
+in your account, including unauthorized trading. Any oral communication should be confirmed in
+
+                                                                                  * * * END OF STATEMENT * * *
+
+
+
+
+Quarterly transaction statement                                                                                                                                                                 Page 3 of 3

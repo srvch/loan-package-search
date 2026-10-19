@@ -1,0 +1,53 @@
+Date                 Description                          Withdrawals   Deposits            Balance
+ 03/07/2024           POS PURCHASE ABC CLEANERS                 147.55                     46,317.91
+ 03/08/2024           POS PURCHASE ABC FUEL 118                  61.34                     46,256.57
+ 03/09/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY        137.85                      46,118.72
+ 03/10/2024           POS PURCHASE ABC GARDEN CENTER            105.52                     46,013.20
+ 03/11/2024           ACH DEBIT ABC WIRELESS                    113.54                     45,899.66
+ 03/11/2024           DEBIT CARD PURCHASE ABC GROCERS           158.32                     45,741.34
+ 03/11/2024           DEBIT CARD PURCHASE XYZ THEATER            74.27                     45,667.07
+ 03/12/2024           BRANCH DEPOSIT                                       383.48          46,050.55
+ 03/12/2024           POS PURCHASE ABC GARDEN CENTER             46.26                     46,004.29
+ 03/13/2024           ACH CREDIT EXPENSE REIMBURSEMENT                     870.76          46,875.05
+ 03/13/2024           ATM WITHDRAWAL ABC BANK BRANCH            120.00                     46,755.05
+ 03/13/2024           DEBIT CARD PURCHASE ABC GROCERS            54.88                     46,700.17
+ 03/13/2024           DEBIT CARD PURCHASE XYZ THEATER           120.61                     46,579.56
+ 03/13/2024           POS PURCHASE ABC COFFEE                    73.20                     46,506.36
+ 03/13/2024           POS PURCHASE ABC FUEL 118                  61.34                     46,445.02
+ 03/14/2024           ACH CREDIT FLEX SPENDING REIMB                        82.58          46,527.60
+ 03/14/2024           DEBIT CARD PURCHASE XYZ DINER             114.14                     46,413.46
+ 03/14/2024           POS PURCHASE ABC DELI                     124.92                     46,288.54
+ 03/14/2024           POS PURCHASE ABC MARKET                    50.57                     46,237.97
+ 03/15/2024           DEBIT CARD PURCHASE XYZ BOOKS              50.57                     46,187.40
+ 03/15/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY        146.47                     46,040.93
+ 03/15/2024           DEBIT CARD PURCHASE XYZ THEATER           150.78                     45,890.15
+ 03/15/2024           POS PURCHASE ABC COFFEE                   129.23                     45,760.92
+ 03/15/2024           POS PURCHASE ABC COFFEE                   160.48                     45,600.44
+ 03/15/2024           POS PURCHASE ABC DELI                     115.22                     45,485.22
+ 03/16/2024           DEBIT CARD PURCHASE XYZ THEATER            92.59                     45,392.63
+ 03/16/2024           POS PURCHASE ABC HARDWARE                 107.68                     45,284.95
+ 03/17/2024           POS PURCHASE ABC GARDEN CENTER             76.43                     45,208.52
+ 03/18/2024           BRANCH DEPOSIT                                       997.17          46,205.69
+ 03/18/2024           POS PURCHASE ABC CLEANERS                  71.04                     46,134.65
+ 03/19/2024           DEBIT CARD PURCHASE XYZ BOOKS             116.30                     46,018.35
+ 03/19/2024           POS PURCHASE ABC HARDWARE                 134.62                     45,883.73
+ 03/20/2024           ACH DEBIT ABC UTILITIES                   247.48                     45,636.25
+ 03/20/2024           DEBIT CARD PURCHASE XYZ BAKERY            158.32                     45,477.93
+ 03/20/2024           DEBIT CARD PURCHASE XYZ BAKERY            163.71                     45,314.22
+ 03/20/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY         73.20                     45,241.02
+ 03/20/2024           POS PURCHASE ABC COFFEE                   103.37                     45,137.65
+ 03/20/2024           POS PURCHASE ABC HARDWARE                 171.25                     44,966.40
+ 03/20/2024           POS PURCHASE XYZ CAFE                      89.36                     44,877.04
+ 03/21/2024           POS PURCHASE ABC GARDEN CENTER             81.82                     44,795.22
+ 03/21/2024           POS PURCHASE XYZ PHARMACY                 162.63                     44,632.59
+ 03/22/2024           DEBIT CARD PURCHASE ABC GROCERS           160.48                      44,472.11
+ 03/22/2024           POS PURCHASE ABC CLEANERS                 102.29                     44,369.82
+ 03/22/2024           POS PURCHASE ABC COFFEE                   117.38                     44,252.44
+ 03/23/2024           ACH CREDIT EXPENSE REIMBURSEMENT                     514.23          44,766.67
+ 03/23/2024           DEBIT CARD PURCHASE XYZ SPORTS            100.14                     44,666.53
+ 03/23/2024           POS PURCHASE ABC GARDEN CENTER             50.57                     44,615.96
+ 03/23/2024           POS PURCHASE ABC GARDEN CENTER             73.20                     44,542.76
+
+
+Member FDIC · Equal Housing Lender                                                  DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                               Page 3 of 5

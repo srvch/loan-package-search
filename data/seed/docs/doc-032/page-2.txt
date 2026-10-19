@@ -1,0 +1,60 @@
+Merged Credit Report · continued                                                                        Confidential — for the exclusive use of the requesting subscriber
+
+                                       CREDIT HISTORY · TRADE LINES — CREDIT GRANTOR HISTORY
+                                                                 ACCOUNT                                                                   MONTHLY
+ CREDIT GRANTOR                    WHOSE         TYPE                             OPENED           BALANCE         CREDIT LMT                              STATUS
+                                                                 NUMBER                                                                        PMT
+ ABC BANK CARD                     Borrower      Revolving       ****4000         06-13              $1,120.00       $14,000.00                 $17.16     Current
+ XYZ BANK VISA                     Co-Borrower   Revolving       ****4037         02-13               $800.00        $10,000.00                 $12.77     Current
+ ABC RETAIL CARD                   Borrower      Revolving       ****4074         05-15               $800.00        $10,000.00                 $12.77     Current
+ XYZ AUTO FIN                      Co-Borrower   Auto            ****4111         08-17              $9,240.00       $22,000.00               $196.59      Current
+ ABC STUDENT LN                    Borrower      Student Loan    ****4148         10-10              $6,840.00       $19,000.00                 $84.25     Current
+ XYZ BANK LOAN                     Co-Borrower   Installment     ****4185         06-19              $4,500.00       $15,000.00                 $72.51     Current
+ ABC TRAVEL CARD                   Borrower      Revolving       ****4222         09-20               $560.00          $7,000.00                $12.77     Current
+ XYZ STORE CARD                    Co-Borrower   Revolving       ****4259         11-19              $1,040.00       $13,000.00                 $15.93     Current
+ ABC HOME CARD                     Borrower      Revolving       ****4296         09-18               $400.00          $5,000.00                $12.77     Current
+ XYZ REWARDS CARD                  Co-Borrower   Revolving       ****4333         03-22              $1,200.00       $15,000.00                 $18.38     Current
+ ABC CREDIT UNION                  Borrower      Installment     ****4370         03-16              $3,900.00       $13,000.00                 $72.51     Current
+ XYZ BANK CARD                     Co-Borrower   Revolving       ****4407         09-17               $640.00          $8,000.00                $12.77     Current
+ ABC BANK CARD 2                   Borrower      Revolving       ****4444         10-20               $240.00          $3,000.00                $12.77     Current
+ XYZ BANK VISA 2                   Co-Borrower   Revolving       ****4481         05-22               $720.00          $9,000.00                $12.77     Current
+ ABC RETAIL CARD 2                 Borrower      Revolving       ****4518         05-15              $1,360.00       $17,000.00                 $20.83     Current
+ XYZ AUTO FIN 2                    Co-Borrower   Auto            ****4555         07-14            $12,600.00        $30,000.00               $196.59      Current
+ ABC STUDENT LN 2                  Borrower      Student Loan    ****4592         11-13              $4,680.00       $13,000.00                 $84.25     Current
+ XYZ BANK LOAN 2                   Co-Borrower   Installment     ****4629         02-18              $2,100.00         $7,000.00                $72.51     Current
+ ABC TRAVEL CARD 2                 Borrower      Revolving       ****4666         02-19               $800.00        $10,000.00                 $12.77     Current
+ XYZ STORE CARD 2                  Co-Borrower   Revolving       ****4703         02-20               $880.00         $11,000.00                $13.48     Current
+ ABC HOME CARD 2                   Borrower      Revolving       ****4740         07-14               $320.00          $4,000.00                $12.77     Current
+ XYZ REWARDS CARD 2                Co-Borrower   Revolving       ****4777         03-15               $560.00          $7,000.00                $12.77     Current
+ ABC CREDIT UNION 2                Borrower      Installment     ****4814         02-22              $3,900.00       $13,000.00                 $72.51     Current
+ XYZ BANK CARD 2                   Co-Borrower   Revolving       ****4851         09-18               $560.00          $7,000.00                $12.77     Current
+ ABC BANK CARD 3                   Borrower      Revolving       ****4888         07-21               $800.00        $10,000.00                 $12.77     Current
+ XYZ BANK VISA 3                   Co-Borrower   Revolving       ****4925         08-18               $320.00          $4,000.00                $12.77     Current
+ ABC RETAIL CARD 3                 Borrower      Revolving       ****4962         10-11               $480.00          $6,000.00                $12.77     Current
+ XYZ AUTO FIN 3                    Co-Borrower   Auto            ****4999         02-20            $10,920.00        $26,000.00               $196.59      Current
+ ABC STUDENT LN 3                  Borrower      Student Loan    ****5036         04-11              $6,120.00       $17,000.00                 $84.25     Current
+ XYZ BANK LOAN 3                   Co-Borrower   Installment     ****5073         01-13              $2,400.00         $8,000.00                $72.51     Current
+ ABC TRAVEL CARD 3                 Borrower      Revolving       ****5110         06-21              $1,280.00       $16,000.00                 $19.61     Current
+ XYZ STORE CARD 3                  Co-Borrower   Revolving       ****5147         12-19               $160.00          $2,000.00                $12.77     Current
+ ABC HOME CARD 3                   Borrower      Revolving       ****5184         04-15               $720.00          $9,000.00                $12.77     Current
+ XYZ REWARDS CARD 3                Co-Borrower   Revolving       ****5221         06-19               $720.00          $9,000.00                $12.77     Current
+ ABC CREDIT UNION 3                Borrower      Installment     ****5258         08-13              $3,000.00       $10,000.00                 $72.51     Current
+ XYZ BANK CARD 3                   Co-Borrower   Revolving       ****5295         07-12               $640.00          $8,000.00                $12.77     Current
+ ABC BANK CARD 4                   Borrower      Revolving       ****5332         03-21               $480.00          $6,000.00                $12.77     Current
+ XYZ BANK VISA 4                   Co-Borrower   Revolving       ****5369         09-19               $480.00          $6,000.00                $12.77     Current
+ ABC RETAIL CARD 4                 Borrower      Revolving       ****5406         04-15              $1,360.00       $17,000.00                 $20.83     Current
+ XYZ AUTO FIN 4                    Co-Borrower   Auto            ****5443         04-18            $11,340.00        $27,000.00               $196.59      Current
+                                                                 Totals                           $100,980.00       $463,000.00             $1,855.79
+
+               CREDIT HISTORY · PAYMENT HISTORY — TERMS, MANNER OF PAYMENT AND DELINQUENCIES
+CREDIT                ACCOUNT                                                                          PAST
+                              ECOA               WHOSE          TERMS       MOP           REPORTED          30 60 90 MR SOURCE                      REMARKS
+GRANTOR               NUMBER                                                                            DUE
+ABC BANK                                                                                                                             EFX, XPN,
+                      ****4000       INDIVIDUAL Borrower        REV         CURRENT-      11-24         $0.00 00 00 00 24                      CREDIT CARD
+CARD                                                                                                                                 TUC
+
+
+
+
+Ref # 123456789 · DOE, JOHN                                                 Page 2 of 5                                                           ABC Credit Services

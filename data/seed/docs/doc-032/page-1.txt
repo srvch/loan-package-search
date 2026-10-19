@@ -1,0 +1,72 @@
+ABC CREDIT SERVICES                                                                                                          MERGED CREDIT REPORT
+Consumer Reporting Agency · Merged Report Services                                                                            Tri-Merge Residential Mortgage Credit Report
+
+Ref #: 123456789             Report Date: 11/09/2024             Repository Sources: Equifax · Experian · TransUnion
+
+Prepared For:                                                                                 Prepared By:
+ABC Mortgage Company                                                                          ABC Credit Services
+Applicant    : DOE, JOHN                                                                      Requested : EFX, XPN, TUC
+Co-Applicant : DOE, JANE                                                                      Delivered : EFX, XPN, TUC
+Report Type : Residential Mortgage Credit Report (RMCR)                                       Ref #       : 123456789
+                                                                                              Date / Time : 11/09/2024 09:41:07
+
+                                                                     APPLICANT INFORMATION
+                                                                                                     Address                                                      Applicant
+ Name                                Address                                                         Type              SSN                   DOB or Age           Identifier
+ DOE, JOHN                           Current: 123 ABC Street, XYZ City, NY 12345                     OWN               123-45-6789           01/01/1980           APP1
+ DOE, JANE                           Current: 123 ABC Street, XYZ City, NY 12345                     OWN               987-65-4321           02/02/1982           APP2
+
+
+                                                                     MERGED CREDIT SUMMARY
+                                                               At-a-glance evaluation of all activity in this report
+ACCOUNT DISTRIBUTION · CURRENT STATUS (Tradelines)
+                                                                                                                 REVOLVING ACCOUNT UTILIZATION
+ Account Type                     Number               Balance             Payments   Current       Other
+   Auto                                  04            $44,100                $786       04           00
+   Installment                           06            $19,800                $435       06           00
+   Revolving                             27            $19,440                $382       27           00
+   Student Loan                          03            $17,640                $253       03           00
+ Total                                   40           $100,980               $1,856      40           00
+AVAILABLE CREDIT
+   Revolving                        8%           $223,560      available of $243,000 reported revolving
+                                                               limits
+INQUIRIES · PUBLIC RECORDS · FILE AGE
+   6 Month Total                    00        Public Records          00     Oldest Trade             10-10
+   Adjusted Total                   00        Collections             00     Last Reported            11-24
+Disclaimer: Only Applicant(s) information included in the Summary.
+
+
+                                                                                                                         Highest 12 of 27 revolving tradelines by utilization.
+                                                                                                                         Balance as a percentage of the reported credit limit.
+
+
+                                                            DATA SOURCES SCORE INFORMATION
+                                                            CREDIT SCORES — APPLICANT AND CO-APPLICANT
+  Item    Product                                                                                                                                      Data            Applicant
+    #     Score                      Factor Information                                                                                               Source           Identifier
+   1      BEACON 5.0                 Factor: 00010, 00014, 00008, 00012                                                                                 EFX              APP1
+          762                         ▪ 00010 PROPORTION OF BALANCES TO CREDIT LIMITS IS TOO HIGH
+                                      ▪ 00014 LENGTH OF TIME ACCOUNTS HAVE BEEN ESTABLISHED
+   2      FICO-II                    Factor: 28, 07, 24, 32                                                                                             XPN              APP1
+          748                         ▪ 28 NUMBER OF ESTABLISHED ACCOUNTS
+                                      ▪ 07 ACCOUNT PAYMENT HISTORY IS TOO NEW TO RATE
+   3      FICO CLASSIC 04            Factor: 002, 010, 018, 012                                                                                         TUC              APP1
+          771                         ▪ 002 LEVEL OF DELINQUENCY ON ACCOUNTS
+                                      ▪ 012 LENGTH OF TIME REVOLVING ACCOUNTS HAVE BEEN ESTABLISHED
+   4      BEACON 5.0                 Factor: 00014, 00008                                                                                               EFX              APP2
+          785                         ▪ 00014 LENGTH OF TIME ACCOUNTS HAVE BEEN ESTABLISHED
+                                      ▪ 00008 TOO MANY INQUIRIES LAST 12 MONTHS
+   5      FICO-II                    Factor: 28, 24                                                                                                     XPN              APP2
+          769                         ▪ 28 NUMBER OF ESTABLISHED ACCOUNTS
+                                      ▪ 24 NO RECENT REVOLVING BALANCES
+   6      FICO CLASSIC 04            Factor: 012, 018                                                                                                   TUC              APP2
+          754                         ▪ 012 LENGTH OF TIME REVOLVING ACCOUNTS HAVE BEEN ESTABLISHED
+                                      ▪ 018 NUMBER OF ACCOUNTS WITH DELINQUENCY
+
+ REPRESENTATIVE SCORE — DOE, JOHN                       762 Middle / Qualifying            CO-APPLICANT MIDDLE SCORE — DOE, JANE                         769 Middle
+Scores are supplied by the repository named in the Data Source column. The representative score is the middle of the three repository scores returned for the applicant, or the
+lower of two.
+
+
+
+Ref # 123456789 · DOE, JOHN                                                        Page 1 of 5                                                                  ABC Credit Services

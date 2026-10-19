@@ -1,0 +1,45 @@
+Sample Brokerage · Quarterly transaction statement                                                                                     Account ****7777 · John Doe · 10/01/2023 – 12/31/2023
+
+
+Completed transactions
+ Date                              Description                                                                                                          Amount                                  Balance
+
+ 10/31/2023                        Buy                                                                                                             ($2,096.70)                             $10,321.63
+ 11/01/2023                        Sell                                                                                                              ($376.69)                               $9,944.94
+ 11/07/2023                        Sweep In                                                                                                        ($1,862.62)                               $8,082.32
+ 11/17/2023                        Dividend Reinvestment                                                                                             $2,034.80                              $10,117.12
+ 11/27/2023                        Dividend Reinvestment                                                                                               $517.14                             $10,634.26
+ 12/06/2023                        Dividend Reinvestment                                                                                             $2,268.07                             $12,902.33
+ 12/07/2023                        Dividend Reinvestment                                                                                               $727.67                             $13,630.00
+ 12/07/2023                        Sell                                                                                                            ($1,088.18)                             $12,541.82
+ 12/09/2023                        Dividend Reinvestment                                                                                             $1,500.75                             $14,042.57
+ 12/09/2023                        Dividend Reinvestment                                                                                             $2,110.18                             $16,152.75
+ 12/16/2023                        Dividend Reinvestment                                                                                               $536.21                             $16,688.96
+ 12/16/2023                        Dividend Reinvestment                                                                                                 $30.83                            $16,719.79
+ 12/16/2023                        Dividend Reinvestment                                                                                               $680.24                             $17,400.03
+ 12/20/2023                        Dividend Reinvestment                                                                                               $899.41                             $18,299.44
+                                   Ending balance                                                                                                                                          $75,903.55
+
+
+For our brokerage clients. Your brokerage cash and/or securities are held in custody by Sample        writing to further protect your rights, including your rights under the Securities Investor Protection
+Brokerage, member FINRA and SIPC. Securities products are offered through its broker-dealer           Act.
+affiliate; they are not deposits, are not insured by the FDIC, and may lose value. Summary data       Free credit balance. Any free credit balance carried for your account represents funds payable
+are provided solely as a service and are for informational purposes only.                             on demand which, although properly accounted for on our books of record, aren't segregated and
+Portfolio holdings. Holdings reflect the net market value of the securities in your account on a      may be used in the conduct of our business to the extent permitted by law. Your settlement fund
+trade-date basis at the close of the statement period. Current prices listed on this statement help   may be liquidated on request and the proceeds remitted to you.
+you track your account and aren't suitable for tax purposes. Account balances are displayed using
+                                                                                                      Cost basis. We are required to report cost basis information to the IRS for sales of covered
+two decimal places.                                                                                   securities held in taxable accounts. Retirement accounts are not subject to that reporting. It is
+Estimated values. We rely on outside vendors to provide periodic valuation and market-price           your responsibility to choose the cost basis method appropriate for your tax situation.
+information for the securities listed in your account. From time to time that information isn't       Advice. Sample Brokerage doesn't provide tax, investment, or legal advisory services, and no
+available or isn't received in time for posting. In that case the price on your statement is marked   one associated with it is authorized to render such advice. This statement is not a tax document;
+"—" and the security hasn't been valued for purposes of calculating account totals.                   retain it with your records and compare it with the tax forms you receive after year-end.
+Reporting account discrepancies. Promptly report in writing any inaccuracies or discrepancies
+in your account, including unauthorized trading. Any oral communication should be confirmed in
+
+                                                                                  * * * END OF STATEMENT * * *
+
+
+
+
+Quarterly transaction statement                                                                                                                                                                 Page 3 of 3

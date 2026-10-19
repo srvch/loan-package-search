@@ -1,0 +1,53 @@
+Commitment for Title Insurance
+American Land Title Association                                                                                                   2021 v. 01.00 (07-01-2021)
+
+Transaction Identification Data, for which the Company assumes no liability as set forth in Commitment Condition 5:
+Issuing Agent:                                    XYZ Title Company
+Issuing Office:                                   200 XYZ Street, XYZ City, NY 12345
+Issuing Office Telephone:                         (555) 555-0130
+Title Contact:                                    Sally Settlement, Settlement Agent
+Loan ID Number:                                   1234567890
+Commitment Number:                                TC-1234567
+Issuing Office File Number:                       TC-1234567
+Issue Date:                                       10/10/2024
+Anticipated Closing Date:                         12/14/2024
+Property Address:                                 456 XYZ Avenue, XYZ City, NY 12345
+
+                                                                       SCHEDULE A
+ 1.        Commitment Date: October 10, 2024 (10/10/2024)
+ 2.        Policy or Policies to be issued and Proposed Policy Amounts:
+                                                                                                                                                Proposed Policy
+           Item     Policy to be Issued                                  Proposed Insured                                                              Amount
+
+           a.       ALTA Owner's Policy of Title Insurance               John Doe and Jane Doe                                                    $620,000.00
+                    (7/1/2021)
+           b.       ALTA Loan Policy of Title Insurance                  ABC Mortgage Company, its successors and/or                              $496,000.00
+                    (7/1/2021)                                           assigns as their interests may appear
+
+ 3.        The estate or interest in the Land at the Commitment Date is:
+           Fee Simple
+ 4.        The Title is, at the Commitment Date, vested in:
+           Sam Seller and Sue Seller, by instrument of record in the Public Records of XYZ County, NY.
+         4.a.     Title to the estate to be insured under the Owner’s Policy is to vest in: John Doe and Jane Doe, as Joint
+                  Tenants with Right of Survivorship, in ABC Subdivision.
+ 5.        The Land referred to in this Commitment is described as follows:
+         LOT 1, BLOCK A, ABC SUBDIVISION
+         Property Address:                         456 XYZ Avenue
+         City:                                     XYZ City
+         County:                                   XYZ County
+         State / ZIP:                              NY 12345
+         Parcel / APN:                             12-3456-789
+         Estate or Interest:                       Fee Simple
+
+         FOR INFORMATIONAL PURPOSES ONLY: the Land is commonly known as 456 XYZ Avenue, XYZ City, NY
+         12345. The Proposed Insured owner(s) are John Doe and Jane Doe; the Proposed Insured lender is ABC Mortgage
+         Company.
+
+
+
+
+This page is only a part of a 2021 ALTA Commitment for Title Insurance issued by ABC Title Insurance Company. This Commitment is not valid without the Notice; the
+Commitment to Issue Policy; the Commitment Conditions; Schedule A; Schedule B, Part I — Requirements; and Schedule B, Part II — Exceptions; and a counter-
+signature by the Company or its issuing agent that may be in electronic form.
+COMMITMENT NO.: TC-1234567                                                                                           ISSUING OFFICE FILE NO.: TC-1234567
+ALTA Commitment for Title Insurance (Adopted 07-01-2021) — Schedule A; Schedule B, Part I; Schedule B, Part II                                         Page 3 of 7

@@ -1,0 +1,66 @@
+Findings
+
+  Fannie Mae Proprietary Messages
+ No.      Message ID            Message                                                                                                                          Severity
+
+ 1        FNM0001               The appraisal document file was received and processed. Document File Status: Successful.                                        Informational
+ 2        FNM0002               The submitted form type (1004) is an eligible appraisal form type for delivery to Fannie Mae.                                    Informational
+ 3        FNM0003               No hard stops were returned for this appraisal. The appraisal is eligible for delivery in its current form.                      Informational
+ 4        FNM0121               The subject property address on the appraisal matches the subject property address on the loan submission.                       Informational
+ 5        FNM0134               The appraisal effective date is within the age requirements in effect for the note date reported on the loan.                    Informational
+ 6        FNM0208               The appraiser's license information was located in the state licensing record and is active as of the report                     Informational
+                                date.
+ 7        FNM0501               Collateral Underwriter (CU) risk score of 2.1 was returned for this appraisal. No overvaluation flag and no                      Informational
+                                property eligibility risk flag were returned.
+ 8        FNM0999               This appraisal has not been reviewed for compliance with the Selling Guide requirements other than those                         Informational
+                                identified above.
+
+
+  UAD Compliance Check
+ UAD Compliance Check                                                                                    Result                   Detail
+
+ All required Uniform Appraisal Dataset (UAD) fields are present and populated on the                    Passed                   0 exceptions
+ submitted form.
+ Condition and quality ratings are reported using the permitted UAD rating values.                       Passed                   C3 / Q3 reported
+ Sales comparison grid contains at least three closed comparable sales.                                  Passed                   3 comparables
+ The appraised value is populated and is numeric.                                                        Passed                   $620,000.00
+ The effective date of the appraisal is populated and is a valid date.                                   Passed                   11/02/2024
+ The appraiser's signature and the date of signature are present on the report.                          Passed                   11/05/2024
+ The appraisal document file contains an embedded PDF of the signed report.                              Passed                   1 PDF attached
+
+
+  Collateral Underwriter
+
+       2.1               1.0                                                                   5.0
+                                                                                                       Overvaluation Flag
+                                                                                                       No
+                                                                                                                                           Property Eligibility Flag
+                                                                                                                                           No
+     CU Risk Score       Very Low          Low          Moderate           High          Very High
+                                                                                                       Appraisal Quality Flag              CU Risk Flags Returned
+                                                                                                       No                                  None
+
+     A CU risk score of 1.0 represents the lowest risk and 5.0 the highest. The score, the flags and the messages above are provided for the lender's use in its own
+     appraisal review; they do not represent an appraisal, an appraisal review, or a determination of value by Fannie Mae.
+
+
+
+  Submission Status Detail
+Document File Status                        Document Status                              Appraisal Status                             Hard Stop Messages
+Successful                                  Successful                                   Successful                                   None
+Date of Report                              Date Submitted to UCDP                       Subject Property Address                     City / State / ZIP
+11/05/2024                                  11/06/2024                                   456 XYZ Avenue                               XYZ City, NY 12345
+
+
+NOTICE: This Submission Summary Report confirms that the appraisal document file identified above was successfully submitted to the Uniform Collateral Data Portal and accepted
+by Fannie Mae. Acceptance of an appraisal document file does not constitute an appraisal review, an acceptance of the appraised value, a representation that the appraisal complies
+with the Uniform Standards of Professional Appraisal Practice, or a waiver of any representation and warranty made by the lender under the Selling Guide. The lender remains
+responsible for the accuracy and completeness of the appraisal and for compliance with all applicable requirements.
+
+Retain a copy of this report in the loan file. Reference the Document File ID SSR1234567890 and the Appraisal ID AP1234567890 in all correspondence regarding this submission.
+Uniform Collateral Data Portal is a joint initiative of Fannie Mae and Freddie Mac.
+
+
+
+
+UCDP Submission Summary Report                                                                                                                                              Page 2 of 2

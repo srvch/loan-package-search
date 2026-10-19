@@ -1,0 +1,479 @@
+John Doe
+
+From:                  John Doe <john.doe@example.com>
+Sent:                  Friday, November 15, 2024 11:20 AM
+To:                    Larry Lender <larry.lender@example.com>
+Subject:               RE: Initial Disclosures - Loan #1234567890 - Action Required
+
+Hi Larry,
+
+Both of us signed everything in the portal this morning, including the intent to proceed and the e-consent form.
+
+Please confirm the package came through on your side and let me know what happens next on loan #1234567890.
+
+Thank you,
+John Doe
+(555) 555-0101 - john.doe@example.com
+
+This email and any attachments are confidential and intended solely for the named borrower in connection with the referenced loan application. If you are not the
+intended recipient, please notify the sender and delete this message. Printed for the loan file on December 14, 2024.
+
+
+
+
+From: Larry Lender <larry.lender@example.com>
+Sent: Friday, November 15, 2024 8:07 AM
+To: John Doe <john.doe@example.com>; Jane Doe <jane.doe@example.com>
+Subject: Initial Disclosures - Loan #1234567890 - Action Required
+
+Dear John Doe and Jane Doe,
+
+Thank you for your application, which we received on November 14, 2024. Your initial disclosure package for loan
+#1234567890 has been sent to the secure signing portal and is ready for your electronic signature.
+
+Please review and sign each document in the package. The list below shows what was delivered; signing all five items lets
+us order the appraisal and move the file into processing.
+
+Initial Disclosure Package
+
+ #             Item                                                                                                     Status
+
+ 1             Loan Estimate                                                                                            Delivered - signature received
+
+ 2             Intent to Proceed                                                                                        Delivered - signature received
+
+ 3             Consent to Electronic Records (E-Sign)                                                                   Delivered - signature received
+
+ 4             Privacy Notice and Servicing Disclosure                                                                  Delivered - acknowledgment
+                                                                                                                        received
+
+ 5             Borrower's Authorization to Verify Information                                                           Delivered - signature received
+
+
+The signing link expires in ten days. If it lapses before you get to it, reply to this message and I will reissue it.
+
+Kind regards,
+Larry Lender
+Loan Officer - NMLS #2222222
+ABC Mortgage Company
+(555) 555-0121 - larry.lender@example.com
+
+
+
+
+                                                                                    1                                         ABC Mortgage Company - Loan #1234567890
+John Doe
+
+From:                  Alan Appraiser <alan.appraiser@example.com>
+Sent:                  Thursday, October 31, 2024 3:52 PM
+To:                    John Doe <john.doe@example.com>
+Cc:                    Larry Lender <larry.lender@example.com>
+Subject:               RE: Appraisal Appointment - 456 XYZ Avenue, XYZ City, NY 12345
+
+John,
+
+Confirmed for 11/02/2024. The completed report will be delivered directly to ABC Mortgage Company by November 05, 2024;
+you will receive your copy from your loan officer once it has been reviewed.
+
+Many thanks,
+Alan Appraiser
+Certified Appraiser
+ABC Appraisal Services, Inc.
+(555) 555-0150 - alan.appraiser@example.com
+
+This email and any attachments are confidential and intended solely for the named borrower in connection with the referenced loan application. If you are not the
+intended recipient, please notify the sender and delete this message. Printed for the loan file on December 14, 2024.
+
+
+
+
+From: John Doe <john.doe@example.com>
+Sent: Thursday, October 31, 2024 12:39 PM
+To: Alan Appraiser <alan.appraiser@example.com>
+Cc: Larry Lender <larry.lender@example.com>
+Subject: RE: Appraisal Appointment - 456 XYZ Avenue, XYZ City, NY 12345
+
+Hello Alan,
+
+November 02, 2024 works for us. The listing agent will meet you at the property and provide access, and we have asked the
+seller to leave the utilities on for the visit.
+
+Regards,
+John Doe
+(555) 555-0101 - john.doe@example.com
+
+
+
+From: Alan Appraiser <alan.appraiser@example.com>
+Sent: Wednesday, October 30, 2024 9:26 AM
+To: John Doe <john.doe@example.com>
+Cc: Larry Lender <larry.lender@example.com>
+Subject: Appraisal Appointment - 456 XYZ Avenue, XYZ City, NY 12345
+
+Good morning John,
+
+ABC Appraisal Services, Inc. has been engaged by ABC Mortgage Company to complete the appraisal inspection for the
+property at 456 XYZ Avenue, XYZ City, NY 12345 in connection with loan #1234567890.
+
+I have two openings later this week. Please let me know which one works and confirm that access will be available for
+interior photographs of every room, the garage and any finished basement.
+
+
+
+
+                                                                                    1                                         ABC Mortgage Company - Loan #1234567890
+Proposed Appointment
+
+ Detail                                       Confirmed As
+
+ Subject property                             456 XYZ Avenue, XYZ City, NY 12345
+
+ Appraiser                                    Alan Appraiser, ABC Appraisal Services, Inc.
+
+ Inspection date                              November 02, 2024
+
+ Estimated time on site                       45 to 60 minutes
+
+ Ordered for                                  Loan #1234567890 - ABC Mortgage Company
+
+
+Thank you,
+Alan Appraiser
+Certified Appraiser
+ABC Appraisal Services, Inc.
+(555) 555-0150 - alan.appraiser@example.com
+
+
+
+
+                                                           2                                 ABC Mortgage Company - Loan #1234567890
+John Doe
+
+From:                  John Doe <john.doe@example.com>
+Sent:                  Friday, November 22, 2024 1:58 PM
+To:                    Larry Lender <larry.lender@example.com>
+Subject:               RE: Rate Lock Confirmation - Loan #1234567890
+
+Thanks Larry,
+
+The terms match what we discussed. We are still targeting December 14, 2024 for closing, so the lock window should be
+comfortable.
+
+Many thanks,
+John Doe
+(555) 555-0101 - john.doe@example.com
+
+This email and any attachments are confidential and intended solely for the named borrower in connection with the referenced loan application. If you are not the
+intended recipient, please notify the sender and delete this message. Printed for the loan file on December 14, 2024.
+
+
+
+
+From: Larry Lender <larry.lender@example.com>
+Sent: Thursday, November 21, 2024 10:45 AM
+To: John Doe <john.doe@example.com>; Jane Doe <jane.doe@example.com>
+Subject: Rate Lock Confirmation - Loan #1234567890
+
+Dear John Doe and Jane Doe,
+
+This confirms that the interest rate on loan #1234567890 was locked today at 6.500% for a 30-year fixed term. The written
+lock confirmation is attached and a copy has been placed in your file.
+
+The lock is tied to the loan amount and product shown below. If the loan amount or the closing date changes, let me know
+right away so we can re-price or extend before the lock expires.
+
+Locked Terms
+
+ Detail                                                           Confirmed As
+
+ Loan amount                                                      $496,000.00
+
+ Product                                                          30-Year Fixed Conventional
+
+ Note rate                                                        6.500%
+
+ Lock period                                                      45 days
+
+ Lock expiration                                                  January 05, 2025
+
+ Target closing                                                   December 14, 2024
+
+
+Regards,
+Larry Lender
+Loan Officer - NMLS #2222222
+ABC Mortgage Company
+(555) 555-0121 - larry.lender@example.com
+
+
+
+
+                                                                                    1                                         ABC Mortgage Company - Loan #1234567890
+John Doe
+
+From:                  John Doe <john.doe@example.com>
+Sent:                  Wednesday, October 2, 2024 11:17 AM
+To:                    Sally Settlement <sally.settlement@example.com>
+Cc:                    Andy Agent <andy.agent@example.com>
+Subject:               RE: Earnest Money Received - 456 XYZ Avenue, XYZ City, NY 12345
+
+Thank you,
+
+Received, and I have saved the receipt. I will send it to our loan officer along with the rest of the application documents.
+
+Best regards,
+John Doe
+(555) 555-0101 - john.doe@example.com
+
+This email and any attachments are confidential and intended solely for the named borrower in connection with the referenced loan application. If you are not the
+intended recipient, please notify the sender and delete this message. Printed for the loan file on December 14, 2024.
+
+
+
+
+From: Sally Settlement <sally.settlement@example.com>
+Sent: Tuesday, October 1, 2024 8:04 AM
+To: John Doe <john.doe@example.com>
+Cc: Andy Agent <andy.agent@example.com>; Larry Lender <larry.lender@example.com>
+Subject: Earnest Money Received - 456 XYZ Avenue, XYZ City, NY 12345
+
+Dear John,
+
+This message confirms that XYZ Title Company has received your earnest money deposit of $10,000.00 for the purchase of
+456 XYZ Avenue, XYZ City, NY 12345. The funds are held in our escrow account and will be applied at settlement.
+
+A signed receipt is attached for your records; please forward a copy to your lender when your file is opened.
+
+Deposit Detail
+
+ Detail                                                           Confirmed As
+
+ Received from                                                    John Doe and Jane Doe
+
+ Amount                                                           $10,000.00
+
+ Form of payment                                                  Personal check #1846
+
+ Date received                                                    09/30/2024
+
+ Held by                                                          XYZ Title Company
+
+
+Many thanks,
+Sally Settlement
+Settlement Agent
+XYZ Title Company
+(555) 555-0131 - sally.settlement@example.com
+
+
+
+
+                                                                                    1                                         ABC Mortgage Company - Loan #1234567890
+
+
+
+John Doe
+
+From:                  Larry Lender <larry.lender@example.com>
+Sent:                  Tuesday, December 3, 2024 2:27 PM
+To:                    Ivan Insurer <ivan.insurer@abcinsurance.com>
+Cc:                    John Doe <john.doe@example.com>
+Subject:               RE: Homeowners Insurance Binder Request - 456 XYZ Avenue, XYZ City, NY 12345
+
+Thank you Ivan,
+
+Received and forwarded to underwriting. Nothing further is needed from your office at this time.
+
+Many thanks,
+Larry Lender
+Loan Officer - NMLS #2222222
+ABC Mortgage Company
+(555) 555-0121 - larry.lender@example.com
+
+This email and any attachments are confidential and intended solely for the named borrower in connection with the referenced loan application. If you are not the
+intended recipient, please notify the sender and delete this message. Printed for the loan file on December 14, 2024.
+
+
+
+
+From: Ivan Insurer <ivan.insurer@abcinsurance.com>
+Sent: Monday, December 2, 2024 11:14 AM
+To: Larry Lender <larry.lender@example.com>
+Cc: John Doe <john.doe@example.com>
+Subject: RE: Homeowners Insurance Binder Request - 456 XYZ Avenue, XYZ City, NY 12345
+
+Larry,
+
+The binder is attached with an effective date of December 14, 2024 and the mortgagee clause you provided, including loan
+#1234567890.
+
+The first year's premium is shown on the declarations page and can be collected at settlement.
+
+Regards,
+Ivan Insurer
+Insurance Agent
+ABC Insurance Company
+(555) 555-0160 - ivan.insurer@abcinsurance.com
+
+
+
+From: Larry Lender <larry.lender@example.com>
+Sent: Monday, December 2, 2024 8:01 AM
+To: Ivan Insurer <ivan.insurer@abcinsurance.com>
+Cc: John Doe <john.doe@example.com>
+Subject: Homeowners Insurance Binder Request - 456 XYZ Avenue, XYZ City, NY 12345
+
+Hello Ivan,
+
+John Doe and Jane Doe are financing the purchase of 456 XYZ Avenue, XYZ City, NY 12345 with ABC Mortgage Company
+under loan #1234567890, scheduled to close on December 14, 2024.
+
+Please issue the hazard insurance binder and send it directly to me. Underwriting needs the four items below before the file
+can be cleared to close.
+
+
+
+                                                                                    1                                         ABC Mortgage Company - Loan #1234567890
+Items Requested from the Agent
+
+ #           Item                                                      Status
+
+ 1           Evidence of insurance / binder for the subject property   Requested
+
+ 2           Mortgagee clause showing the lender and loan number       Requested
+
+ 3           Effective date on or before the closing date              Requested
+
+ 4           Paid receipt or premium due at closing                    Requested
+
+
+Thank you,
+Larry Lender
+Loan Officer - NMLS #2222222
+ABC Mortgage Company
+(555) 555-0121 - larry.lender@example.com
+
+
+
+
+                                                                   2       ABC Mortgage Company - Loan #1234567890
+John Doe
+
+From:                  John Doe <john.doe@example.com>
+Sent:                  Monday, December 9, 2024 12:33 PM
+To:                    Sally Settlement <sally.settlement@example.com>
+Cc:                    Larry Lender <larry.lender@example.com>
+Subject:               RE: Settlement Scheduled - 456 XYZ Avenue, XYZ City, NY 12345
+
+Hello Sally,
+
+December 14, 2024 works for both of us. We will call your office to verify the wire instructions before we send anything, as
+you suggested.
+
+Many thanks,
+John Doe
+(555) 555-0101 - john.doe@example.com
+
+This email and any attachments are confidential and intended solely for the named borrower in connection with the referenced loan application. If you are not the
+intended recipient, please notify the sender and delete this message. Printed for the loan file on December 14, 2024.
+
+
+
+
+From: Sally Settlement <sally.settlement@example.com>
+Sent: Monday, December 9, 2024 9:20 AM
+To: John Doe <john.doe@example.com>; Jane Doe <jane.doe@example.com>
+Cc: Larry Lender <larry.lender@example.com>; Andy Agent <andy.agent@example.com>
+Subject: Settlement Scheduled - 456 XYZ Avenue, XYZ City, NY 12345
+
+Dear John Doe and Jane Doe,
+
+Settlement for 456 XYZ Avenue, XYZ City, NY 12345 is scheduled for December 14, 2024 at our closing office. Plan on
+about an hour at the table.
+
+Your Closing Disclosure will be delivered by the lender at least three business days beforehand. Wiring instructions for the
+balance due will come from this office only - if you receive instructions from anyone else, call us at the number in my
+signature before sending funds.
+
+Settlement Details
+
+ Detail                                                           Confirmed As
+
+ Settlement date                                                  December 14, 2024
+
+ Location                                                         XYZ Title Company - closing office
+
+ Buyers                                                           John Doe and Jane Doe
+
+ Loan                                                             #1234567890 - ABC Mortgage Company
+
+ Bring                                                            Government-issued photo identification
+
+
+Regards,
+Sally Settlement
+Settlement Agent
+XYZ Title Company
+(555) 555-0131 - sally.settlement@example.com
+
+
+
+
+                                                                                    1                                         ABC Mortgage Company - Loan #1234567890
+
+
+
+                                                                                                          D
+                                                                                                 RECEIVEING
+                                                                                                  UNDERWRIT
+                                         LETTER OF EXPLANATION                                      FILE COPY
+
+
+
+
+John Doe
+123 ABC Street
+XYZ City, NY 12345
+(555) 555-0101
+
+November 14, 2024
+
+ABC Mortgage Company
+Mortgage Underwriting Department
+Attn: Larry Lender, Loan Officer
+
+RE: Loan #1234567890 — Explanation of Large Deposit
+
+To Whom It May Concern:
+
+This letter is provided to explain the deposit of $1,760.45 that posted to my XYZ Bank account ending
+****3333 on October 25, 2024. The funds were deposited in person at a branch of the same institution
+and represent legitimately earned, sourced funds that are wholly my own.
+
+These funds were not borrowed, are not subject to any repayment obligation, and do not constitute a loan
+or any form of undisclosed liability. No portion of this deposit will create a new monthly obligation that
+would affect my ability to repay the requested mortgage.
+
+Supporting documentation evidencing the source of these funds is enclosed. Please contact me should you
+require any additional information to clear this condition.
+Deposit Detail
+ Date                      Account                      Source / Description                           Amount
+ 10/25/2024                XYZ Bank ****3333            BRANCH DEPOSIT                                $1,760.45
+
+I certify that the statements made in this letter are true and correct to the best of my knowledge.
+
+Sincerely,
+
+John Doe
+Borrower Signature
+
+Printed Name: John Doe
+Date: 11/14/2024
+Telephone: (555) 555-0101
+
+Enc.: Documentation evidencing the source of the deposit described above.
+
+
+
+
+Borrower Letter of Explanation                                                                          Page 1 of 1

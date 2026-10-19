@@ -1,0 +1,53 @@
+3    Assets                 Assets verified meet the required funds to close plus reserves.
+        4    Credit                 The casefile received an Approve/Eligible recommendation based on the
+                                    data submitted on 11/10/2024.
+
+
+  VERIFICATION MESSAGES/APPROVAL CONDITIONS
+  6    This loan is also subject to all other lender specified conditions and must comply with all
+       applicable federal, state, and local laws and regulations.
+
+  7    The documentation described in the following verification messages must be obtained and
+       retained in the loan file. Each message must be satisfied before the loan is delivered to Fannie
+       Mae.
+
+        #    Code         Verification Message
+        1    FNM0011      Verify a total monthly qualifying income of $16,987.64 for John Doe.
+        2    FNM0014      Obtain a verbal verification of employment for Acme Corporation within 10 business
+                          days prior to the note date.
+        3    FNM0021      Verify funds to close of $138,880.00 and reserves equal to 84.70 months of the
+                          proposed housing payment.
+        4    FNM0026      Obtain a credit report reflecting a representative credit score of 762.
+        5    FNM1101      The subject property at 456 XYZ Avenue, XYZ City, NY 12345 must be a Primary
+                          Residence as indicated in the loan application.
+        6    FNM1820      Verify the note rate of 6.500% and a loan amount of $496,000.00 on a 360-month
+                          Fixed Rate term.
+        7    FNM2004      Obtain an appraisal supporting an estimated value of $620,000.00 for the subject
+                          property.
+
+  8    Perform and document a verbal verification of employment for each borrower within 10
+       business days prior to the note date for all borrowers not using self-employment income for
+       qualifying, and within 30 calendar days prior to the note date for all borrowers using self-
+       employment income for qualifying. Direct verification by a third party employment
+       verification vendor is acceptable if complete within the same timeframes.
+
+
+  OBSERVATIONS
+  9    This case was submitted to Desktop Underwriter version 12.0 by ABC Mortgage Company.
+       The following information is associated with this loan: Casefile ID is DU1234567890, Lender
+       Loan Number is 1234567890 and the submission date is 11/10/2024. If the loan is delivered to
+       Fannie Mae, the Casefile ID must be provided at delivery.
+
+  10   The following list of special feature codes is provided to assist you in determining which
+       codes may be associated with this loan. Other codes may be required. Refer to the Special
+       Feature Codes list on fanniemae.com for a comprehensive list. Special Feature Codes: 210,
+       127.
+
+  11   The following Credit Report information is associated with this submission. The credit report
+       identification number is 123456789:
+
+
+
+
+https://desktopunderwriter.fanniemae.com/Findings/Findings.aspx                                       11/10/2024
+                                                                                                   Page 3 of 3

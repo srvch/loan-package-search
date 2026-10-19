@@ -1,0 +1,82 @@
+Merged Credit Report · continued                                                                                       Confidential — for the exclusive use of the requesting subscriber
+
+CREDIT                ACCOUNT                                                                                         PAST
+                              ECOA                   WHOSE           TERMS        MOP             REPORTED                 30 60 90 MR SOURCE                      REMARKS
+GRANTOR               NUMBER                                                                                           DUE
+                                                                                                                                                    EFX, XPN,
+XYZ AUTO FIN 3 ****4999             INDIVIDUAL Co-Borrower 72 MOS                 CURRENT-        11-24                $0.00 00 00 00 78                      AUTO LOAN
+                                                                                                                                                    TUC
+                                                                                                                                                              STUDENT
+ABC STUDENT                                                                                                                                         EFX, XPN,
+                      ****5036      INDIVIDUAL Borrower              120 MOS CURRENT-             11-24                $0.00 00 00 00 80                      LOAN; FIXED
+LN 3                                                                                                                                                TUC
+                                                                                                                                                              RATE
+XYZ BANK                                                                                                                                            EFX, XPN, INSTALLMENT
+                      ****5073      INDIVIDUAL Co-Borrower 60 MOS                 CURRENT-        11-24                $0.00 00 00 00 82
+LOAN 3                                                                                                                                              TUC       LOAN
+ABC TRAVEL                                                                                                                                          EFX, XPN,
+                      ****5110      INDIVIDUAL Borrower              REV          CURRENT-        11-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 3                                                                                                                                              TUC
+XYZ STORE                                                                                                                                           EFX, XPN,
+                      ****5147      INDIVIDUAL Co-Borrower REV                    CURRENT-        11-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 3                                                                                                                                              TUC
+ABC HOME                                                                                                                                            EFX, XPN,
+                      ****5184      INDIVIDUAL Borrower              REV          CURRENT-        10-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 3                                                                                                                                              TUC
+XYZ REWARDS                                                                                                                                         EFX, XPN,
+            ****5221                INDIVIDUAL Co-Borrower REV                    CURRENT-        10-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 3                                                                                                                                              TUC
+ABC CREDIT                                                                                                                                          EFX, XPN, INSTALLMENT
+                      ****5258      INDIVIDUAL Borrower              60 MOS       CURRENT-        10-24                $0.00 00 00 00 84
+UNION 3                                                                                                                                             TUC       LOAN
+XYZ BANK                                                                                                                                            EFX, XPN,
+                      ****5295      INDIVIDUAL Co-Borrower REV                    CURRENT-        10-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 3                                                                                                                                              TUC
+ABC BANK                                                                                                                                            EFX, XPN,
+                      ****5332      INDIVIDUAL Borrower              REV          CURRENT-        11-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 4                                                                                                                                              TUC
+XYZ BANK VISA                                                                                                                                       EFX, XPN,
+              ****5369              INDIVIDUAL Co-Borrower REV                    CURRENT-        11-24                $0.00 00 00 00 84                      CREDIT CARD
+4                                                                                                                                                   TUC
+ABC RETAIL                                                                                                                                          EFX, XPN,
+                      ****5406      INDIVIDUAL Borrower              REV          CURRENT-        11-24                $0.00 00 00 00 84                      CREDIT CARD
+CARD 4                                                                                                                                              TUC
+                                                                                                                                                    EFX, XPN,
+XYZ AUTO FIN 4 ****5443             INDIVIDUAL Co-Borrower 72 MOS                 CURRENT-        11-24                $0.00 00 00 00 84                      AUTO LOAN
+                                                                                                                                                    TUC
+MOP = manner of payment. MR = months reviewed. 30 / 60 / 90 are the counts of payments reported that many days past due. SOURCE lists the repositories reporting the
+account. Account numbers are masked. ECOA describes account responsibility; WHOSE identifies the applicant the account belongs to. Balances, limits and payment amounts are
+as last reported by the repositories named.
+
+
+                                                                            PUBLIC RECORDS
+                                                Bankruptcy, Judgment, Tax Lien and Foreclosure Public Record Information
+   Item                                                                                                                         Date                 Data              Applicant
+     #      Public Record Description                                    Reference / Case #                                     Filed               Source             Identifier
+    —       NO PUBLIC RECORD INFORMATION REPORTED BY THE REPOSITORIES ACCESSED.                                                                   EFX, XPN,           APP1, APP2
+                                                                                                                                                    TUC
+Public Records may contain duplicate information. This report displays all information reported by the repositories accessed.
+
+
+                                                          INQUIRIES MADE IN THE LAST 6 MONTHS
+                                                   Every subscriber that accessed the applicant's file in the review period
+   Item                                                                                                     Inquiry                Data Source —                    Applicant
+     #      Inquiry Made By                                                                                  Date                  Subscriber Info                  Identifier
+    —       NO INQUIRIES REPORTED IN THE REVIEW PERIOD.                                                                            EFX, XPN, TUC                  APP1, APP2
+
+
+                                                                  IDENTIFICATION INFORMATION
+                                                                 Identifying data returned by each repository
+   Item                                                                                                    Date of                       Data                      Applicant
+     #      Name                                                  SSN                                       Birth                       Source                     Identifier
+    1       DOE, JOHN                                             123-45-6789                             01/01/1980                     EFX                         APP1
+    2       DOE, JOHN                                             123-45-6789                             01/01/1980                     XPN                         APP1
+    3       DOE, JOHN                                             123-45-6789                             01/01/1980                     TUC                         APP1
+    4       DOE, JANE                                             987-65-4321                             02/02/1982                     EFX                         APP2
+    5       DOE, JANE                                             987-65-4321                             02/02/1982                     XPN                         APP2
+    6       DOE, JANE                                             987-65-4321                             02/02/1982                     TUC                         APP2
+
+
+
+
+Ref # 123456789 · DOE, JOHN                                                        Page 4 of 5                                                                   ABC Credit Services

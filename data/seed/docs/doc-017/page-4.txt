@@ -1,0 +1,53 @@
+Date                 Description                          Withdrawals   Deposits            Balance
+ 11/18/2023           POS PURCHASE ABC COFFEE                   135.53                     49,395.87
+ 11/19/2023           POS PURCHASE ABC DELI                     126.36                     49,269.51
+ 11/19/2023           POS PURCHASE ABC HARDWARE                 104.96                     49,164.55
+ 11/19/2023           POS PURCHASE XYZ PHARMACY                  86.61                     49,077.94
+ 11/20/2023           ATM WITHDRAWAL XYZ BANK PLAZA              80.00                     48,997.94
+ 11/20/2023           DEBIT CARD PURCHASE XYZ DINER             122.28                     48,875.66
+ 11/20/2023           POS PURCHASE ABC HARDWARE                 108.01                     48,767.65
+ 11/20/2023           POS PURCHASE XYZ CAFE                     167.13                     48,600.52
+ 11/21/2023           DEBIT CARD PURCHASE XYZ BOOKS             117.19                     48,483.33
+ 11/21/2023           DEBIT CARD PURCHASE XYZ BOOKS              67.25                     48,416.08
+ 11/21/2023           DEBIT CARD PURCHASE XYZ THEATER            63.17                     48,352.91
+ 11/21/2023           POS PURCHASE ABC MARKET                    67.25                     48,285.66
+ 11/22/2023           ACH CREDIT EXPENSE REIMBURSEMENT                     296.61          48,582.27
+ 11/22/2023           DEBIT CARD PURCHASE XYZ THEATER           129.42                     48,452.85
+ 11/22/2023           POS PURCHASE ABC GARDEN CENTER             72.34                     48,380.51
+ 11/22/2023           POS PURCHASE XYZ PHARMACY                 101.90                     48,278.61
+ 11/23/2023           DEBIT CARD PURCHASE ABC GROCERS            97.82                     48,180.79
+ 11/23/2023           DEBIT CARD PURCHASE XYZ DINER              73.37                     48,107.42
+ 11/23/2023           DEBIT CARD PURCHASE XYZ PET SUPPLY        143.69                     47,963.73
+ 11/23/2023           MOBILE DEPOSIT                                     1,140.46          49,104.19
+ 11/23/2023           POS PURCHASE ABC CLEANERS                  71.32                     49,032.87
+ 11/23/2023           POS PURCHASE ABC COFFEE                   121.26                      48,911.61
+ 11/23/2023           POS PURCHASE ABC FUEL 118                  68.27                     48,843.34
+ 11/24/2023           ACH CREDIT UTILITY REFUND                            106.80          48,950.14
+ 11/24/2023           POS PURCHASE ABC DELI                      76.42                     48,873.72
+ 11/25/2023           DEBIT CARD PURCHASE XYZ BAKERY            107.00                     48,766.72
+ 11/25/2023           DEBIT CARD PURCHASE XYZ DINER             146.74                     48,619.98
+ 11/26/2023           ATM WITHDRAWAL ABC BANK BRANCH            120.00                     48,499.98
+ 11/26/2023           DEBIT CARD PURCHASE XYZ BOOKS              99.86                     48,400.12
+ 11/26/2023           DEBIT CARD PURCHASE XYZ THEATER           151.84                     48,248.28
+ 11/26/2023           POS PURCHASE ABC CLEANERS                 109.03                     48,139.25
+ 11/26/2023           POS PURCHASE ABC FUEL 118                  45.84                     48,093.41
+ 11/26/2023           POS PURCHASE ABC HARDWARE                  78.46                     48,014.95
+ 11/26/2023           POS PURCHASE XYZ PHARMACY                 165.09                     47,849.86
+ 11/27/2023           DEBIT CARD PURCHASE XYZ SPORTS            113.11                     47,736.75
+ 11/27/2023           POS PURCHASE ABC DELI                     135.53                     47,601.22
+ 11/28/2023           DEBIT CARD PURCHASE XYZ BAKERY             49.92                     47,551.30
+ 11/28/2023           DEBIT CARD PURCHASE XYZ BOOKS              48.90                     47,502.40
+ 11/28/2023           DEBIT CARD PURCHASE XYZ DINER              58.07                     47,444.33
+ 11/28/2023           POS PURCHASE ABC COFFEE                   115.15                     47,329.18
+ 11/29/2023           DEBIT CARD PURCHASE XYZ BOOKS              92.73                     47,236.45
+ 11/29/2023           POS PURCHASE ABC GARDEN CENTER            124.32                      47,112.13
+ 11/29/2023           POS PURCHASE ABC MARKET                    55.02                      47,057.11
+ 11/30/2023           ACH CREDIT DIVIDEND PAYMENT                           17.47          47,074.58
+ 11/30/2023           ACH DEBIT XYZ AUTO FINANCE                385.33                     46,689.25
+ 11/30/2023           ACH DEBIT XYZ INTERNET                     75.63                     46,613.62
+ 11/30/2023           INTEREST PAYMENT                                      20.00          46,633.62
+ 11/30/2023           MOBILE DEPOSIT                                       989.10          47,622.72
+
+
+Member FDIC · Equal Housing Lender                                                  DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                                 Page 4 of 5

@@ -1,0 +1,59 @@
+Date                 Description                                                                          Withdrawals                Deposits                   Balance
+ 03/23/2024           POS PURCHASE XYZ PHARMACY                                                                   175.56                                       44,367.20
+ 03/24/2024           POS PURCHASE ABC DELI                                                                       115.22                                       44,251.98
+ 03/24/2024           POS PURCHASE ABC MARKET                                                                       64.58                                      44,187.40
+ 03/25/2024           ACH DEBIT XYZ WATER DIST                                                                      74.16                                       44,113.24
+ 03/25/2024           ATM WITHDRAWAL XYZ BANK PLAZA                                                                 60.00                                      44,053.24
+ 03/25/2024           DEBIT CARD PURCHASE ABC GROCERS                                                             140.01                                       43,913.23
+ 03/26/2024           DEBIT CARD PURCHASE XYZ THEATER                                                             171.25                                       43,741.98
+ 03/27/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                               144.32                                       43,597.66
+ 03/27/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                                67.81                                      43,529.85
+ 03/27/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                              100.14                                       43,429.71
+ 03/27/2024           POS PURCHASE ABC HARDWARE                                                                   135.70                                       43,294.01
+ 03/28/2024           ACH CREDIT EXPENSE REIMBURSEMENT                                                                                    681.54               43,975.55
+ 03/28/2024           ACH DEBIT ABC INSURANCE                                                                     170.65                                       43,804.90
+ 03/28/2024           DEBIT CARD PURCHASE ABC GROCERS                                                               40.87                                      43,764.03
+ 03/28/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                                 58.11                                      43,705.92
+ 03/28/2024           DEBIT CARD PURCHASE XYZ THEATER                                                             114.14                                       43,591.78
+ 03/28/2024           DEBIT CARD PURCHASE XYZ THEATER                                                               58.11                                      43,533.67
+ 03/28/2024           POS PURCHASE ABC DELI                                                                         57.03                                      43,476.64
+ 03/28/2024           POS PURCHASE ABC DELI                                                                         89.36                                      43,387.28
+ 03/29/2024           DEBIT CARD PURCHASE XYZ BOOKS                                                               142.16                                       43,245.12
+ 03/29/2024           POS PURCHASE ABC CLEANERS                                                                   174.49                                       43,070.63
+ 03/29/2024           POS PURCHASE ABC CLEANERS                                                                   157.25                                       42,913.38
+ 03/29/2024           POS PURCHASE ABC CLEANERS                                                                   162.63                                       42,750.75
+ 03/30/2024           DEBIT CARD PURCHASE XYZ PET SUPPLY                                                            76.43                                      42,674.32
+ 03/30/2024           DEBIT CARD PURCHASE XYZ SPORTS                                                              115.22                                       42,559.10
+ 03/30/2024           POS PURCHASE XYZ PHARMACY                                                                   151.86                                       42,407.24
+ 03/31/2024           ACH CREDIT FLEX SPENDING REIMB                                                                                      297.98               42,705.22
+ 03/31/2024           ACH DEBIT XYZ AUTO FINANCE                                                                  385.17                                       42,320.05
+ 03/31/2024           INTEREST PAYMENT                                                                                                     19.00               42,339.05
+ 03/31/2024           POS PURCHASE ABC COFFEE                                                                     168.02                                       42,171.03
+ 03/31/2024           POS PURCHASE ABC COFFEE                                                                     115.22                                       42,055.81
+                      Totals                                                                                  10,334.92               11,122.26                42,055.81
+
+Each balance shown is the ledger balance after the item on that line was posted. A description beginning DEBIT CARD PURCHASE or POS PURCHASE reflects electronic
+information received from the merchant; the original item is not returned with this statement.
+
+
+
+ DAILY ENDING BALANCE                                   Ledger balance at the close of each day on which an item posted
+
+ Date                    Amount      Date                 Amount     Date                    Amount         Balance history for this period
+ 03/01                 40,949.75     03/02              47,148.80    03/03                 46,768.80
+ 03/04                 47,427.10     03/05              46,808.97    03/06                 46,637.72
+ 03/07                 46,317.91     03/08              46,256.57    03/09                 46,118.72
+ 03/10                 46,013.20     03/11              45,667.07    03/12                 46,004.29
+ 03/13                 46,445.02     03/14              46,237.97    03/15                 45,485.22
+ 03/16                 45,284.95     03/17              45,208.52    03/18                 46,134.65        Trend of the ledger balance over the statement period. Amounts
+                                                                                                            as listed at left.
+ 03/19                 45,883.73     03/20              44,877.04    03/21                 44,632.59
+ 03/22                 44,252.44     03/23              44,367.20    03/24                 44,187.40
+ 03/25                 43,913.23     03/26              43,741.98    03/27                 43,294.01
+ 03/28                 43,387.28     03/29              42,750.75    03/30                 42,407.24
+ 03/31                 42,055.81
+
+
+
+Member FDIC · Equal Housing Lender                                                                                                                     DDA-1042 (Rev. 06/22)
+Statement of Account (continued)                                                                                                                                                Page 4 of 5

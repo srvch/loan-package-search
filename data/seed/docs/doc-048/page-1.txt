@@ -1,0 +1,67 @@
+UCDP Submission Summary Report (SSR)
+Uniform Collateral Data Portal® · UCDP Release 24.1                                                                                                              Fannie Mae®
+Document File Status                                     Document File ID                         Lender Loan Number                        Report Date/Time
+
+   Successful                                            SSR1234567890                            1234567890                                11/06/2024 09:18:04 ET
+
+Lender Name                                              S/SN or Non S/SN                         Submitted By                              Date Submitted
+ABC Mortgage Company                                     1111111                                  Larry Lender                              November 06, 2024
+
+Subject Property                                                                                  Appraisals in File                        Hard Stops
+456 XYZ Avenue, XYZ City, NY 12345                                                                1                                         None
+
+  Document File Summary
+ Document File ID                       Document File Status      Appraisals         Date Submitted                Last Updated                 Submitted By
+
+ SSR1234567890                          Successful                1                  11/06/2024                    11/06/2024                   Larry Lender
+
+
+  Appraisal 1 - Uniform Residential Appraisal Report
+  Document Status                                 Appraisal ID                              Form Type                                     Document Type
+
+     Successful                                   AP1234567890                              1004                                          Appraisal Report
+
+  Effective Date of Appraisal                     Date of Report Signature                  Appraisal Sequence Number                     Property Valuation Method
+  11/02/2024                                      11/05/2024                                1                                             Traditional Appraisal
+
+  Property Address                                City                       State       ZIP Code                County                   Opinion of Market Value
+  456 XYZ Avenue                                  XYZ City                   NY          12345                   XYZ County
+                                                                                                                                          $620,000.00
+  Appraiser Name                                  License Type                              License ID                    License State          License Expiration
+  Alan Appraiser                                  Certified Residential                     AP-12345                      NY                     12/31/2025
+
+
+  Appraisal Data Elements Received
+The data below is the appraisal data extracted from the submitted document file. Values are echoed exactly as received; the portal does not alter appraisal data.
+ Appraisal Data Element                                               Value Submitted
+
+ Appraisal ID                                                         AP1234567890
+ Appraisal Status                                                     Successful
+ Document Status                                                      Successful
+ Form Type                                                            1004 — Uniform Residential Appraisal Report
+ Appraisal Effective Date                                             11/02/2024
+ Date of Report / Signature                                           11/05/2024
+ Appraised Value                                                      $620,000.00
+ Subject Property Address                                             456 XYZ Avenue
+ City / State / ZIP                                                   XYZ City, NY 12345
+ County                                                               XYZ County
+ Assignment Type                                                      Purchase Transaction
+ Property Rights Appraised                                            Fee Simple
+ Appraiser Name                                                       Alan Appraiser
+ Appraiser License / State                                            AP-12345 / NY
+ Appraiser License Expiration                                         12/31/2025
+ Appraisal Company                                                    ABC Appraisal Services, Inc.
+ File Format Received                                                 MISMO 2.6 GSE XML with embedded PDF
+
+
+  Submission History
+ Date                       Time (ET)            Submission Event                                                                 Performed By                      Status
+
+ 11/06/2024                 09:14 AM             Appraisal document file uploaded to the portal                                   Larry Lender                      Received
+ 11/06/2024                 09:15 AM             Document file format and schema validation completed                             UCDP                              Passed
+ 11/06/2024                 09:16 AM             UAD compliance check completed                                                   UCDP                              Passed
+ 11/06/2024                 09:17 AM             Fannie Mae proprietary messages returned                                         Fannie Mae                        Successful
+ 11/06/2024                 09:18 AM             Submission Summary Report generated                                              UCDP                              Successful
+
+
+UCDP Submission Summary Report                                                                                                                                               Page 1 of 2

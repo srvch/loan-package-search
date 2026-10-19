@@ -1,0 +1,45 @@
+Merged Credit Report · continued                                                                                       Confidential — for the exclusive use of the requesting subscriber
+
+                                                                       ADDRESS INFORMATION
+                                                                   All addresses reported to the repositories
+   Item                                                                                                  Address                   Date                Data            Applicant
+     #      Address                                                                                       Type                   Reported             Source           Identifier
+    1       123 ABC Street, XYZ City, NY 12345                                                          CURRENT                 11/09/2024              EFX               APP1
+    2       123 ABC Street, XYZ City, NY 12345                                                          CURRENT                 11/09/2024             TUC                APP2
+
+
+                                                                            AKA INFORMATION
+                                                                   Possible variations of the applicant's name
+   Item                                                                                                                                Data                        Applicant
+     #      Names                                                                                                                     Source                       Identifier
+    1       John Doe                                                                                                                    XPN                          APP1
+    2       Jane Doe                                                                                                                    XPN                          APP2
+
+                                                                          TRADELINE GLOSSARY
+ECOA designators. INDIVIDUAL — the applicant alone is contractually liable. J — joint.        Data sources. EFX — Equifax. XPN — Experian. TUC — TransUnion. A tradeline
+A — authorized user. C — co-maker. S — shared, but not liable. M — maker. T —                 reported by more than one repository is merged into a single line item and every
+terminated.                                                                                   reporting repository is listed in the SOURCE column.
+Manner of payment (MOP). The rating each repository last reported, closed by a                Applicant identifiers. APP1 is the applicant; APP2 is the co-applicant. WHOSE names
+hyphen carrying the worst delinquency reached in the review period. CURRENT- is an            the applicant an account belongs to; MR is the number of months of payment history
+account paid as agreed: the hyphen closes the rating and nothing follows it because no        reviewed.
+delinquency was reported. An account not paid as agreed carries the worst rating it           Terms and limits. TERMS is the repayment term the grantor reported — REV for a
+reached instead — 30, 60, 90 or 120 DAYS LATE, COLLECTION, REPOSSESSION,                      revolving line, otherwise the number of monthly instalments. CREDIT LMT is the reported
+CHARGED OFF. PAID is a settled account closed at a zero balance.                              credit limit or, where the grantor reports no limit, the highest balance the account has
+Delinquency counts. The 30 / 60 / 90 columns count how many times a payment was               carried.
+reported that many days past due over the months shown in MR. PAST DUE is the
+amount the grantor reported unpaid at the reporting date.
+
+
+Merged consumer credit report compiled from Equifax, Experian and TransUnion repositories. This report is furnished in compliance with the Fair Credit Reporting Act. It is
+furnished to ABC Mortgage Company in reliance upon a certified permissible purpose in connection with a credit transaction involving the consumer named above, and may be
+used for no other purpose. The information it contains was obtained from sources deemed reliable, the accuracy of which ABC Credit Services does not guarantee; liability is
+expressly limited to the amount of the fee paid for this report. The consumer may dispute the accuracy or completeness of any item by writing to the repository that furnished it or to
+ABC Credit Services, which will reinvestigate and, where warranted, delete or correct the item and provide a corrected report on request. This report is confidential and may not be
+redisclosed except as the Act permits.
+
+                                                               —— END OF REPORT · Ref # 123456789 ——
+
+
+
+
+Ref # 123456789 · DOE, JOHN                                                         Page 5 of 5                                                                  ABC Credit Services

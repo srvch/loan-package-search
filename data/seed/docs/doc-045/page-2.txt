@@ -1,0 +1,95 @@
+Uniform Residential Appraisal Report                                                                  File # 1234567890
+                             There are 3 comparable properties currently offered for sale in the subject neighborhood ranging in price from $609,800 to $636,000.
+                             There are 3 comparable sales in the subject neighborhood within the past twelve months ranging in sale price from $607,000 to $634,000.
+                                      FEATURE                    SUBJECT              COMPARABLE SALE # 1             +(-) $ Adjust.    COMPARABLE SALE # 2            +(-) $ Adjust.     COMPARABLE SALE # 3          +(-) $ Adjust.
+                             Address                   456 XYZ Avenue, XYZ            460 XYZ Avenue, XYZ                               515 ABC Street, XYZ                              602 XYZ Court, XYZ
+                                                       City, NY 12345                 City, NY 12345                                    City, NY 12345                                   City, NY 12345
+                             Proximity to Subject      —                              0.12 miles NE                                     0.28 miles SW                                    0.41 miles NW
+                             Sale Price                $620,000.00                    $612,500.00                                       $634,000.00                                      $607,000.00
+                             Sale Price/Gross Liv.     $258.33                        $259.53                                           $251.59                                          $263.91
+                             Area
+                             Data Source(s)            MLS #1234567 and XYZ           MLS #1234567; XYZ                                 MLS #1234567; XYZ                                MLS #1234567; XYZ
+                                                       County public records;         County public records                             County public records                            County public records
+                                                       subject listed at the
+                                                       contract price; days on
+                                                       market 21
+                             Verification Source(s)    Public records; contract       MLS #1234567; XYZ                              MLS #1234567; XYZ                                 MLS #1234567; XYZ
+                                                       of sale                        County public records                          County public records                             County public records
+                             VALUE                     DESCRIPTION                    DESCRIPTION                     +(-) $ Adjust. DESCRIPTION                        +(-) $ Adjust. DESCRIPTION                      +(-) $ Adjust.
+                             ADJUSTMENTS
+                             Sales or Financing        ArmLth Conv;None               ArmLth Conv;None                                  ArmLth Conv;None                                 ArmLth Conv;None
+                             Concessions
+                             Date of Sale/Time         c09/30/2024                    s09/30/2024                         +1,100.00 s09/05/2024                             +2,000.00 s08/11/2024                           +2,800.00
+ SALES COMPARISON APPROACH
+
+
+
+
+                             Location                  N;Res;                         N;Res;                                            N;Res;                                           N;Res;
+                             Leasehold/Fee Simple      Fee Simple
+                             Site                      0.25 acres                     0.25 acres                                        0.25 acres                                       0.25 acres
+                             View                      N;Res;                         N;Res;                                            N;Res;                                           N;Res;
+                             Design (Style)            DT1;Colonial                   DT1;Colonial                                      DT1;Colonial                                     DT1;Colonial
+                             Quality of Construction Q3                               Q3                                                Q3                                               Q3
+                             Actual Age                19 yrs                         19 yrs                                            19 yrs                                           19 yrs
+                             Condition                 C3                             C3                                                C3                                               C3
+                             Above Grade Room          8 | 4 | 2.1                    8 | 4 | 2.1                                       8 | 4 | 2.1                                      8 | 4 | 2.1
+                             Count Total | Bdrms |
+                             Baths
+                             Gross Living Area         2,400 sq.ft.                   2,360 sq.ft.                        +1,200.00 2,520 sq.ft.                             -3,600.00 2,300 sq.ft.                         +3,000.00
+                             Basement & Finished       None                           None                                              None                                             None
+                             Rooms Below Grade
+                             Functional Utility        Average
+                             Heating/Cooling           FWA/Central
+                             Energy Efficient Items    Insulated Windows
+                             Garage/Carport            2ga2dw                         2ga2dw                                            2ga2dw                                           2ga2dw
+                             Porch/Patio/Deck          Covered Porch, Deck            None                                +5,200.00 Covered Porch, Deck                                  None                               +7,200.00
+                             Fence, Pool, Other        None                           None                                              In-ground Pool                     -12,400.00 None
+                             Net Adjustment (Total)                                        +    -                         +7,500.00          +    -                        -14,000.00          +   -                      +13,000.00
+                             Adjusted Sale Price of                                   Net Adj. 1.2% / Gross             $620,000.00 Net Adj. 2.2% / Gross                $620,000.00 Net Adj. 2.1% / Gross               $620,000.00
+                             Comparables                                              Adj. 1.2%                                     Adj. 2.8%                                        Adj. 2.1%
+                             I      did   did not research the sale or transfer history of the subject property and comparable sales. If not, explain
+                             My research       did    did not reveal any prior sales or transfers of the subject property for the three years prior to the effective date of this appraisal.
+                             My research      did     did not reveal any prior sales or transfers of the comparable sales for the year prior to the date of sale of the comparable sale.
+                             Report the results of the research and analysis of the prior sale or transfer history of the subject property and comparable sales.
+                                                   ITEM                                         SUBJECT                      COMPARABLE SALE # 1                  COMPARABLE SALE # 2                    COMPARABLE SALE # 3
+                             Date of Prior Sale/Transfer                              None in prior 3 years                None in prior 1 year                 None in prior 1 year                   None in prior 1 year
+                             Price of Prior Sale/Transfer                             N/A                                  N/A                                  N/A                                    N/A
+                             Data Source(s)                                           MLS #1234567 and XYZ                 MLS #1234567 and XYZ                 MLS #1234567 and XYZ                   MLS #1234567 and XYZ
+                                                                                      County public records; subject       County public records; subject       County public records; subject         County public records; subject
+                                                                                      listed at the contract price;        listed at the contract price;        listed at the contract price;          listed at the contract price;
+ SALE HISTORY
+
+
+
+
+                                                                                      days on market 21                    days on market 21                    days on market 21                      days on market 21
+                             Effective Date of Data Source(s)                         11/02/2024                           11/02/2024                           11/02/2024                             11/02/2024
+                             Analysis of prior sale or transfer history of the subject property and comparable
+                             sales The subject has not transferred in the three years preceding the effective date of this appraisal and none of the comparable sales transferred in the year preceding
+                             their respective sale dates. No transfer history affected the value conclusion.
+                             Summary of Sales Comparison Approach All three closed sales are located in the subject neighborhood, are similar in site, design, quality, age and condition, and required
+                             only minor adjustment for gross living area, market conditions and amenities. Each adjusted sale price indicates the same value conclusion of $620,000.00. Comparable
+                             1 is given the greatest weight for proximity and recency.
+
+                             Indicated Value by Sales Comparison Approach $620,000.00
+                             Indicated Value by: Sales Comparison Approach $ $620,000.00                  Cost Approach (if developed) $ Not Developed                         Income Approach (if developed) $ Not Developed
+                              The sales comparison approach is the most reliable indicator of value for a one-unit owner-occupied dwelling in this market and is supported by three closed sales that
+                             bracket the subject. The cost and income approaches were not developed. Greatest weight is given to the sales comparison approach; the opinion of market value is
+ RECONCILIATION
+
+
+
+
+                             $620,000.00 as of 11/02/2024.
+                             This appraisal is made       "as is"      subject to completion per plans and specifications on the basis of a hypothetical condition that the improvements have been completed
+                                subject to the following repairs or alterations on the basis of a hypothetical condition that the repairs or alterations have been completed
+                                subject to the following required inspection based on the extraordinary assumption that the condition or deficiency does not require alteration or repair
+                             Based on a complete visual inspection of the interior and exterior areas of the subject property, defined scope of work, statement of assumptions and limiting
+                             conditions, and appraiser's certification, my (our) opinion of the market value, as defined, of the real property that is the subject of this report is $620,000.00, as of
+                              11/02/2024, which is the date of inspection and the effective date of this appraisal.
+
+
+
+
+Freddie Mac Form 70 March 2005                                                                             UAD Version 9/2011          Page 2 of 12                                                Fannie Mae Form 1004 March 2005

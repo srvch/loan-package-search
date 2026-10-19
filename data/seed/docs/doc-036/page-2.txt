@@ -1,0 +1,54 @@
+DU Underwriting Findings
+  SUMMARY
+  Recommendation            Approve/Eligible
+  Primary Borrower          John Doe                         Co-Borrower                 Jane Doe
+  Lender Loan Number        1234567890                       Casefile ID                 DU1234567890
+  Submission Date           11/12/2024                       Submitted By                ABC Mortgage
+                                                                                         Company
+  Submission Number         4 of 6                           DU Version                  12.0
+
+  Mortgage Information
+  LTV/CLTV           80.000% / 80.000%                       Loan Type             Conventional /
+                                                                                   Purchase
+  Housing Expense           23.076%                          Representative Credit 762
+  Ratio                                                      Score
+  Debt-to-Income Ratio      34.000%                          Special Feature Codes 210, 127
+
+
+  Property Information
+  Property Address    456 XYZ Avenue, XYZ                    Total Qualifying            $16,987.64
+                      City, NY 12345                         Income
+
+
+
+  RISK/ELIGIBILITY
+  1    The risk profile of this loan casefile appears to meet Fannie Mae's guidelines.
+
+  2    This loan casefile appears to meet Fannie Mae's eligibility requirements. The loan casefile was
+       underwritten as a Conventional / Purchase transaction secured by the property at 456 XYZ
+       Avenue, XYZ City, NY 12345.
+
+  3    The representative credit score used in this evaluation is 762. The lender must obtain a credit
+       report for each borrower and confirm that the score DU used has not changed before the note
+       date. If the representative credit score changes, the loan casefile must be resubmitted to
+       Desktop Underwriter.
+
+  4    This is submission 4 of 6 for this loan casefile (Resubmission). Resubmitted after the
+       appraisal report was attached to the casefile. The recommendation, the representative credit
+       score and every ratio shown on this report are unchanged from the prior submission.
+
+
+  FINDINGS
+  5    The following findings and conditions were returned for this loan casefile and must be
+       satisfied by the lender:
+
+        #    Category                 Finding / Condition
+        1    Income                   The total income amount is supported by the documentation in the file.
+        2    Property / Eligibility   The subject property must be a one-unit principal residence.
+        3    Assets                   Assets verified meet the required funds to close plus reserves.
+
+
+
+
+https://desktopunderwriter.fanniemae.com/Findings/Findings.aspx                                         11/12/2024
+                                                                                                    Page 2 of 3
